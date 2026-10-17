@@ -1,0 +1,23 @@
+# Build output
+*.exe
+*.pdb
+bin/
+obj/
+
+# Game data: never commit (not redistributable)
+*.cab
+*.ca2
+*.carbin
+*.xpr
+*.xwb
+*.livery
+*.xbe
+
+# Extraction output
+*_extracted/
+*.manifest.csv
+*.zip
+
+# Python
+__pycache__/
+*.pyc
