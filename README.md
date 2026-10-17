@@ -50,8 +50,8 @@ An error stops the tool before a wrong file is written. When a format rule is br
 
 A `.ca2` is a whole CAB split into 4 MiB pieces, each one a zlib stream that starts on a 2048-byte boundary.
 
-The full notes (in Italian) are in
-[forza_fm1_cab_reverse_engineering.md](forza_fm1_cab_reverse_engineering.md), with the open points.
+The full notes, with the open points, are in
+[forza_fm1_cab_reverse_engineering.md](forza_fm1_cab_reverse_engineering.md).
 
 ## Open points
 
