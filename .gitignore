@@ -13,6 +13,21 @@ obj/
 *.livery
 *.xbe
 
+*.xds
+*.png
+*.jpg
+
+# Research folders holding extracted game files
+Fm1_Fm2/mega/
+Fm1_Fm2/fm1/
+Fm1_Fm2/fm1b/
+Fm1_Fm2/fm2/
+Fm1_Fm2/obj/
+*.obj
+*.mtl
+Fm1_Fm2/FM1_ReverseEngineering_Pack/samples/
+Fm1_Fm2/FM1_ReverseEngineering_Pack/results/
+
 # Extraction output
 *_extracted/
 *.manifest.csv

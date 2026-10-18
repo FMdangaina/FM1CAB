@@ -1,0 +1,384 @@
+﻿  0000000 Car v3 size 1155964
+    000000C Attribs v1 size 72
+    0000054 Driver v1 size 75
+    00000A3 Part v3 size 7670
+      00000C6 Verts v0 size 5538
+      0001668 Damage v0 size 19
+      000167B Pivots v0 size 107
+      00016E6 Attributes v0 size 31
+      0001709 Subpart v2 x4 (leaf run)
+    0001E99 Part v3 size 8752
+      0001EBC Verts v0 size 5718
+      0003512 Damage v0 size 19
+      0003525 Pivots v0 size 107
+      0003590 Attributes v0 size 31
+      00035B3 Subpart v2 x4 (leaf run)
+    00040C9 Part v3 size 7792
+      00040EC Verts v0 size 5178
+      0005526 Damage v0 size 19
+      0005539 Pivots v0 size 107
+      00055A4 Attributes v0 size 31
+      00055C7 Subpart v2 x4 (leaf run)
+    0005F39 Part v3 size 8288
+      0005F58 Verts v0 size 4158
+      0006F96 Damage v0 size 2503
+      000795D Pivots v0 size 107
+      00079C8 Attributes v0 size 31
+      00079EB Subpart v2 x4 (leaf run)
+    0007F99 Part v3 size 17930
+      0007FBE Verts v0 size 8378
+      000A078 Damage v0 size 5035
+      000B423 Pivots v0 size 107
+      000B48E Attributes v0 size 31
+      000B4B1 Subpart v2 x4 (leaf run)
+    000C5A3 Part v3 size 11846
+      000C5C8 Verts v0 size 5778
+      000DC5A Damage v0 size 3475
+      000E9ED Pivots v0 size 107
+      000EA58 Attributes v0 size 31
+      000EA7B Subpart v2 x4 (leaf run)
+    000F3E9 Part v3 size 23166
+      000F408 Verts v0 size 11158
+      0011F9E Damage v0 size 6703
+      00139CD Pivots v0 size 107
+      0013A38 Attributes v0 size 31
+      0013A5B Subpart v2 x4 (leaf run)
+    0014E67 Part v3 size 8811
+      0014E89 Verts v0 size 4258
+      0015F2B Damage v0 size 2563
+      001692E Pivots v0 size 107
+      0016999 Attributes v0 size 31
+      00169BC Subpart v2 x12 (leaf run)
+    00170D2 Part v3 size 8811
+      00170F4 Verts v0 size 4258
+      0018196 Damage v0 size 2563
+      0018B99 Pivots v0 size 107
+      0018C04 Attributes v0 size 31
+      0018C27 Subpart v2 x12 (leaf run)
+    001933D Part v3 size 8927
+      001935F Verts v0 size 4318
+      001A43D Damage v0 size 2599
+      001AE64 Pivots v0 size 107
+      001AECF Attributes v0 size 31
+      001AEF2 Subpart v2 x12 (leaf run)
+    001B61C Part v3 size 8927
+      001B63E Verts v0 size 4318
+      001C71C Damage v0 size 2599
+      001D143 Pivots v0 size 107
+      001D1AE Attributes v0 size 31
+      001D1D1 Subpart v2 x12 (leaf run)
+    001D8FB Part v3 size 8771
+      001D91D Verts v0 size 4218
+      001E997 Damage v0 size 2539
+      001F382 Pivots v0 size 107
+      001F3ED Attributes v0 size 31
+      001F410 Subpart v2 x12 (leaf run)
+    001FB3E Part v3 size 41145
+      001FB60 Verts v0 size 19918
+      002492E Damage v0 size 11959
+      00277E5 Pivots v0 size 107
+      0027850 Attributes v0 size 31
+      0027873 Subpart v2 x16 (leaf run)
+    0029BF7 Part v3 size 30369
+      0029C19 Verts v0 size 15178
+      002D763 Damage v0 size 9115
+      002FAFE Pivots v0 size 107
+      002FB69 Attributes v0 size 31
+      002FB8C Subpart v2 x8 (leaf run)
+    0031298 Part v3 size 25157
+      00312BA Verts v0 size 12378
+      0034314 Damage v0 size 7435
+      003601F Pivots v0 size 107
+      003608A Attributes v0 size 31
+      00360AD Subpart v2 x8 (leaf run)
+    00374DD Part v3 size 25645
+      00374FF Verts v0 size 12218
+      003A4B9 Damage v0 size 7339
+      003C164 Pivots v0 size 107
+      003C1CF Attributes v0 size 31
+      003C1F2 Subpart v2 x12 (leaf run)
+    003D90A Part v3 size 38861
+      003D92C Verts v0 size 19758
+      004265A Damage v0 size 11863
+      00454B1 Pivots v0 size 107
+      004551C Attributes v0 size 31
+      004553F Subpart v2 x8 (leaf run)
+    00470D7 Part v3 size 24728
+      00470F6 Verts v0 size 11738
+      0049ED0 Damage v0 size 7051
+      004BA5B Pivots v0 size 107
+      004BAC6 Attributes v0 size 31
+      004BAE9 Subpart v2 x4 (leaf run)
+    004D16F Part v3 size 8162
+      004D192 Verts v0 size 3958
+      004E108 Damage v0 size 2383
+      004EA57 Pivots v0 size 107
+      004EAC2 Attributes v0 size 31
+      004EAE5 Subpart v2 x4 (leaf run)
+    004F151 Part v3 size 5870
+      004F174 Verts v0 size 2758
+      004FC3A Damage v0 size 1663
+      00502B9 Pivots v0 size 107
+      0050324 Attributes v0 size 31
+      0050347 Subpart v2 x4 (leaf run)
+    005083F Part v3 size 6098
+      0050862 Verts v0 size 2838
+      0051378 Damage v0 size 1711
+      0051A27 Pivots v0 size 107
+      0051A92 Attributes v0 size 31
+      0051AB5 Subpart v2 x4 (leaf run)
+    0052011 Part v3 size 6394
+      0052034 Verts v0 size 2978
+      0052BD6 Damage v0 size 1795
+      00532D9 Pivots v0 size 107
+      0053344 Attributes v0 size 31
+      0053367 Subpart v2 x4 (leaf run)
+    005390B Part v3 size 42916
+      0053930 Verts v0 size 21078
+      0058B86 Damage v0 size 12655
+      005BCF5 Pivots v0 size 107
+      005BD60 Attributes v0 size 31
+      005BD83 Subpart v2 x22 (leaf run)
+    005E0AF Part v3 size 23118
+      005E0CE Verts v0 size 11698
+      0060E80 Damage v0 size 7027
+      00629F3 Pivots v0 size 107
+      0062A5E Attributes v0 size 31
+      0062A81 Subpart v2 x14 (leaf run)
+    0063AFD Part v3 size 1569
+      0063B1D Verts v0 size 938
+      0063EC7 Damage v0 size 19
+      0063EDA Pivots v0 size 19
+      0063EED Attributes v0 size 31
+      0063F10 Subpart v2 x4 (leaf run)
+    006411E Part v3 size 1359
+      006413C Verts v0 size 1058
+      006455E Damage v0 size 19
+      0064571 Pivots v0 size 19
+      0064584 Attributes v0 size 31
+      00645A7 Subpart v2 size 198
+    006466D Part v3 size 1359
+      006468B Verts v0 size 1058
+      0064AAD Damage v0 size 19
+      0064AC0 Pivots v0 size 19
+      0064AD3 Attributes v0 size 31
+      0064AF6 Subpart v2 size 198
+    0064BBC Part v3 size 1914
+      0064BDD Verts v0 size 1038
+      0064FEB Damage v0 size 19
+      0064FFE Pivots v0 size 19
+      0065011 Attributes v0 size 31
+      0065034 Subpart v2 x8 (leaf run)
+    0065336 Part v3 size 1912
+      0065357 Verts v0 size 1038
+      0065765 Damage v0 size 19
+      0065778 Pivots v0 size 19
+      006578B Attributes v0 size 31
+      00657AE Subpart v2 x8 (leaf run)
+    0065AAE Part v3 size 37591
+      0065AD0 Verts v0 size 19538
+      006A722 Damage v0 size 11731
+      006D4F5 Pivots v0 size 19
+      006D508 Attributes v0 size 31
+      006D52B Subpart v2 x6 (leaf run)
+    006ED85 Part v3 size 4563
+      006EDA9 Verts v0 size 3798
+      006FC7F Damage v0 size 19
+      006FC92 Pivots v0 size 19
+      006FCA5 Attributes v0 size 31
+      006FCC8 Subpart v2 size 656
+    006FF58 Part v3 size 10001
+      006FF7A Verts v0 size 7618
+      0071D3C Damage v0 size 19
+      0071D4F Pivots v0 size 19
+      0071D62 Attributes v0 size 31
+      0071D85 Subpart v2 x4 (leaf run)
+    0072669 Part v3 size 978
+      007268A Verts v0 size 518
+      0072890 Damage v0 size 19
+      00728A3 Pivots v0 size 19
+      00728B6 Attributes v0 size 31
+      00728D9 Subpart v2 x4 (leaf run)
+    0072A3B Part v3 size 984
+      0072A5C Verts v0 size 518
+      0072C62 Damage v0 size 19
+      0072C75 Pivots v0 size 19
+      0072C88 Attributes v0 size 31
+      0072CAB Subpart v2 x4 (leaf run)
+    0072E13 Part v3 size 254
+      0072E2E Verts v0 size 98
+      0072E90 Damage v0 size 19
+      0072EA3 Pivots v0 size 19
+      0072EB6 Attributes v0 size 31
+      0072ED9 Subpart v2 size 56
+    0072F11 Part v3 size 13712
+      0072F32 Verts v0 size 6758
+      0074998 Damage v0 size 4063
+      0075977 Pivots v0 size 107
+      00759E2 Attributes v0 size 31
+      0075A05 Subpart v2 x8 (leaf run)
+    00764A1 Part v3 size 13590
+      00764C2 Verts v0 size 6738
+      0077F14 Damage v0 size 4051
+      0078EE7 Pivots v0 size 107
+      0078F52 Attributes v0 size 31
+      0078F75 Subpart v2 x7 (leaf run)
+    00799B7 Part v3 size 199981
+      00799D5 Verts v0 size 102698
+      0092AFF Damage v0 size 61627
+      00A1BBA Pivots v0 size 19
+      00A1BCD Attributes v0 size 31
+      00A1BF0 Subpart v2 x48 (leaf run)
+    00AA6E4 Part v3 size 8202
+      00AA705 Verts v0 size 3938
+      00AB667 Damage v0 size 2371
+      00ABFAA Pivots v0 size 107
+      00AC015 Attributes v0 size 31
+      00AC038 Subpart v2 x11 (leaf run)
+    00AC6EE Part v3 size 8204
+      00AC70F Verts v0 size 3938
+      00AD671 Damage v0 size 2371
+      00ADFB4 Pivots v0 size 107
+      00AE01F Attributes v0 size 31
+      00AE042 Subpart v2 x12 (leaf run)
+    00AE6FA Part v3 size 5680
+      00AE71B Verts v0 size 2658
+      00AF17D Damage v0 size 1603
+      00AF7C0 Pivots v0 size 107
+      00AF82B Attributes v0 size 31
+      00AF84E Subpart v2 x12 (leaf run)
+    00AFD2A Part v3 size 5614
+      00AFD4B Verts v0 size 2618
+      00B0785 Damage v0 size 1579
+      00B0DB0 Pivots v0 size 107
+      00B0E1B Attributes v0 size 31
+      00B0E3E Subpart v2 x12 (leaf run)
+    00B1318 Part v3 size 8074
+      00B1339 Verts v0 size 3778
+      00B21FB Damage v0 size 2275
+      00B2ADE Pivots v0 size 107
+      00B2B49 Attributes v0 size 31
+      00B2B6C Subpart v2 x8 (leaf run)
+    00B32A2 Part v3 size 7878
+      00B32C3 Verts v0 size 3698
+      00B4135 Damage v0 size 2227
+      00B49E8 Pivots v0 size 107
+      00B4A53 Attributes v0 size 31
+      00B4A76 Subpart v2 x8 (leaf run)
+    00B5168 Part v3 size 4110
+      00B518B Verts v0 size 3198
+      00B5E09 Damage v0 size 19
+      00B5E1C Pivots v0 size 19
+      00B5E2F Attributes v0 size 31
+      00B5E52 Subpart v2 size 804
+    00B6176 Part v3 size 1379
+      00B6196 Verts v0 size 778
+      00B64A0 Damage v0 size 19
+      00B64B3 Pivots v0 size 19
+      00B64C6 Attributes v0 size 31
+      00B64E9 Subpart v2 x4 (leaf run)
+    00B66D9 Part v3 size 8850
+      00B66FA Verts v0 size 4198
+      00B7760 Damage v0 size 2527
+      00B813F Pivots v0 size 107
+      00B81AA Attributes v0 size 31
+      00B81CD Subpart v2 x9 (leaf run)
+    00B896B Part v3 size 8796
+      00B898C Verts v0 size 4158
+      00B99CA Damage v0 size 2503
+      00BA391 Pivots v0 size 107
+      00BA3FC Attributes v0 size 31
+      00BA41F Subpart v2 x9 (leaf run)
+    00BABC7 Part v3 size 1359
+      00BABE5 Verts v0 size 1058
+      00BB007 Damage v0 size 19
+      00BB01A Pivots v0 size 19
+      00BB02D Attributes v0 size 31
+      00BB050 Subpart v2 size 198
+    00BB116 Part v3 size 1359
+      00BB134 Verts v0 size 1058
+      00BB556 Damage v0 size 19
+      00BB569 Pivots v0 size 19
+      00BB57C Attributes v0 size 31
+      00BB59F Subpart v2 size 198
+    00BB665 Part v3 size 10501
+      00BB683 Verts v0 size 5078
+      00BCA59 Damage v0 size 3055
+      00BD648 Pivots v0 size 107
+      00BD6B3 Attributes v0 size 31
+      00BD6D6 Subpart v2 x8 (leaf run)
+    00BDF6A Part v3 size 1993
+      00BDF92 Verts v0 size 758
+      00BE288 Damage v0 size 463
+      00BE457 Pivots v0 size 19
+      00BE46A Attributes v0 size 31
+      00BE48D Subpart v2 x8 (leaf run)
+    00BE733 Part v3 size 1995
+      00BE75B Verts v0 size 758
+      00BEA51 Damage v0 size 463
+      00BEC20 Pivots v0 size 19
+      00BEC33 Attributes v0 size 31
+      00BEC56 Subpart v2 x8 (leaf run)
+    00BEEFE Part v3 size 60291
+      00BEF20 Verts v0 size 30618
+      00C66BA Damage v0 size 18379
+      00CAE85 Pivots v0 size 107
+      00CAEF0 Attributes v0 size 31
+      00CAF13 Subpart v2 x24 (leaf run)
+    00CDA81 Part v3 size 57747
+      00CDAA3 Verts v0 size 29118
+      00D4C61 Damage v0 size 17479
+      00D90A8 Pivots v0 size 107
+      00D9113 Attributes v0 size 31
+      00D9136 Subpart v2 x16 (leaf run)
+    00DBC14 Part v3 size 8151
+      00DBC3A Verts v0 size 4118
+      00DCC50 Damage v0 size 2479
+      00DD5FF Pivots v0 size 19
+      00DD612 Attributes v0 size 31
+      00DD635 Subpart v2 x9 (leaf run)
+    00DDBEB Part v3 size 8335
+      00DDC11 Verts v0 size 4258
+      00DECB3 Damage v0 size 2563
+      00DF6B6 Pivots v0 size 19
+      00DF6C9 Attributes v0 size 31
+      00DF6EC Subpart v2 x9 (leaf run)
+    00DFC7A Part v3 size 38703
+      00DFC9C Verts v0 size 19358
+      00E483A Damage v0 size 11623
+      00E75A1 Pivots v0 size 107
+      00E760C Attributes v0 size 31
+      00E762F Subpart v2 x16 (leaf run)
+    00E93A9 Part v3 size 67009
+      00E93CB Verts v0 size 33578
+      00F16F5 Damage v0 size 20155
+      00F65B0 Pivots v0 size 107
+      00F661B Attributes v0 size 31
+      00F663E Subpart v2 x16 (leaf run)
+    00F996A Part v3 size 75970
+      00F998F Verts v0 size 36638
+      01028AD Damage v0 size 21991
+      0107E94 Pivots v0 size 107
+      0107EFF Attributes v0 size 31
+      0107F22 Subpart v2 x26 (leaf run)
+    010C22C Part v3 size 43593
+      010C24E Verts v0 size 21018
+      0111468 Damage v0 size 12619
+      01145B3 Pivots v0 size 107
+      011461E Attributes v0 size 31
+      0114641 Subpart v2 x20 (leaf run)
+    0116C75 Flare v0 size 50
+    0116CA7 Flare v0 size 50
+    0116CD9 Line v1 x67 (leaf run)
+--- chunk names ---
+     1 Attribs v1
+    61 Attributes v0
+     1 Car v3
+    61 Damage v0
+     1 Driver v1
+     2 Flare v0
+    67 Line v1
+    61 Part v3
+    61 Pivots v0
+   549 Subpart v2
+    61 Verts v0

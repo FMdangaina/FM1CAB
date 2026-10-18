@@ -1,0 +1,1419 @@
+﻿Car v3 size 1155964 (file 1155964)
+Attribs v1: 01000000 05000000 a67e36bf aa13203e 2883b03f a67e363f 0213203e 2883b03f 855f363f 0213203e 8fc79bbf 855f36bf 0213203e 8fc79bbf
+   floats: -0.71287 0.15633 1.379 0.71287 0.15632 1.379 0.7124 0.15632 -1.21703 -0.7124 0.15632 -1.21703
+Driver v1: 562bcbbe d027823e 3f2266bd f4fd10bf fef1263f 2f17993e 570966be fef1263f 2f17993e 00000080 af25fac0 9c33c041 2462cabe a9de223f 77898a3e
+   floats: -0.39682 0.25421 -0.05619 -0.56638 0.65213 0.29901 -0.22465 0.65213 0.29901 0 -7.8171 24.0252 -0.39528 0.63621 0.27058
+parts: 61
+
+[0] 0000A3 'wingraceA_LOD1' head 01dbbbbb  verts 276 x20  damage 0 x0  subparts 4  size 7670
+   vert s16 bounds x -4339..4339 y 5029..6856 z -14964..-13109
+   v0: 0def3f15 8cc50280 00000000 978b0000 ed5a9b79
+   v1: 0def3f15 8cc50000 01800000 22130000 ed5a9b79
+   v2: 0def3f15 8cc50000 00000180 99990000 ed5a9b79
+   v3: 0def3f15 75cb0280 00000000 92720000 6b499b79
+   pivots: 01000000 00000080 1557453f 9d11f1bf 0000...
+      f: 0 0.77086 -1.88335 1 0 0 0 0 1 0 1 0 0 0 0 0 0 0 130 130 2 2
+   attributes: 1 0.2 0.2
+   sub0: a 1 b 19 prim 6 idx 350 [0..227] restarts 0  q 0 0 0 0
+   sub1: a 2 b 19 prim 6 idx 174 [0..275] restarts 0  q 11 16 228 51
+   sub2: a 3 b 19 prim 6 idx 174 [0..275] restarts 0  q 167772263 3277224 3277224 97
+   sub3: a 4 b 19 prim 6 idx 174 [0..275] restarts 0  q 11 16 228 51
+
+[1] 001E99 'wingraceB_LOD1' head 01dbbebb  verts 285 x20  damage 0 x0  subparts 4  size 8752
+   vert s16 bounds x -4339..4339 y 5029..6849 z -14869..-12947
+   v0: 0defe616 eacb0280 00000000 95800000 9b4a2a75
+   v1: 0defe616 eacb0000 928001f4 24130000 9b4a2a75
+   v2: 0defec16 3fcc0280 00000000 99810000 b3491a75
+   v3: 0defec16 3fcc0000 cf84bd22 1f1d0000 b3491a75
+   pivots: 01000000 00000080 1557453f 9d11f1bf 0000...
+      f: 0 0.77086 -1.88335 1 0 0 0 0 1 0 1 0 0 0 0 0 0 0 130 130 2 2
+   attributes: 1 0.2 0.2
+   sub0: a 1 b 19 prim 6 idx 402 [0..256] restarts 0  q 0 0 0 0
+   sub1: a 2 b 19 prim 6 idx 307 [0..284] restarts 0  q 169672840 3277232 964964024 -1073935726
+   sub2: a 3 b 19 prim 6 idx 307 [0..284] restarts 0  q 21 63 46 11
+   sub3: a 4 b 19 prim 6 idx 307 [0..284] restarts 0  q 167772292 967321344 3277216 137
+
+[2] 0040C9 'wingraceC_LOD1' head 01dbc1bb  verts 258 x20  damage 0 x0  subparts 4  size 7792
+   vert s16 bounds x -4339..4339 y 5029..6734 z -14555..-13212
+   v0: 0def9817 25c70180 00000000 9c900000 31559871
+   v1: 0def9817 25c70000 02800000 27190000 31559871
+   v2: 0def9817 25c70000 00000280 9c9c0000 31559871
+   v3: 0def9817 0ccb0180 00000000 98840000 29499871
+   pivots: 01000000 00000080 1557453f 9d11f1bf 0000...
+      f: 0 0.77086 -1.88335 1 0 0 0 0 1 0 1 0 0 0 0 0 0 0 130 130 2 2
+   attributes: 1 0.2 0.2
+   sub0: a 1 b 19 prim 6 idx 384 [0..231] restarts 0  q 0 0 0 0
+   sub1: a 2 b 19 prim 6 idx 243 [0..257] restarts 0  q 167772414 3277200 3277200 207
+   sub2: a 3 b 19 prim 6 idx 243 [0..257] restarts 0  q 252 268 266 273
+   sub3: a 4 b 19 prim 6 idx 243 [0..257] restarts 0  q 49 17 17 14
+
+[3] 005F39 'winge_LOD1' head 012bb333  verts 207 x20  damage 207 x12  subparts 4  size 8288
+   vert s16 bounds x -4627..4627 y 4880..5723 z -14987..-11965
+   v0: ededa013 10cb6e80 f9feaaf5 8f700000 6d433d5f
+   v1: f4edb613 0dcb81b7 7b69d600 e2e10000 2b3c035d
+   v2: f4edb613 0dcb81b7 7b69d600 e1e10000 6d433d5f
+   v3: f5ed1e13 1acbe381 96eb30f8 86540000 6d433d5f
+   d0: ededa013 10cb7080 f6fe93f5
+   d1: f4edb613 0dcbeeb7 c569d300
+   d2: f4edb613 0dcbeeb7 c569d300
+   pivots: 01000000 00000080 1557453f 9d11f1bf 0000...
+      f: 0 0.77086 -1.88335 1 0 0 0 0 1 0 1 0 0 0 0 0 0 0 130 130 2 2
+   attributes: 1 0.2 0.2
+   sub0: a 1 b 1 prim 6 idx 266 [0..180] restarts 0  q 0 0 0 0
+   sub1: a 4 b 1 prim 6 idx 54 [1..192] restarts 0  q 186 187 187 188
+   sub2: a 2 b 1 prim 6 idx 184 [0..180] restarts 0  q 147 165 165 170
+   sub3: a 3 b 1 prim 6 idx 127 [1..206] restarts 0  q 147 165 165 170
+
+[4] 007F99 'wingcentera_LOD1' head 013b5120  verts 418 x20  damage 418 x12  subparts 4  size 17930
+   vert s16 bounds x -4401..4401 y 4869..5586 z -14446..-12333
+   v0: cfeebf14 aac9b681 0b09c012 967b0000 6d433d5f
+   v1: cfeebf14 aac9eee8 46b88898 683b0000 6d433d5f
+   v2: d1eed414 a9c9df81 e70b3c12 957a0000 6d433d5f
+   v3: d1eed414 a9c990d1 2b77fafa f6f50000 ec3e5d5b
+   d0: 51eff014 aac9e280 8206780d
+   d1: 51eff014 aac9c7ec beb18f9c
+   d2: 52ef0515 a9c9b680 e6080c0a
+   pivots: 01000000 00000080 1557453f 9d11f1bf 0000...
+      f: 0 0.77086 -1.88335 1 0 0 0 0 1 0 1 0 0 0 0 0 0 0 130 130 2 2
+   attributes: 1 0.2 0.2
+   sub0: a 1 b 1 prim 6 idx 783 [0..397] restarts 0  q 0 0 0 0
+   sub1: a 4 b 1 prim 6 idx 97 [2..416] restarts 0  q 400 401 293 333
+   sub2: a 3 b 1 prim 6 idx 592 [0..397] restarts 0  q 264 261 261 285
+   sub3: a 2 b 1 prim 6 idx 601 [0..417] restarts 0  q 176160768 3277216 3277216 -1073446965
+
+[5] 00C5A3 'wingcenterb_LOD1' head 013b5420  verts 288 x20  damage 288 x12  subparts 4  size 11846
+   vert s16 bounds x -4399..4399 y 4869..5690 z -14423..-12337
+   v0: d1eec415 b7c9b281 da042914 957c0000 6d433d5f
+   v1: d1eec415 b7c959df 5ed5d18b 84720000 2a3f8a5b
+   v2: d1eec415 b7c959df 5ed5d18b 7c6c0000 6d433d5f
+   v3: d5eee315 cdc9b281 db042914 91760000 6d433d5f
+   d0: d1eedc15 b0c90680 6e00f601
+   d1: d1eedc15 b0c994ac e5d9b8a6
+   d2: d1eedc15 b0c994ac e5d9b8a6
+   pivots: 01000000 00000080 1557453f 9d11f1bf 0000...
+      f: 0 0.77086 -1.88335 1 0 0 0 0 1 0 1 0 0 0 0 0 0 0 130 130 2 2
+   attributes: 1 0.2 0.2
+   sub0: a 1 b 1 prim 6 idx 472 [0..262] restarts 0  q 0 0 0 0
+   sub1: a 4 b 1 prim 6 idx 58 [4..271] restarts 0  q 167772160 3277232 966521256 -1078159391
+   sub2: a 2 b 1 prim 6 idx 323 [0..262] restarts 0  q 184 154 154 157
+   sub3: a 3 b 1 prim 6 idx 258 [0..287] restarts 0  q 157 139 3 20
+
+[6] 00F3E9 'wingc_LOD1' head 012bad33  verts 557 x20  damage 557 x12  subparts 4  size 23166
+   vert s16 bounds x -5268..5268 y 4672..6580 z -14445..-10623
+   v0: 6ceb8312 50d6b48a dccd7a0a 743a0000 3a38dc5c
+   v1: 6ceb8312 50d6b48a dccd7a0a 79430000 6d433a5f
+   v2: 71eba712 26d60e88 122caff8 a2a20000 5138d95c
+   v3: 71eba712 5bd6f4b6 d055ae3c bda30000 3738d95c
+   d0: 7fea4013 50d61280 9801be03
+   d1: 7fea4013 50d61280 9801be03
+   d2: 89ea6013 26d6b58c 3b37b5f9
+   pivots: 01000000 00000080 1557453f 9d11f1bf 0000...
+      f: 0 0.77086 -1.88335 1 0 0 0 0 1 0 1 0 0 0 0 0 0 0 130 130 2 2
+   attributes: 1 0.2 0.2
+   sub0: a 1 b 1 prim 6 idx 960 [0..496] restarts 0  q 0 0 0 0
+   sub1: a 3 b 1 prim 6 idx 610 [0..526] restarts 0  q 184 183 246 259
+   sub2: a 4 b 1 prim 6 idx 108 [1..555] restarts 0  q 189 206 208 240
+   sub3: a 2 b 1 prim 6 idx 792 [0..556] restarts 0  q 371 368 368 382
+
+[7] 014E67 'exhauste_LOD1' head 01fc6be8  verts 212 x20  damage 212 x12  subparts 12  size 8811
+   vert s16 bounds x -3609..-2024 y 449..1325 z -14165..-10878
+   v0: e7f13d03 82d523d8 3876951c 82610000 fb32f01c
+   v1: e7f13d03 82d51600 55fffe7f 42270000 fb32f01c
+   v2: 25f2dd03 4acc4182 d6175dfe 6a680000 e731e61c
+   v3: 25f2dd03 4acc9902 54f93580 67510000 61495216
+   d0: fff1ad02 82d5e7c3 846f4e12
+   d1: fff1ad02 82d52f00 6efffe7f
+   d2: 1ef27702 45cc0480 ffff54fe
+   pivots: 01000000 f515dcbe bf4dff3d 2080d4bf 0000...
+      f: -0.42986 0.12466 -1.66016 1 0 0 0 0 1 0 1 0 -0.21 0 0 -0.06 0 0 190 190 2 2
+   attributes: 1 0.2 1
+   sub0: a 1 b 7 prim 6 idx 173 [16..193] restarts 0  q 0 0 0 0
+   sub1: a 1 b 9 prim 6 idx 54 [21..186] restarts 0  q 0 0 0 0
+   sub2: a 1 b 15 prim 6 idx 4 [1..200] restarts 0  q 0 0 0 0
+   sub3: a 1 b 18 prim 6 idx 52 [0..205] restarts 0  q 0 0 0 0
+   sub4: a 2 b 7 prim 6 idx 111 [16..207] restarts 0  q 85 64 160 174
+   sub5: a 2 b 9 prim 6 idx 54 [21..186] restarts 0  q 0 40 190 154
+   sub6: a 2 b 15 prim 6 idx 4 [1..200] restarts 0  q 41 7 15 4
+   sub7: a 2 b 18 prim 6 idx 38 [0..205] restarts 0  q 3 2 6 0
+   sub8: a 3 b 7 prim 6 idx 71 [22..211] restarts 0  q 68 36 22 2752518
+   sub9: a 3 b 9 prim 6 idx 30 [21..176] restarts 0  q 10 4 4 6
+   sub10: a 3 b 15 prim 6 idx 4 [1..200] restarts 0  q 179 157 91 67
+   sub11: a 3 b 18 prim 6 idx 24 [0..203] restarts 0  q 139 117 111 111
+
+[8] 0170D2 'exhaustc_LOD1' head 01fc65e8  verts 212 x20  damage 212 x12  subparts 12  size 8811
+   vert s16 bounds x -3609..-2024 y 449..1325 z -14165..-10878
+   v0: e7f13d03 82d523d8 3876951c 805f0000 fb32f01c
+   v1: e7f13d03 82d51600 55fffe7f 40240000 fb32f01c
+   v2: 25f2dd03 4acc4182 d6175dfe 69680000 e731e61c
+   v3: 25f2dd03 4acc9902 54f93580 6c560000 61495216
+   d0: fff1ad02 82d5e7c3 846f4e12
+   d1: fff1ad02 82d52f00 6efffe7f
+   d2: 1ef27702 45cc0480 ffff54fe
+   pivots: 01000000 f515dcbe bf4dff3d 2080d4bf 0000...
+      f: -0.42986 0.12466 -1.66016 1 0 0 0 0 1 0 1 0 -0.21 0 0 -0.06 0 0 190 190 2 2
+   attributes: 1 0.2 1
+   sub0: a 1 b 7 prim 6 idx 173 [16..193] restarts 0  q 0 0 0 0
+   sub1: a 1 b 9 prim 6 idx 54 [21..186] restarts 0  q 0 0 0 0
+   sub2: a 1 b 15 prim 6 idx 4 [1..200] restarts 0  q 0 0 0 0
+   sub3: a 1 b 18 prim 6 idx 52 [0..205] restarts 0  q 0 0 0 0
+   sub4: a 3 b 7 prim 6 idx 71 [22..209] restarts 0  q 10 4 4 6
+   sub5: a 3 b 9 prim 6 idx 30 [21..176] restarts 0  q 31 64 108 118
+   sub6: a 3 b 15 prim 6 idx 4 [1..200] restarts 0  q 184484031 3277256 3277256 -1151036524
+   sub7: a 3 b 18 prim 6 idx 24 [0..203] restarts 0  q -1 0 1065353216 -1096928104
+   sub8: a 2 b 7 prim 6 idx 111 [16..211] restarts 0  q 52 44 82 589826
+   sub9: a 2 b 9 prim 6 idx 54 [21..186] restarts 0  q 1041754719 1074591108 0 0
+   sub10: a 2 b 15 prim 6 idx 4 [1..200] restarts 0  q 1065353216 1065353216 0 0
+   sub11: a 2 b 18 prim 6 idx 38 [0..205] restarts 0  q 3277176 5 5 272
+
+[9] 01933D 'exhaustb_LOD1' head 01fc62e8  verts 215 x20  damage 215 x12  subparts 12  size 8927
+   vert s16 bounds x -3609..-2024 y 449..1325 z -14165..-10878
+   v0: e7f13d03 82d523d8 3876951c 80620000 fb32f01c
+   v1: e7f13d03 82d51600 55fffe7f 3e210000 fb32f01c
+   v2: 25f2dd03 4acc4182 d6175dfe 6e6d0000 e731e61c
+   v3: 25f2dd03 4acc9902 54f93580 6b540000 61495216
+   d0: fff1ad02 82d5e7c3 846f4e12
+   d1: fff1ad02 82d52f00 6efffe7f
+   d2: 1ef27702 45cc0480 ffff54fe
+   pivots: 01000000 f515dcbe bf4dff3d 2080d4bf 0000...
+      f: -0.42986 0.12466 -1.66016 1 0 0 0 0 1 0 1 0 -0.21 0 0 -0.06 0 0 190 190 2 2
+   attributes: 1 0.2 1
+   sub0: a 1 b 7 prim 6 idx 173 [16..193] restarts 0  q 0 0 0 0
+   sub1: a 1 b 9 prim 6 idx 54 [21..186] restarts 0  q 0 0 0 0
+   sub2: a 1 b 15 prim 6 idx 4 [1..200] restarts 0  q 0 0 0 0
+   sub3: a 1 b 18 prim 6 idx 52 [0..205] restarts 0  q 0 0 0 0
+   sub4: a 2 b 7 prim 6 idx 111 [16..207] restarts 0  q 0 0 0 0
+   sub5: a 2 b 9 prim 6 idx 54 [21..186] restarts 0  q 1041178926 -1073672009 1012307415 -1117951603
+   sub6: a 2 b 15 prim 6 idx 4 [1..200] restarts 0  q 0 1057553237 1057667658 1073697155
+   sub7: a 2 b 18 prim 6 idx 38 [0..205] restarts 0  q 1065353216 1065353216 0 1053273620
+   sub8: a 3 b 7 prim 6 idx 74 [22..214] restarts 0  q 10 4 4 6
+   sub9: a 3 b 9 prim 6 idx 34 [21..186] restarts 0  q 167772325 3277256 3277256 189
+   sub10: a 3 b 15 prim 6 idx 4 [1..200] restarts 0  q 83 23 69 83
+   sub11: a 3 b 18 prim 6 idx 27 [0..203] restarts 0  q 31 64 108 118
+
+[10] 01B61C 'exhaustd_LOD1' head 01fc68e8  verts 215 x20  damage 215 x12  subparts 12  size 8927
+   vert s16 bounds x -3609..-2024 y 449..1325 z -14165..-10878
+   v0: e7f13d03 82d523d8 3876951c 89690000 fb32f01c
+   v1: e7f13d03 82d51600 55fffe7f 43270000 fb32f01c
+   v2: 25f2dd03 4acc4182 d6175dfe 66650000 e731e61c
+   v3: 25f2dd03 4acc9902 54f93580 67530000 61495216
+   d0: fff1ad02 82d5e7c3 846f4e12
+   d1: fff1ad02 82d52f00 6efffe7f
+   d2: 1ef27702 45cc0480 ffff54fe
+   pivots: 01000000 f515dcbe bf4dff3d 2080d4bf 0000...
+      f: -0.42986 0.12466 -1.66016 1 0 0 0 0 1 0 1 0 -0.21 0 0 -0.06 0 0 190 190 2 2
+   attributes: 1 0.2 1
+   sub0: a 1 b 7 prim 6 idx 173 [16..193] restarts 0  q 0 0 0 0
+   sub1: a 1 b 9 prim 6 idx 54 [21..186] restarts 0  q 0 0 0 0
+   sub2: a 1 b 15 prim 6 idx 4 [1..200] restarts 0  q 0 0 0 0
+   sub3: a 1 b 18 prim 6 idx 52 [0..205] restarts 0  q 0 0 0 0
+   sub4: a 2 b 7 prim 6 idx 111 [16..207] restarts 0  q 73 64 97 589841
+   sub5: a 2 b 9 prim 6 idx 54 [21..186] restarts 0  q 97 87 64 108
+   sub6: a 2 b 15 prim 6 idx 4 [1..200] restarts 0  q 0 40 190 154
+   sub7: a 2 b 18 prim 6 idx 38 [0..205] restarts 0  q 41 7 15 4
+   sub8: a 3 b 7 prim 6 idx 74 [22..214] restarts 0  q 10 4 4 589828
+   sub9: a 3 b 9 prim 6 idx 34 [21..186] restarts 0  q 189 207 175 175
+   sub10: a 3 b 15 prim 6 idx 4 [1..200] restarts 0  q 54 22 211 141
+   sub11: a 3 b 18 prim 6 idx 27 [0..203] restarts 0  q 153 147 151 110
+
+[11] 01D8FB 'exhausta_LOD1' head 01fc5fe8  verts 210 x20  damage 210 x12  subparts 12  size 8771
+   vert s16 bounds x -3609..-2024 y 449..1325 z -14165..-10878
+   v0: e7f13d03 82d523d8 3876951c 83630000 fb32f01c
+   v1: e7f13d03 82d51600 55fffe7f 42250000 fb32f01c
+   v2: 25f2dd03 4acc4182 d6175dfe 67660000 e731e61c
+   v3: 25f2dd03 4acc9902 54f93580 69530000 61495216
+   d0: fff1ad02 82d5e7c3 846f4e12
+   d1: fff1ad02 82d52f00 6efffe7f
+   d2: 1ef27702 45cc0480 ffff54fe
+   pivots: 01000000 f515dcbe bf4dff3d 2080d4bf 0000...
+      f: -0.42986 0.12466 -1.66016 1 0 0 0 0 1 0 1 0 -0.21 0 0 -0.06 0 0 190 190 2 2
+   attributes: 1 0.2 0.2
+   sub0: a 1 b 7 prim 6 idx 173 [16..193] restarts 0  q 0 0 0 0
+   sub1: a 1 b 9 prim 6 idx 54 [21..186] restarts 0  q 0 0 0 0
+   sub2: a 1 b 15 prim 6 idx 4 [1..200] restarts 0  q 0 0 0 0
+   sub3: a 1 b 18 prim 6 idx 52 [0..205] restarts 0  q 0 0 0 0
+   sub4: a 2 b 7 prim 6 idx 131 [18..206] restarts 0  q 33 64 85 589829
+   sub5: a 2 b 9 prim 6 idx 45 [21..186] restarts 0  q 0 0 0 0
+   sub6: a 2 b 15 prim 6 idx 4 [1..200] restarts 0  q 0 0 0 0
+   sub7: a 2 b 18 prim 6 idx 32 [0..205] restarts 0  q 201 195 199 0
+   sub8: a 3 b 7 prim 6 idx 73 [20..209] restarts 0  q 73 64 73 97
+   sub9: a 3 b 9 prim 6 idx 35 [21..186] restarts 0  q 167772214 3277384 3277384 20
+   sub10: a 3 b 15 prim 6 idx 4 [1..200] restarts 0  q 10 173 173 191
+   sub11: a 3 b 18 prim 6 idx 24 [0..203] restarts 0  q 201 199 203 203
+
+[12] 01FB3E 'bumperRe_LOD1' head 017a8e17  verts 995 x20  damage 995 x12  subparts 16  size 41145
+   vert s16 bounds x -5523..5523 y 208..2949 z -15302..-9728
+   v0: 6deac00a 00da5f82 63f67ce9 847f0000 d86d0774
+   v1: 6deac00a 00daf000 42abeb5f 230a0000 7a1c4410
+   v2: 6deac00a 00daab0b 117f000a b2650000 7a1c4410
+   v3: 85ea570a a4d98f81 1df95eed 84810000 316e6c74
+   d0: 6dea1f0a 00da8e81 6ff69aee
+   d1: 6dea1f0a 00da3009 80b1ad64
+   d2: 6dea1f0a 00da57ff ee7f0604
+   pivots: 01000000 fbc657bf b003d73e f701bebf 0000...
+      f: -0.84288 0.41995 -1.48444 1 0 0 0 0 1 0 1 0 0 -0.05 0 0 -0.02 0 200 200 2 2
+   attributes: 1 0.2 3
+   sub0: a 1 b 1 prim 6 idx 1245 [0..922] restarts 0  q 0 0 0 0
+   sub1: a 1 b 9 prim 6 idx 141 [1..921] restarts 0  q 0 0 0 0
+   sub2: a 1 b 18 prim 6 idx 81 [60..860] restarts 0  q 0 0 0 0
+   sub3: a 1 b 20 prim 6 idx 84 [220..702] restarts 0  q 0 0 0 0
+   sub4: a 2 b 1 prim 6 idx 1122 [0..922] restarts 0  q 220 222 222 231
+   sub5: a 2 b 9 prim 6 idx 133 [1..921] restarts 0  q 167772160 3277296 3277296 0
+   sub6: a 2 b 18 prim 6 idx 77 [60..860] restarts 0  q 0 0 0 0
+   sub7: a 2 b 20 prim 6 idx 72 [220..702] restarts 0  q 220 222 222 231
+   sub8: a 4 b 1 prim 6 idx 119 [0..966] restarts 0  q 631 636 365 359
+   sub9: a 4 b 9 prim 6 idx 29 [1..921] restarts 0  q 167776409 3277264 3277264 60
+   sub10: a 4 b 18 prim 6 idx 33 [92..800] restarts 0  q 0 -1 -1 27328537
+   sub11: a 4 b 20 prim 6 idx 38 [933..964] restarts 0  q 717 833 488 929
+   sub12: a 3 b 1 prim 6 idx 805 [0..994] restarts 0  q 606 691 691 689
+   sub13: a 3 b 9 prim 6 idx 79 [1..921] restarts 0  q 1065353216 1062679096 1035445480 -1084986417
+   sub14: a 3 b 18 prim 6 idx 64 [60..860] restarts 0  q 918 680 909 901
+   sub15: a 3 b 20 prim 6 idx 40 [222..700] restarts 0  q 918 909 680 457
+
+[13] 029BF7 'bumperRb_LOD1' head 017a8517  verts 758 x20  damage 758 x12  subparts 8  size 30369
+   vert s16 bounds x -5523..5523 y 496..2949 z -15258..-9728
+   v0: 6deac00a 00daf082 09f140e9 7f7b0000 db6d0774
+   v1: 6deac00a 00da6b03 f4bb5a6c 361b0000 6423bb0e
+   v2: 6deac00a 00daab0b 117f000a ae650000 6423bb0e
+   v3: 85ea570a bed92481 26f5e9f2 83820000 1a6e6c74
+   d0: 6dea4f0a 00dabf83 8ef1e3e4
+   d1: 6dea4f0a 00da1605 6fbf666e
+   d2: 6dea4f0a 00da7908 6f7f7408
+   pivots: 01000000 fbc657bf b003d73e f701bebf 0000...
+      f: -0.84288 0.41995 -1.48444 1 0 0 0 0 1 0 1 0 0 -0.05 0 0 -0.02 0 200 200 2 2
+   attributes: 1 0.2 3
+   sub0: a 1 b 1 prim 6 idx 997 [0..710] restarts 0  q 0 0 0 0
+   sub1: a 1 b 15 prim 6 idx 159 [1..709] restarts 0  q 0 0 0 0
+   sub2: a 3 b 1 prim 6 idx 448 [0..726] restarts 0  q 699 475 699 703
+   sub3: a 3 b 15 prim 6 idx 91 [1..719] restarts 0  q 493 448 412 448
+   sub4: a 4 b 1 prim 6 idx 133 [0..757] restarts 0  q 399 489 438 438
+   sub5: a 4 b 15 prim 6 idx 12 [1..709] restarts 0  q 1065353216 -1089287005 1064868775 -1082115374
+   sub6: a 2 b 1 prim 6 idx 782 [0..743] restarts 0  q 0 0 0 0
+   sub7: a 2 b 15 prim 6 idx 136 [1..709] restarts 0  q 399 503 501 454
+
+[14] 031298 'bumperRc_LOD1' head 017a8817  verts 618 x20  damage 618 x12  subparts 8  size 25157
+   vert s16 bounds x -5523..5523 y -31..2949 z -15258..-9728
+   v0: 6deac00a 00da5f82 63f67ce9 7d7b0000 ce6d1474
+   v1: 6deac00a 00da5d00 2eabda5f 26090000 3f25f00c
+   v2: 6deac00a 00da830c fa7e240a ad5f0000 3f25f00c
+   v3: 82ea660a b1d94982 35f7a0e9 83810000 1a6e6974
+   d0: 6deac00a 00da8d80 55fd84f4
+   d1: 6deac00a 00da5809 f9adcf61
+   d2: 6deac00a 00dabffe e87f8704
+   pivots: 01000000 fbc657bf b003d73e f701bebf 0000...
+      f: -0.84288 0.41995 -1.48444 1 0 0 0 0 1 0 1 0 0 -0.05 0 0 -0.02 0 200 200 2 2
+   attributes: 1 0.2 3
+   sub0: a 1 b 1 prim 6 idx 858 [0..590] restarts 0  q 0 0 0 0
+   sub1: a 1 b 15 prim 6 idx 170 [1..589] restarts 0  q 0 0 0 0
+   sub2: a 4 b 1 prim 6 idx 91 [0..601] restarts 0  q 603 417 417 604
+   sub3: a 4 b 15 prim 6 idx 39 [1..605] restarts 0  q 167772361 3277224 965591520 172
+   sub4: a 3 b 1 prim 6 idx 406 [0..614] restarts 0  q 572 413 413 402
+   sub5: a 3 b 15 prim 6 idx 105 [2..609] restarts 0  q 168820911 3277224 3277224 440
+   sub6: a 2 b 1 prim 6 idx 596 [0..617] restarts 0  q 392 419 554 572
+   sub7: a 2 b 15 prim 6 idx 127 [2..589] restarts 0  q 167772361 3277304 3277304 602
+
+[15] 0374DD 'bumperRa_LOD1' head 017a8217  verts 610 x20  damage 610 x12  subparts 12  size 25645
+   vert s16 bounds x -5523..5523 y 208..2949 z -15258..-9728
+   v0: 6deac00a 00da5f82 63f67ce9 84830000 db6d0774
+   v1: 6deac00a 00daf000 42abeb5f 270c0000 ec1da610
+   v2: 6deac00a 00daab0b 117f000a ad610000 ec1da610
+   v3: 85ea570a a4d98f81 1df95eed 85840000 346e6974
+   d0: 8fe9c20a b4d9a184 29ffecdd
+   d1: 8fe9c20a b4d92bfb 069e3852
+   d2: 8fe9c20a b4d9420b 077ff20a
+   pivots: 01000000 fbc657bf b003d73e f701bebf 0000...
+      f: -0.84288 0.41995 -1.48444 1 0 0 0 0 1 0 1 0 0 -0.05 0 0 -0.02 0 200 200 2 2
+   attributes: 1 0.3 0
+   sub0: a 1 b 1 prim 6 idx 750 [0..578] restarts 0  q 0 0 0 0
+   sub1: a 1 b 9 prim 6 idx 147 [1..577] restarts 0  q 0 0 0 0
+   sub2: a 1 b 21 prim 6 idx 40 [64..512] restarts 0  q 0 0 0 0
+   sub3: a 2 b 1 prim 6 idx 649 [0..580] restarts 0  q 197 193 193 589829
+   sub4: a 2 b 9 prim 6 idx 143 [1..577] restarts 0  q 1064757038 8519686 168820826 3277224
+   sub5: a 2 b 21 prim 6 idx 38 [64..512] restarts 0  q 50 41 40 40
+   sub6: a 3 b 1 prim 6 idx 396 [0..593] restarts 0  q 474 375 375 383
+   sub7: a 3 b 9 prim 6 idx 99 [1..598] restarts 0  q 171049160 963721520 3277248 24
+   sub8: a 3 b 21 prim 6 idx 44 [64..600] restarts 0  q 0 0 0 0
+   sub9: a 4 b 1 prim 6 idx 233 [0..608] restarts 0  q 324 321 336 266
+   sub10: a 4 b 9 prim 6 idx 85 [1..609] restarts 0  q 380 510 510 589831
+   sub11: a 4 b 21 prim 6 idx 44 [81..606] restarts 0  q 380 510 510 496
+
+[16] 03D90A 'bumperRd_LOD1' head 017a8b17  verts 987 x20  damage 987 x12  subparts 8  size 38861
+   vert s16 bounds x -5537..5537 y 141..2949 z -15258..-9728
+   v0: 5fea7602 18d7d680 00017bf1 7e7e0000 a270fa7b
+   v1: 5fea7602 18d77c81 5af82eee 7e7e0000 a270fa7b
+   v2: 5fea7602 18d7ab03 75ea1d7e 37370000 72200c10
+   v3: 5feaf603 5bd7a980 3a0249f3 85850000 64708b7a
+   d0: efeb7402 17d7ab83 c3f93ee2
+   d1: efeb7402 17d7cf81 70f052f1
+   d2: efeb7402 17d75102 98e8d07d
+   pivots: 01000000 fbc657bf b003d73e f701bebf 0000...
+      f: -0.84288 0.41995 -1.48444 1 0 0 0 0 1 0 1 0 0 -0.05 0 0 -0.02 0 200 200 2 2
+   attributes: 1 0.2 3
+   sub0: a 1 b 1 prim 6 idx 1283 [0..939] restarts 0  q 0 0 0 0
+   sub1: a 1 b 9 prim 6 idx 244 [2..937] restarts 0  q 0 0 0 0
+   sub2: a 3 b 1 prim 6 idx 475 [3..960] restarts 0  q 365 200 200 208
+   sub3: a 3 b 9 prim 6 idx 149 [5..945] restarts 0  q 167772313 3277200 244383728 1437
+   sub4: a 4 b 1 prim 6 idx 109 [8..983] restarts 0  q 968 284 155 9
+   sub5: a 4 b 9 prim 6 idx 32 [9..976] restarts 0  q 167772405 3277280 3277280 365
+   sub6: a 2 b 1 prim 6 idx 846 [0..986] restarts 0  q 362 224 326 362
+   sub7: a 2 b 9 prim 6 idx 202 [2..937] restarts 0  q 3277696 195 195 92
+
+[17] 0470D7 'wingd_LOD1' head 012bb033  verts 586 x20  damage 586 x12  subparts 4  size 24728
+   vert s16 bounds x -5262..5262 y 4671..6129 z -14476..-9663
+   v0: 72eb8812 cfd9b088 542e6d00 a9a90000 6d433a5f
+   v1: 75eb6512 ecd97980 abf59903 88760000 6d433a5f
+   v2: 75eb6512 ecd9223b 918e5204 12110000 6d433a5f
+   v3: 88eb9d12 0bda76aa dc5e3508 d4d30000 6d433a5f
+   d0: 72eb8812 cfd9b088 542e6d00
+   d1: 75eb6512 ecd97980 abf59903
+   d2: 75eb6512 ecd9223b 918e5204
+   pivots: 01000000 00000080 1557453f 9d11f1bf 0000...
+      f: 0 0.77086 -1.88335 1 0 0 0 0 1 0 1 0 0 0 0 0 0 0 130 130 2 2
+   attributes: 1 0.2 0.2
+   sub0: a 1 b 1 prim 6 idx 1114 [0..532] restarts 0  q 0 0 0 0
+   sub1: a 2 b 1 prim 6 idx 869 [0..535] restarts 0  q 282 281 281 270
+   sub2: a 4 b 1 prim 6 idx 119 [32..571] restarts 0  q 264 539 539 165
+   sub3: a 3 b 1 prim 6 idx 685 [0..585] restarts 0  q 167772248 3277224 3277224 79
+
+[18] 04D16F 'wingendRa_LOD1' head 01e4306e  verts 197 x20  damage 197 x12  subparts 4  size 8162
+   vert s16 bounds x 4146..5262 y 4671..5386 z -13911..-9663
+   v0: 3210a613 cccfba83 ec016be1 820d0000 6d433d5f
+   v1: 3210a613 cccf4594 03001d45 7f070000 6d433d5f
+   v2: 3210a613 cccfd8e1 a7834c03 13000000 6d433d5f
+   v3: 3310f814 d3cf1b81 2a0045ef 88180000 6d433d5f
+   d0: 2f101914 cccf9184 e1099ddf
+   d1: 2f101914 cccf3494 6105cd44
+   d2: 2f101914 cccf3be1 e18385fa
+   pivots: 01000000 ddd24a3f 2db2393f d7c0bcbf 0000...
+      f: 0.79228 0.72538 -1.47464 1 0 0 0 0 1 0 1 0 0 0 0 0 0 0 130 130 2 2
+   attributes: 1 0.2 0.2
+   sub0: a 1 b 1 prim 6 idx 289 [0..174] restarts 0  q 0 0 0 0
+   sub1: a 3 b 1 prim 6 idx 157 [0..181] restarts 0  q 75 40 40 46
+   sub2: a 4 b 1 prim 6 idx 34 [0..189] restarts 0  q 0 0 0 0
+   sub3: a 2 b 1 prim 6 idx 246 [0..196] restarts 0  q 0 0 0 0
+
+[19] 04F151 'wingendLa_LOD1' head 01e4305c  verts 137 x20  damage 137 x12  subparts 4  size 5870
+   vert s16 bounds x -5262..-4146 y 4671..5386 z -13911..-9663
+   v0: 72eb8812 cfd9cc88 9e2e93ff a9a90000 2d38005d
+   v1: 72eb8812 cfd9cc88 9e2e93ff a8a80000 6d433a5f
+   v2: 75eb6512 ecd97980 abf59903 8b730000 6d433a5f
+   v3: 75eb6512 ecd9223b 918e5204 15140000 6d433a5f
+   d0: 3decf512 fcd9bf89 ee2f080a
+   d1: 3decf512 fcd9bf89 ee2f080a
+   d2: 43ecd312 18da7b81 36f51510
+   pivots: 01000000 ddd24abf 2db2393f d7c0bcbf 0000...
+      f: -0.79228 0.72538 -1.47464 1 0 0 0 0 1 0 1 0 0 0 0 0 0 0 130 130 2 2
+   attributes: 1 0.2 0.2
+   sub0: a 1 b 1 prim 6 idx 203 [0..117] restarts 0  q 0 0 0 0
+   sub1: a 2 b 1 prim 6 idx 185 [0..125] restarts 0  q 49 44 90 62
+   sub2: a 4 b 1 prim 6 idx 34 [3..134] restarts 0  q 86 92 92 117
+   sub3: a 3 b 1 prim 6 idx 118 [2..136] restarts 0  q 167772209 3277200 3277200 1456
+
+[20] 05083F 'wingendLb_LOD1' head 01e4335c  verts 141 x20  damage 141 x12  subparts 4  size 6098
+   vert s16 bounds x -5290..-4146 y 4665..5603 z -13897..-6940
+   v0: 56eb5d12 77dd8586 50289eff a4a40000 b9392b5d
+   v1: 56eb5d12 77dde53b e28eb5ff 100f0000 6d433a5f
+   v2: 5deb4e12 15e1d782 a51ab902 a49f0000 f538275d
+   v3: 5deb4e12 15e17e46 3095d0fd 1c1b0000 6d43375f
+   d0: fdea2713 7bdd9186 482847fc
+   d1: fdea2713 7bddda4d c89ab908
+   d2: f4ea6113 2ee16484 3221e6fe
+   pivots: 01000000 ddd24abf 2db2393f d7c0bcbf 0000...
+      f: -0.79228 0.72538 -1.47464 1 0 0 0 0 1 0 1 0 0 0 0 0 0 0 130 130 2 2
+   attributes: 1 0.2 0.2
+   sub0: a 1 b 1 prim 6 idx 225 [0..131] restarts 0  q 0 0 0 0
+   sub1: a 3 b 1 prim 6 idx 148 [2..135] restarts 0  q 176160768 3277232 966511536 -1073571808
+   sub2: a 2 b 1 prim 6 idx 197 [0..131] restarts 0  q 127 94 47 55
+   sub3: a 4 b 1 prim 6 idx 20 [8..140] restarts 0  q 127 94 47 55
+
+[21] 052011 'wingendRb_LOD1' head 01e4336e  verts 148 x20  damage 148 x12  subparts 4  size 6394
+   vert s16 bounds x 4146..5290 y 4665..5603 z -13897..-6940
+   v0: 3210a613 cccfba83 ec016be1 830d0000 6d433d5f
+   v1: 3210a613 cccf4594 03001d45 7a050000 6d433d5f
+   v2: 3210a613 cccfd8e1 a7834c03 14000000 6d433d5f
+   v3: 34105214 cfcf0c82 aafe44e9 7e0f0000 6d433d5f
+   d0: 26107214 c8cf5f84 160d8fe1
+   d1: 26107214 c8cf8694 b309d444
+   d2: 26107214 c8cfa1d6 17872d07
+   pivots: 01000000 ddd24a3f 2db2393f d7c0bcbf 0000...
+      f: 0.79228 0.72538 -1.47464 1 0 0 0 0 1 0 1 0 0 0 0 0 0 0 130 130 2 2
+   attributes: 1 0.2 0.2
+   sub0: a 1 b 1 prim 6 idx 239 [0..134] restarts 0  q 0 0 0 0
+   sub1: a 3 b 1 prim 6 idx 157 [0..140] restarts 0  q 32 12 118 72
+   sub2: a 2 b 1 prim 6 idx 208 [0..141] restarts 0  q 167772250 3277224 966869224 99
+   sub3: a 4 b 1 prim 6 idx 22 [1..147] restarts 0  q -1 0 1065353216 -1098962006
+
+[22] 05390B 'bumperRrace_LOD1' head 01fe4a75  verts 1053 x20  damage 1053 x12  subparts 22  size 42916
+   vert s16 bounds x -5523..5523 y -28..2949 z -15368..-5403
+   v0: 6deac00a 00da5f82 63f67ce9 81800000 db6d0774
+   v1: 6deac00a 00daf000 42abeb5f 290c0000 ec1da610
+   v2: 6deac00a 00daab0b 117f000a af640000 ec1da610
+   v3: 85ea570a a4d98f81 1df95eed 81810000 346e6974
+   d0: 7fead009 efd9fb82 32f096e9
+   d1: 7fead009 efd91307 cfab2560
+   d2: 7fead009 efd9e704 7e7f370a
+   pivots: 01000000 fbc657bf b003d73e f701bebf 0000...
+      f: -0.84288 0.41995 -1.48444 1 0 0 0 0 1 0 1 0 0 -0.05 0 0 -0.02 0 200 200 2 2
+   attributes: 1 0.2 0.8
+   sub0: a 1 b 1 prim 6 idx 754 [0..973] restarts 0  q 0 0 0 0
+   sub1: a 1 b 7 prim 6 idx 131 [174..418] restarts 0  q 0 0 0 0
+   sub2: a 1 b 9 prim 6 idx 207 [1..972] restarts 0  q 0 0 0 0
+   sub3: a 1 b 19 prim 6 idx 274 [277..768] restarts 0  q 0 0 0 0
+   sub4: a 1 b 20 prim 6 idx 94 [511..623] restarts 0  q 0 0 0 0
+   sub5: a 1 b 21 prim 6 idx 40 [64..907] restarts 0  q 0 0 0 0
+   sub6: a 2 b 1 prim 6 idx 647 [0..1005] restarts 0  q -1 -256 1065353216 -1089993074
+   sub7: a 2 b 7 prim 6 idx 131 [174..418] restarts 0  q 0 1064602018 1050005514 44
+   sub8: a 2 b 9 prim 6 idx 203 [1..972] restarts 0  q 0 0 0 0
+   sub9: a 2 b 19 prim 6 idx 224 [277..979] restarts 0  q 989 990 990 589841
+   sub10: a 2 b 20 prim 6 idx 90 [511..623] restarts 0  q 990 991 988 992
+   sub11: a 2 b 21 prim 6 idx 38 [980..1003] restarts 0  q 966881232 905 891 778
+   sub12: a 3 b 1 prim 6 idx 395 [0..1033] restarts 0  q 998 994 994 589841
+   sub13: a 3 b 7 prim 6 idx 117 [174..418] restarts 0  q 994 995 992 980
+   sub14: a 3 b 9 prim 6 idx 133 [1..1038] restarts 0  q 966881232 999 981 1003
+   sub15: a 3 b 19 prim 6 idx 131 [277..1009] restarts 0  q 0 0 0 0
+   sub16: a 3 b 20 prim 6 idx 66 [511..1020] restarts 0  q 539 1065353216 0 0
+   sub17: a 3 b 21 prim 6 idx 44 [980..1040] restarts 0  q 1059718169 1050350359 0 0
+   sub18: a 4 b 1 prim 6 idx 76 [0..1052] restarts 0  q 1041 237 237 149
+   sub19: a 4 b 9 prim 6 idx 16 [1..1051] restarts 0  q 929 792 22 186
+   sub20: a 4 b 19 prim 6 idx 131 [277..1009] restarts 0  q 1022 1022 1026 1045
+   sub21: a 4 b 21 prim 6 idx 32 [983..1049] restarts 0  q 0 0 0 0
+
+[23] 05E0AF 'trunk_LOD1' head 016a162e  verts 584 x20  damage 584 x12  subparts 14  size 23118
+   vert s16 bounds x -4377..4377 y 4537..7254 z -14156..-5612
+   v0: e7ee2413 efca6680 59fc5209 8e4f0000 6703f91f
+   v1: e7ee2413 efcafcdd f52bb48c adac0000 3e7c0568
+   v2: e9ee3a13 01cb0282 1c076815 94570000 6703f91f
+   v3: e9ee3a13 01cbc0f3 ac7e55f2 faf60000 2e7c0268
+   d0: e7ee2413 efca6680 5afc5909
+   d1: e7ee2413 efca31da b32c2e8e
+   d2: e9ee3a13 01cb0482 12077615
+   pivots: 01000000 00000000 e2af8d3f 6d5b5cbf 0000...
+      f: 0 1.10693 -0.86077 1 0 0 0 0 1 0 1 0 0 0 0 0.03 0 0 -300 -300 2 2
+   attributes: 1 0.2 0
+   sub0: a 1 b 1 prim 6 idx 355 [1..467] restarts 0  q 0 0 0 0
+   sub1: a 1 b 20 prim 6 idx 109 [109..229] restarts 0  q 0 0 0 0
+   sub2: a 1 b 21 prim 6 idx 156 [36..432] restarts 0  q 0 0 0 0
+   sub3: a 1 b 27 prim 6 idx 152 [0..468] restarts 0  q 0 0 0 0
+   sub4: a 3 b 1 prim 6 idx 101 [16..549] restarts 0  q 178 176 185 189
+   sub5: a 3 b 20 prim 6 idx 98 [109..229] restarts 0  q 168296849 126 116 111
+   sub6: a 3 b 21 prim 6 idx 112 [36..539] restarts 0  q 195 190 190 179
+   sub7: a 3 b 27 prim 6 idx 93 [469..548] restarts 0  q 179 167 174 173
+   sub8: a 2 b 1 prim 6 idx 213 [1..567] restarts 0  q 228 211 213 229
+   sub9: a 2 b 20 prim 6 idx 98 [109..229] restarts 0  q 178 176 185 189
+   sub10: a 2 b 21 prim 6 idx 120 [36..539] restarts 0  q 168296875 126 116 111
+   sub11: a 2 b 27 prim 6 idx 132 [469..576] restarts 0  q 195 190 190 179
+   sub12: a 4 b 1 prim 6 idx 19 [16..566] restarts 0  q 0 0 0 0
+   sub13: a 4 b 21 prim 6 idx 16 [36..583] restarts 0  q 452 550 550 334
+
+[24] 063AFD 'glassR_LOD1' head 01d596f4  verts 46 x20  damage 0 x0  subparts 4  size 1569
+   vert s16 bounds x -3873..3873 y 5076..7148 z -12258..-5754
+   v0: dff0d413 4ad2b7ee 4e78ded7 f5ea0000 1e7aa81b
+   v1: 2ef1b314 b3d44ef0 be779ad5 f9f50000 d274501c
+   v2: d6f16516 f7d86ff3 3378d8d5 fbfa0000 566bb11d
+   v3: a5f24e18 9bde75f3 b0795cda fcfc0000 025f691f
+   pivots: 00000000
+   attributes: 1 0 0
+   sub0: a 1 b 2 prim 6 idx 90 [0..43] restarts 0  q 0 0 0 0
+   sub1: a 4 b 2 prim 6 idx 11 [0..44] restarts 0  q 167772160 3277200 964462024 -1093717616
+   sub2: a 3 b 2 prim 6 idx 30 [0..45] restarts 0  q 4 3 3 13
+   sub3: a 2 b 2 prim 6 idx 36 [0..44] restarts 0  q 167772193 3277208 964021464 35
+
+[25] 06411E 'caliperLR' head 00d6888b  verts 52 x20  damage 0 x0  subparts 1  size 1359
+   vert s16 bounds x -5113..-5039 y 272..1676 z -8969..-8453
+   v0: 07ec1001 d9dd0180 00000000 75750000 3c4ab805
+   v1: 07ec1001 d9dd0000 5887b62a 0c0c0000 3c4ab805
+   v2: 07ec1001 d9dd0000 1cbe4592 2f2f0000 3c4ab805
+   v3: 07ec4c01 82de0180 00000000 72720000 d1480601
+   pivots: 00000000
+   attributes: 1 0 0
+   sub0: a 1 b 1 prim 6 idx 75 [0..51] restarts 0  q 0 0 0 0
+
+[26] 06466D 'caliperRR' head 00d68e8b  verts 52 x20  damage 0 x0  subparts 1  size 1359
+   vert s16 bounds x 5039..5113 y 272..1676 z -8969..-8453
+   v0: af131001 d9dd0180 00000000 05050000 3c4ab805
+   v1: af131001 d9dd0000 5887b62a 0d0d0000 3c4ab805
+   v2: af131001 d9dd0000 1cbe4592 31310000 3c4ab805
+   v3: af134c01 82de0180 00000000 05040000 d1480601
+   pivots: 00000000
+   attributes: 1 0 0
+   sub0: a 1 b 1 prim 6 idx 75 [0..51] restarts 0  q 0 0 0 0
+
+[27] 064BBC 'glassLR_LOD1' head 0159bc81  verts 51 x20  damage 0 x0  subparts 8  size 1914
+   vert s16 bounds x -4639..-3372 y 5018..6899 z -11176..-5901
+   v0: e1ed9a13 30e3f893 8d4487fc b7970000 0802ba09
+   v1: f7eda313 1ae10c95 18467dfa bb940000 db01ba09
+   v2: 09eee913 47e42093 1643b5fa b2940000 1f02b309
+   v3: 29eeaa13 6bdddc98 9d4bd5fa bf990000 8901ba09
+   pivots: 00000000
+   attributes: 1 0 0
+   sub0: a 1 b 2 prim 6 idx 27 [5..45] restarts 0  q 0 0 0 0
+   sub1: a 1 b 6 prim 6 idx 50 [0..50] restarts 0  q 0 0 0 0
+   sub2: a 3 b 2 prim 6 idx 12 [5..45] restarts 0  q 135 113 117 117
+   sub3: a 3 b 6 prim 6 idx 28 [0..50] restarts 0  q 1032630936 0 0 0
+   sub4: a 2 b 2 prim 6 idx 22 [5..45] restarts 0  q 45 43 41 43
+   sub5: a 2 b 6 prim 6 idx 43 [0..50] restarts 0  q 46 47 33 46
+   sub6: a 4 b 2 prim 6 idx 3 [5..45] restarts 0  q 29 29 33 34
+   sub7: a 4 b 6 prim 6 idx 8 [0..48] restarts 0  q 50 44 50 48
+
+[28] 065336 'glassRR_LOD1' head 0159bc93  verts 51 x20  damage 0 x0  subparts 8  size 1912
+   vert s16 bounds x 3372..4639 y 5018..6899 z -11176..-5901
+   v0: 2c0df31a d7e8e661 e25158f6 c6bc0000 85021909
+   v1: 300dec1a eae8a96b 6044c90a b6a30000 85021909
+   v2: 390dd61a f3e85168 f5498c05 bdaa0000 88021909
+   v3: ba0db119 5ae44b61 4d5210f4 c7c00000 23023309
+   pivots: 00000000
+   attributes: 1 0 0
+   sub0: a 1 b 2 prim 6 idx 26 [6..46] restarts 0  q 0 0 0 0
+   sub1: a 1 b 6 prim 6 idx 51 [0..50] restarts 0  q 0 0 0 0
+   sub2: a 3 b 2 prim 6 idx 13 [6..46] restarts 0  q 168296552 3277200 243497256 51
+   sub3: a 3 b 6 prim 6 idx 29 [0..50] restarts 0  q 23 20 45 49
+   sub4: a 2 b 2 prim 6 idx 22 [6..46] restarts 0  q 8 10 8 6
+   sub5: a 2 b 6 prim 6 idx 40 [0..50] restarts 0  q 168300941 963761296 964192320 964192400
+   sub6: a 4 b 2 prim 6 idx 3 [6..46] restarts 0  q 19 49 43 37
+   sub7: a 4 b 6 prim 6 idx 8 [2..50] restarts 0  q 9 3 20 15
+
+[29] 065AAE 'interior_LOD1' head 01e66d68  verts 976 x20  damage 976 x12  subparts 6  size 37591
+   vert s16 bounds x -4647..4647 y 732..7254 z -14156..4946
+   v0: d9ed1213 bc0a682b 68788700 ab5d0000 ac03a706
+   v1: d9ed1213 bc0a682b 68788700 b2640000 a03f1503
+   v2: d9ed1213 bc0a2a5f c9af26e2 2c050000 c51d311e
+   v3: e1ed9a13 30e3f41b e77c5eff c0820000 dd435518
+   d0: d9ed1213 bc0a682b 68788700
+   d1: d9ed1213 bc0a682b 68788700
+   d2: d9ed1213 bc0a2a5f c9af26e2
+   pivots: 00000000
+   attributes: 1 0 0
+   sub0: a 1 b 7 prim 6 idx 13 [355..526] restarts 0  q 0 0 0 0
+   sub1: a 1 b 14 prim 6 idx 1457 [0..885] restarts 0  q 0 0 0 0
+   sub2: a 4 b 14 prim 6 idx 30 [535..904] restarts 0  q 1024000743 -1088646981 1061837929 44
+   sub3: a 3 b 14 prim 6 idx 481 [0..951] restarts 0  q 366 376 376 28
+   sub4: a 2 b 7 prim 6 idx 4 [369..514] restarts 0  q 0 0 0 0
+   sub5: a 2 b 14 prim 6 idx 988 [0..975] restarts 0  q 26 19 689 687
+
+[30] 06ED85 'suspension_LOD1' head 0145fddb  verts 189 x20  damage 0 x0  subparts 1  size 4563
+   vert s16 bounds x -4014..4019 y 46..1297 z -13499..10122
+   v0: 52f0fb00 d1200bad 8d9e1802 2f2f0000 da02831f
+   v1: 52f0fb00 d12059f9 7a94e3ba 0b0b0000 da02831f
+   v2: 52f0fb00 d120f1fe ee7f19fc 570e0000 da02831f
+   v3: 52f01201 0026b7ae 259db201 34340000 2603831f
+   pivots: 00000000
+   attributes: 1 0 0
+   sub0: a 1 b 18 prim 6 idx 304 [0..188] restarts 0  q 0 0 0 0
+
+[31] 06FF58 'cagerace_LOD1' head 0148e69a  verts 380 x20  damage 0 x0  subparts 4  size 10001
+   vert s16 bounds x -4436..4479 y 305..7005 z -6850..4323
+   v0: acee5b12 620e5992 c64159fa 96670000 5769e634
+   v1: 47ef1512 d6105ee9 9c707838 c6970000 5a69dc34
+   v2: 45f05b12 500e1970 48c263fd 45000000 6169e634
+   v3: 73f13201 b9f58aa0 00004355 0f0f0000 5a696c35
+   pivots: 00000000
+   attributes: 1 0 0
+   sub0: a 1 b 9 prim 6 idx 262 [0..139] restarts 0  q 0 0 0 0
+   sub1: a 2 b 9 prim 6 idx 262 [0..139] restarts 0  q 167772193 3277224 965733872 1056
+   sub2: a 3 b 9 prim 6 idx 259 [140..259] restarts 0  q 144 145 145 142
+   sub3: a 4 b 9 prim 6 idx 259 [260..379] restarts 0  q 264 265 265 262
+
+[32] 072669 'glassLF_LOD1' head 01599881  verts 25 x20  damage 0 x0  subparts 4  size 978
+   vert s16 bounds x -4647..-3444 y 4882..6973 z -4406..2748
+   v0: d9ed1213 bc0aaf8f 4d3df0fc ab9a0000 ca7e5d72
+   v1: eeed9213 9ff3308e 8c3ae100 ae920000 107df722
+   v2: f0ed7913 05f9d88e ce3b2901 af940000 657d8035
+   v3: f2ed6613 6afefd8e 143c4301 b29c0000 a77d0948
+   pivots: 00000000
+   attributes: 1 0 0
+   sub0: a 1 b 2 prim 6 idx 44 [0..24] restarts 0  q 0 0 0 0
+   sub1: a 2 b 2 prim 6 idx 21 [0..24] restarts 0  q 167772331 3277216 3277216 996
+   sub2: a 4 b 2 prim 6 idx 5 [0..24] restarts 0  q 13 22 0 4
+   sub3: a 3 b 2 prim 6 idx 11 [0..24] restarts 0  q 862 868 766 628
+
+[33] 072A3B 'glassRF_LOD1' head 01599893  verts 25 x20  damage 0 x0  subparts 4  size 984
+   vert s16 bounds x 3444..4647 y 4882..6973 z -4406..2748
+   v0: 740d301b cdf03568 504af6fe c3be0000 e7624719
+   v1: 750d271b dafae56b d0446a02 bcbb0000 0463cc3b
+   v2: 760d3d1b 1cf5a46b 3d454d01 bbb70000 b9621328
+   v3: 7d0dd41a a7ffcd6b d744c904 bfba0000 2164494c
+   pivots: 00000000
+   attributes: 1 0 0
+   sub0: a 1 b 2 prim 6 idx 44 [0..24] restarts 0  q 0 0 0 0
+   sub1: a 3 b 2 prim 6 idx 13 [0..24] restarts 0  q 17 1 2 9
+   sub2: a 2 b 2 prim 6 idx 22 [0..24] restarts 0  q 11 15 12 20
+   sub3: a 4 b 2 prim 6 idx 5 [0..24] restarts 0  q 0 0 0 0
+
+[34] 072E13 'nocage' head 0011352c  verts 4 x20  damage 0 x0  subparts 1  size 254
+   vert s16 bounds x -247..161 y 1280..1280 z -92..238
+   v0: 09ff0005 a4ff0000 fe7f0000 562a0000 00000000
+   v1: 09ff0005 ee000000 fe7f0000 55260000 00000000
+   v2: a1000005 a4ff0000 fe7f0000 5d2b0000 00000000
+   v3: a1000005 ee000000 fe7f0000 58260000 00000000
+   pivots: 00000000
+   attributes: 1 0 0
+   sub0: a 1 b 1 prim 6 idx 4 [0..3] restarts 0  q 0 0 0 0
+
+[35] 072F11 'skirtRd_LOD1' head 0147cadf  verts 337 x20  damage 337 x12  subparts 8  size 13712
+   vert s16 bounds x 4885..5739 y -136..2750 z -6223..6475
+   v0: 151399ff adea0d81 41096e0d 14110000 f91f0f11
+   v1: 151399ff adeac7f8 4b809604 01010000 d25d5a31
+   v2: 151399ff adeafe03 5af49a80 3d3d0000 d25d5a31
+   v3: 2d13d800 b8eade80 4a066b0d 14120000 f91f0911
+   d0: c611ebff adea1084 a01c390e
+   d1: c611ebff adeab8e5 bd820701
+   d2: c611ebff adea2702 e0f39a80
+   pivots: 01000000 954856bf cac3223e b2f97c3f 0000...
+      f: -0.83705 0.15895 0.98819 1 0 0 0 0 1 0 1 0 -0.03 0 0 0 0 0 400 400 2 2
+   attributes: 1 0.2 0.3
+   sub0: a 1 b 1 prim 6 idx 390 [1..327] restarts 0  q 0 0 0 0
+   sub1: a 1 b 15 prim 6 idx 103 [0..308] restarts 0  q 0 0 0 0
+   sub2: a 3 b 1 prim 6 idx 225 [1..330] restarts 0  q 100 60 60 243
+   sub3: a 3 b 15 prim 6 idx 61 [0..331] restarts 0  q 167772197 3277304 3277304 54
+   sub4: a 4 b 1 prim 6 idx 50 [1..336] restarts 0  q 106 106 58 143
+   sub5: a 4 b 15 prim 6 idx 4 [121..333] restarts 0  q 964898784 16842755 168296682 3277200
+   sub6: a 2 b 1 prim 6 idx 252 [1..328] restarts 0  q 214 261 127 172
+   sub7: a 2 b 15 prim 6 idx 81 [0..331] restarts 0  q 168296848 100 257 280
+
+[36] 0764A1 'skirtLd_LOD1' head 0147cacd  verts 336 x20  damage 336 x12  subparts 7  size 13590
+   vert s16 bounds x -5739..-4885 y -136..2750 z -6223..6475
+   v0: 95e9ec01 08eba383 cdeee918 75730000 7d5d427c
+   v1: 95e9ec01 08ebb2c8 f46e2be0 895e0000 7d5d427c
+   v2: 95e9ec01 08eb0dd2 92f41689 4b4a0000 7d5d427c
+   v3: 9ae9f801 26eb4381 c3f2070c 78780000 5f5d387c
+   d0: d8e9cd01 08eb6585 ebe4d418
+   d1: d8e9cd01 08eb01c0 2f6a31e0
+   d2: d8e9cd01 08eb1dd3 eff01689
+   pivots: 01000000 954856bf cac3223e b2f97c3f 0000...
+      f: -0.83705 0.15895 0.98819 1 0 0 0 0 1 0 1 0 -0.03 0 0 0 0 0 400 400 2 2
+   attributes: 1 0.2 0.3
+   sub0: a 1 b 1 prim 6 idx 386 [0..326] restarts 0  q 0 0 0 0
+   sub1: a 1 b 15 prim 6 idx 104 [19..327] restarts 0  q 0 0 0 0
+   sub2: a 3 b 1 prim 6 idx 229 [6..328] restarts 0  q 59 57 156 185
+   sub3: a 3 b 15 prim 6 idx 69 [19..327] restarts 0  q 167772203 3277200 244386392 -1
+   sub4: a 2 b 1 prim 6 idx 251 [6..328] restarts 0  q 238 277 277 292
+   sub5: a 2 b 15 prim 6 idx 79 [19..327] restarts 0  q 176292087 3277256 3277256 1065353216
+   sub6: a 4 b 1 prim 6 idx 27 [6..335] restarts 0  q 6 64 89 329
+
+[37] 0799B7 'body_LOD1' head 012bb01b  verts 5134 x20  damage 5134 x12  subparts 48  size 199981
+   vert s16 bounds x -5641..5641 y -127..7462 z -14624..14921
+   v0: f7e9120c f8e52d8d 04342d16 92900000 6362c272
+   v1: f7e9120c f8e52caf de9dcb0e 3e1d0000 6362c272
+   v2: f7e9120c f8e51f01 d5884ed1 14010000 f01d9d10
+   v3: f7e9c70c 1ce49588 052c8d0d 95950000 2b641572
+   d0: 8fea120c fce59285 b6210910
+   d1: 8fea120c fce52f84 0718c815
+   d2: 8fea120c fce50201 b7889cd1
+   pivots: 00000000
+   attributes: 1 0 0
+   sub0: a 1 b 1 prim 6 idx 103 [1476..3196] restarts 0  q 0 0 0 0
+   sub1: a 1 b 1 prim 6 idx 4205 [0..4695] restarts 0  q 0 0 0 0
+   sub2: a 1 b 3 prim 6 idx 305 [1011..3661] restarts 0  q 0 0 0 0
+   sub3: a 1 b 5 prim 6 idx 90 [1050..3622] restarts 0  q 0 0 0 0
+   sub4: a 1 b 6 prim 6 idx 115 [972..3700] restarts 0  q 0 0 0 0
+   sub5: a 1 b 9 prim 6 idx 838 [2..4693] restarts 0  q 0 0 0 0
+   sub6: a 1 b 15 prim 6 idx 312 [208..4513] restarts 0  q 0 0 0 0
+   sub7: a 1 b 18 prim 6 idx 179 [490..4195] restarts 0  q 0 0 0 0
+   sub8: a 1 b 20 prim 6 idx 424 [1365..3308] restarts 0  q 0 0 0 0
+   sub9: a 1 b 21 prim 6 idx 873 [666..4008] restarts 0  q 0 0 0 0
+   sub10: a 1 b 25 prim 6 idx 22 [1406..3312] restarts 0  q 0 0 0 0
+   sub11: a 1 b 27 prim 6 idx 273 [280..4412] restarts 0  q 0 0 0 0
+   sub12: a 2 b 1 prim 6 idx 2712 [0..4784] restarts 0  q 2886 2885 2885 -1
+   sub13: a 2 b 3 prim 6 idx 192 [1014..3661] restarts 0  q 1296 1139 1139 589833
+   sub14: a 2 b 5 prim 6 idx 64 [1063..3609] restarts 0  q 0 0 0 0
+   sub15: a 2 b 6 prim 6 idx 94 [972..3700] restarts 0  q 1562 1539 1433 1433
+   sub16: a 2 b 9 prim 6 idx 719 [2..4785] restarts 0  q 0 0 0 0
+   sub17: a 2 b 15 prim 6 idx 270 [208..4703] restarts 0  q 0 0 0 0
+   sub18: a 2 b 18 prim 6 idx 143 [490..4195] restarts 0  q 1514 2293781 168296603 3277344
+   sub19: a 2 b 20 prim 6 idx 347 [1365..4778] restarts 0  q 1077 1741 1689 1513
+   sub20: a 2 b 21 prim 6 idx 422 [666..4767] restarts 0  q 4388 4411 4340 4340
+   sub21: a 2 b 25 prim 6 idx 22 [1406..3312] restarts 0  q 4026 4369 4782 4002
+   sub22: a 2 b 27 prim 6 idx 182 [280..4782] restarts 0  q 4002 4389 2579 2480
+   sub23: a 3 b 1 prim 6 idx 1266 [0..4923] restarts 0  q 1636 1071 1071 1063
+   sub24: a 3 b 3 prim 6 idx 114 [1014..3658] restarts 0  q 167772352 3277304 3277304 2545
+   sub25: a 3 b 5 prim 6 idx 34 [1063..3609] restarts 0  q 2190 2169 2190 2163
+   sub26: a 3 b 6 prim 6 idx 54 [972..4924] restarts 0  q 0 0 0 0
+   sub27: a 3 b 9 prim 6 idx 549 [2..4919] restarts 0  q 0 0 0 0
+   sub28: a 3 b 15 prim 6 idx 168 [208..4485] restarts 0  q 667 3864 3911 3895
+   sub29: a 3 b 18 prim 6 idx 84 [490..4855] restarts 0  q 1230 1259 1077 1741
+   sub30: a 3 b 20 prim 6 idx 182 [1365..4918] restarts 0  q 2091 2097 2097 1634
+   sub31: a 3 b 21 prim 6 idx 358 [666..4767] restarts 0  q 2638 2787 2778 2556
+   sub32: a 3 b 25 prim 6 idx 22 [1406..3312] restarts 0  q 2641 2640 2650 2786
+   sub33: a 3 b 27 prim 6 idx 81 [317..4904] restarts 0  q 2324 2177 2066 2238
+   sub34: a 5 b 1 prim 6 idx 141 [25..5056] restarts 0  q 2634 3070 2636 2646
+   sub35: a 5 b 2 prim 6 idx 32 [1856..5051] restarts 0  q 2396 2310 2310 2524
+   sub36: a 5 b 18 prim 6 idx 13 [4936..5021] restarts 0  q 4961 27 44 27
+   sub37: a 5 b 20 prim 6 idx 26 [667..5003] restarts 0  q 5001 5002 5004 5005
+   sub38: a 4 b 1 prim 6 idx 190 [25..5133] restarts 0  q 1198 1203 4924 3233
+   sub39: a 4 b 3 prim 6 idx 60 [1063..5118] restarts 0  q 5112 2015 5112 5113
+   sub40: a 4 b 5 prim 6 idx 28 [1063..3609] restarts 0  q 5113 5116 2633 836
+   sub41: a 4 b 6 prim 6 idx 8 [5089..5103] restarts 0  q 4765 4498 179 4861
+   sub42: a 4 b 9 prim 6 idx 135 [26..5125] restarts 0  q 4921 2171 2165 3653
+   sub43: a 4 b 15 prim 6 idx 45 [208..5131] restarts 0  q 1856 1585 1402 1034
+   sub44: a 4 b 18 prim 6 idx 15 [898..5019] restarts 0  q 3211 3078 3087 1191
+   sub45: a 4 b 20 prim 6 idx 31 [1365..5105] restarts 0  q 1364 1444 1474 5098
+   sub46: a 4 b 21 prim 6 idx 57 [1191..5064] restarts 0  q 641 1968 2693 5119
+   sub47: a 4 b 27 prim 6 idx 35 [1153..5094] restarts 0  q 1889 1837 5121 5122
+
+[38] 0AA6E4 'skirtRe_LOD1' head 0147cddf  verts 196 x20  damage 196 x12  subparts 11  size 8202
+   vert s16 bounds x 4924..5520 y 209..1054 z -5453..6475
+   v0: 3c13e500 b3eae6f8 80f4477f 18180000 cc1df810
+   v1: 3c13e500 b3ea70f9 e4d13877 15150000 dc5d1c32
+   v2: 3c13e500 b3eab002 b7096780 39360000 dc5d1c32
+   v3: 3d134a02 d3eaade8 1adf7979 19140000 cc1def10
+   d0: 3c137900 b3eada01 d002f37f
+   d1: 3c137900 b3ead501 1e0b7f7f
+   d2: 3c137900 b3ea3fff adfd0780
+   pivots: 01000000 954856bf cac3223e b2f97c3f 0000...
+      f: -0.83705 0.15895 0.98819 1 0 0 0 0 1 0 1 0 -0.03 0 0 0 0 0 400 400 2 2
+   attributes: 1 0.2 0.3
+   sub0: a 1 b 1 prim 6 idx 152 [2..189] restarts 0  q 0 0 0 0
+   sub1: a 1 b 15 prim 6 idx 67 [0..188] restarts 0  q 0 0 0 0
+   sub2: a 1 b 18 prim 6 idx 36 [1..151] restarts 0  q 0 0 0 0
+   sub3: a 3 b 1 prim 6 idx 93 [2..192] restarts 0  q 150 123 123 27
+   sub4: a 3 b 15 prim 6 idx 35 [0..187] restarts 0  q 167772160 3277224 963702976 0
+   sub5: a 3 b 18 prim 6 idx 18 [1..150] restarts 0  q 33 37 75 55
+   sub6: a 4 b 1 prim 6 idx 13 [2..195] restarts 0  q 0 1044448805 1055424460 1061958347
+   sub7: a 4 b 15 prim 6 idx 4 [74..164] restarts 0  q 95 12 24 54
+   sub8: a 2 b 1 prim 6 idx 110 [2..192] restarts 0  q 138 9 9 13
+   sub9: a 2 b 15 prim 6 idx 43 [0..188] restarts 0  q 150 192 5 180
+   sub10: a 2 b 18 prim 6 idx 24 [1..150] restarts 0  q 1065353216 1065353216 0 1058989618
+
+[39] 0AC6EE 'skirtLe_LOD1' head 0147cdcd  verts 196 x20  damage 196 x12  subparts 12  size 8204
+   vert s16 bounds x -5520..-4924 y 209..1054 z -5453..6475
+   v0: 70ea0f04 baea2e82 d5fd6217 7a750000 d55d707a
+   v1: 70ea0f04 baea654c 33fd5899 310e0000 cc1d1611
+   v2: 70ea0f04 baea6176 3c2cb6eb 2e0f0000 cc1d1611
+   v3: 7ceaa401 ceea1380 81026203 80800000 c15dc17c
+   d0: 61ea0f04 b3ea2380 87fd4005
+   d1: 61ea0f04 b3eabb2a 29005987
+   d2: 61ea0f04 b3eaf277 ad2c0000
+   pivots: 01000000 954856bf cac3223e b2f97c3f 0000...
+      f: -0.83705 0.15895 0.98819 1 0 0 0 0 1 0 1 0 -0.03 0 0 0 0 0 400 400 2 2
+   attributes: 1 0.2 0.3
+   sub0: a 1 b 1 prim 6 idx 153 [0..187] restarts 0  q 0 0 0 0
+   sub1: a 1 b 15 prim 6 idx 66 [1..189] restarts 0  q 0 0 0 0
+   sub2: a 1 b 18 prim 6 idx 36 [38..188] restarts 0  q 0 0 0 0
+   sub3: a 2 b 1 prim 6 idx 101 [0..191] restarts 0  q 167772217 3277224 963792400 184
+   sub4: a 2 b 15 prim 6 idx 44 [2..189] restarts 0  q 180 51 51 63
+   sub5: a 2 b 18 prim 6 idx 24 [39..188] restarts 0  q 167772329 3277232 964393256 190
+   sub6: a 3 b 1 prim 6 idx 82 [0..192] restarts 0  q 0 0 0 0
+   sub7: a 3 b 15 prim 6 idx 29 [2..189] restarts 0  q 0 0 0 0
+   sub8: a 3 b 18 prim 6 idx 16 [39..188] restarts 0  q 1033465097 1064286773 -1082949994 1050543732
+   sub9: a 4 b 1 prim 6 idx 13 [0..194] restarts 0  q 54 115 165 153
+   sub10: a 4 b 15 prim 6 idx 5 [25..195] restarts 0  q 145 731 647 677
+   sub11: a 4 b 18 prim 6 idx 3 [77..193] restarts 0  q 148 140 140 81
+
+[40] 0AE6FA 'skirtRa_LOD1' head 0147c1df  verts 132 x20  damage 132 x12  subparts 12  size 5680
+   vert s16 bounds x 5086..5520 y 226..1054 z -5446..6475
+   v0: de13f500 b2f98180 440b8700 31310000 ac22f210
+   v1: de13f500 b2f90b7a 6cd90100 6a6a0000 33323020
+   v2: e813eb00 fef46d80 2c0a18fe 35350000 1223f210
+   v3: e813eb00 fef4067a 69d9d501 69690000 b7362720
+   d0: ff133701 b2f9e780 3a0bddf5
+   d1: ff133701 b2f97f79 aed95b0c
+   d2: 9614c500 fef47480 800afcfd
+   pivots: 01000000 954856bf cac3223e b2f97c3f 0000...
+      f: -0.83705 0.15895 0.98819 1 0 0 0 0 1 0 1 0 -0.03 0 0 0 0 0 400 400 2 2
+   attributes: 1 0.2 0.3
+   sub0: a 1 b 1 prim 6 idx 75 [13..125] restarts 0  q 0 0 0 0
+   sub1: a 1 b 15 prim 6 idx 53 [0..124] restarts 0  q 0 0 0 0
+   sub2: a 1 b 20 prim 6 idx 30 [1..122] restarts 0  q 0 0 0 0
+   sub3: a 2 b 1 prim 6 idx 40 [15..127] restarts 0  q 75 122 108 88
+   sub4: a 2 b 15 prim 6 idx 39 [2..124] restarts 0  q 87 124 30 589833
+   sub5: a 2 b 20 prim 6 idx 19 [3..122] restarts 0  q 108 1179651 167772180 3277200
+   sub6: a 4 b 1 prim 6 idx 7 [31..128] restarts 0  q 168296886 81 50 7
+   sub7: a 4 b 15 prim 6 idx 9 [30..130] restarts 0  q 72 108 63 21
+   sub8: a 4 b 20 prim 6 idx 4 [84..122] restarts 0  q 62 121 87 102
+   sub9: a 3 b 1 prim 6 idx 22 [15..131] restarts 0  q 21 75 72 589841
+   sub10: a 3 b 15 prim 6 idx 27 [2..124] restarts 0  q 47 67 93 70
+   sub11: a 3 b 20 prim 6 idx 9 [3..122] restarts 0  q 1049041065 -1072543847 0 0
+
+[41] 0AFD2A 'skirtLa_LOD1' head 0147c1cd  verts 130 x20  damage 130 x12  subparts 12  size 5614
+   vert s16 bounds x -5520..-5086 y 226..1054 z -5446..6475
+   v0: 70ea0f04 baea2d82 fffd6417 82810000 d55d707a
+   v1: 70ea0f04 baea686b aa1788be 2c140000 f0239910
+   v2: 7cea4b02 d2ea1a82 1bfeff16 7e7d0000 be5d217c
+   v3: 7cea4b02 d2eace87 b7d9ae15 6b6b0000 4a401d20
+   d0: 70ea0f04 baea1880 a4fd1404
+   d1: 70ea0f04 baeacc56 9f106aa3
+   d2: 78ea4b02 bbea0980 34fe04fe
+   pivots: 01000000 954856bf cac3223e b2f97c3f 0000...
+      f: -0.83705 0.15895 0.98819 1 0 0 0 0 1 0 1 0 -0.03 0 0 0 0 0 400 400 2 2
+   attributes: 1 0.2 0.3
+   sub0: a 1 b 1 prim 6 idx 76 [0..112] restarts 0  q 0 0 0 0
+   sub1: a 1 b 15 prim 6 idx 52 [1..125] restarts 0  q 0 0 0 0
+   sub2: a 1 b 20 prim 6 idx 31 [3..124] restarts 0  q 0 0 0 0
+   sub3: a 3 b 1 prim 6 idx 24 [0..126] restarts 0  q 964497376 0 0 0
+   sub4: a 3 b 15 prim 6 idx 26 [1..107] restarts 0  q 14 14 16 -1
+   sub5: a 3 b 20 prim 6 idx 11 [3..104] restarts 0  q 0 -2147483648 1043524045 -1072716526
+   sub6: a 4 b 1 prim 6 idx 7 [0..94] restarts 0  q 33 59 59 18
+   sub7: a 4 b 15 prim 6 idx 9 [1..128] restarts 0  q 38 105 95 38
+   sub8: a 4 b 20 prim 6 idx 4 [3..41] restarts 0  q 13 16 78 58
+   sub9: a 2 b 1 prim 6 idx 39 [0..129] restarts 0  q 33 52 52 97
+   sub10: a 2 b 15 prim 6 idx 35 [1..123] restarts 0  q 122 73 66 37
+   sub11: a 2 b 20 prim 6 idx 19 [3..122] restarts 0  q 184484095 964897752 3277248 -1085540569
+
+[42] 0B1318 'skirtRc_LOD1' head 0147c7df  verts 188 x20  damage 188 x12  subparts 8  size 8074
+   vert s16 bounds x 4882..5672 y -194..1054 z -5569..6716
+   v0: 1213e6ff 04eb0e83 3411cb15 17130000 d01a5a0b
+   v1: 1213e6ff 04eb2505 2582bb16 08080000 835d1931
+   v2: 2413caff 3fea0981 110a4ef3 19150000 a91a530b
+   v3: 2413caff 3fea2af7 0230ae89 3f290000 c15e1931
+   d0: 36119aff afea4790 5c191239
+   d1: 36119aff afea60ef e2858c22
+   d2: 04117aff 3fea088b 3a19702d
+   pivots: 01000000 954856bf cac3223e b2f97c3f 0000...
+      f: -0.83705 0.15895 0.98819 1 0 0 0 0 1 0 1 0 -0.03 0 0 0 0 0 400 400 2 2
+   attributes: 1 0.2 0.3
+   sub0: a 1 b 1 prim 6 idx 223 [1..176] restarts 0  q 0 0 0 0
+   sub1: a 1 b 15 prim 6 idx 80 [0..147] restarts 0  q 0 0 0 0
+   sub2: a 3 b 1 prim 6 idx 118 [1..176] restarts 0  q 53 34 34 44
+   sub3: a 3 b 15 prim 6 idx 51 [5..179] restarts 0  q 167772288 3277216 3277216 617
+   sub4: a 2 b 1 prim 6 idx 160 [3..181] restarts 0  q 105 142 41 34
+   sub5: a 2 b 15 prim 6 idx 70 [5..179] restarts 0  q 167776355 3277288 3277288 106
+   sub6: a 4 b 1 prim 6 idx 22 [3..187] restarts 0  q 0 0 0 0
+   sub7: a 4 b 15 prim 6 idx 7 [2..182] restarts 0  q 29 44 34 34
+
+[43] 0B32A2 'skirtLc_LOD1' head 0147c7cd  verts 184 x20  damage 184 x12  subparts 8  size 7878
+   vert s16 bounds x -5672..-4882 y -194..1054 z -5569..6716
+   v0: d8e9b903 cdea5685 570e9e21 7c7b0000 b75da87a
+   v1: d8e9b903 cdeab6f1 bf0d8d81 4c3f0000 f1611e7a
+   v2: dae9fcff 52ea3583 3df99f1b 7c7c0000 2d5e347e
+   v3: dae9fcff 52ea6306 eb104a81 45410000 ee61137e
+   d0: bfe95c03 89ea6d81 6f119c07
+   d1: bfe95c03 89ea07f5 a707b580
+   d2: d7e9a4ff 45ea2580 08fa9200
+   pivots: 01000000 954856bf cac3223e b2f97c3f 0000...
+      f: -0.83705 0.15895 0.98819 1 0 0 0 0 1 0 1 0 -0.03 0 0 0 0 0 400 400 2 2
+   attributes: 1 0.2 0.3
+   sub0: a 1 b 1 prim 6 idx 214 [0..175] restarts 0  q 0 0 0 0
+   sub1: a 1 b 15 prim 6 idx 80 [29..176] restarts 0  q 0 0 0 0
+   sub2: a 3 b 1 prim 6 idx 104 [0..175] restarts 0  q 91 133 91 9
+   sub3: a 3 b 15 prim 6 idx 54 [29..180] restarts 0  q 167772160 963693352 963817216 0
+   sub4: a 4 b 1 prim 6 idx 21 [2..182] restarts 0  q 179 72 142 123
+   sub5: a 4 b 15 prim 6 idx 5 [29..174] restarts 0  q 103 87 115 112
+   sub6: a 2 b 1 prim 6 idx 149 [0..183] restarts 0  q 36 72 135 122
+   sub7: a 2 b 15 prim 6 idx 70 [29..180] restarts 0  q 167772169 3277240 963763168 211
+
+[44] 0B5168 'steering_wheel' head 00f8b562  verts 159 x20  damage 0 x0  subparts 1  size 4110
+   vert s16 bounds x -3727..-1456 y 3116..5269 z 1528..2580
+   v0: 71f1ff0f 6e077180 f2f5c1fc 2b000000 b83c4c1d
+   v1: 71f1ff0f 6e077180 f2f5c1fc 2c000000 7840051a
+   v2: 90f16311 e007ec83 e61da909 4d000000 b53c1e1d
+   v3: 90f16311 e007ec83 e61da909 4a000000 54407918
+   pivots: 00000000
+   attributes: 1 0 0
+   sub0: a 1 b 14 prim 6 idx 378 [0..158] restarts 0  q 0 0 0 0
+
+[45] 0B6176 'glassF_LOD1' head 01d572f4  verts 38 x20  damage 0 x0  subparts 4  size 1379
+   vert s16 bounds x -4370..4370 y 4817..7029 z 854..4946
+   v0: eeeed312 4c1083e4 0d6b8d40 dfb90000 37097403
+   v1: 77f08915 730c6cec b36df73e e7d60000 0b130609
+   v2: 7af29d18 9c0752f1 3470cf3b efe20000 311e5110
+   v3: 84f2d112 d511c3eb 8b6d093f daa70000 30097210
+   pivots: 00000000
+   attributes: 1 0 0
+   sub0: a 1 b 2 prim 6 idx 72 [0..37] restarts 0  q 0 0 0 0
+   sub1: a 2 b 2 prim 6 idx 43 [0..37] restarts 0  q 3 2 2 13
+   sub2: a 3 b 2 prim 6 idx 32 [0..37] restarts 0  q 7 9 7 10
+   sub3: a 4 b 2 prim 6 idx 5 [0..37] restarts 0  q 167772176 3277200 244318400 5
+
+[46] 0B66D9 'mirrorL_LOD1' head 01ea3f2d  verts 209 x20  damage 209 x12  subparts 9  size 8850
+   vert s16 bounds x -5965..-4352 y 4631..5572 z 2167..3696
+   v0: b3e85a13 89084581 39f5aaf1 8d8c0000 ea2a9124
+   v1: b4e8df13 8b08c782 040c66e8 918f0000 ee2a9124
+   v2: c1e8fd12 8d08318d 8bc7bf03 70550000 e72a9124
+   v3: c2e8d213 2c09ba81 f101d514 918e0000 ee2a9424
+   d0: b3e85a13 89084581 39f5aaf1
+   d1: b4e8df13 8b08c782 040c66e8
+   d2: c1e8fd12 8d08318d 8bc7bf03
+   pivots: 01000000 53793fbf 84f0343f 88110e3f 0000...
+      f: -0.74795 0.7068 0.55496 1 0 0 0 0 1 0 1 0 0 0 0 0 0 0 130 130 2 2
+   attributes: 1 0.2 0.1
+   sub0: a 1 b 1 prim 6 idx 351 [0..201] restarts 0  q 0 0 0 0
+   sub1: a 1 b 7 prim 6 idx 23 [16..149] restarts 0  q 0 0 0 0
+   sub2: a 1 b 15 prim 6 idx 17 [112..202] restarts 0  q 0 0 0 0
+   sub3: a 2 b 1 prim 6 idx 204 [2..200] restarts 0  q 524 524 506 505
+   sub4: a 2 b 7 prim 6 idx 18 [16..157] restarts 0  q 449 452 153 148
+   sub5: a 2 b 15 prim 6 idx 17 [112..202] restarts 0  q 1045718504 -1072991001 -1097198065 -1088409395
+   sub6: a 3 b 1 prim 6 idx 110 [2..208] restarts 0  q 0 0 0 0
+   sub7: a 3 b 7 prim 6 idx 11 [23..157] restarts 0  q 13 38 38 65
+   sub8: a 3 b 15 prim 6 idx 8 [118..199] restarts 0  q 79 38 38 22
+
+[47] 0B896B 'mirrorR_LOD1' head 01ea4e30  verts 207 x20  damage 207 x12  subparts 9  size 8796
+   vert s16 bounds x 4352..5965 y 4631..5572 z 2167..3696
+   v0: 0011c415 cc09738b 70cccb0b 52010000 b92a7123
+   v1: 0011c415 cc091b13 e37774d7 d5ba0000 462c9424
+   v2: 0011c415 cc09c114 5c6d2f3f ddc30000 462c9424
+   v3: 0211bc15 b209848b 1cccff0a 4f010000 b92a7123
+   d0: 0011c415 cc095f8f 60c3a804
+   d1: 0011c415 cc09d10f e57714d6
+   d2: 0011c415 cc09c114 5c6d2f3f
+   pivots: 01000000 53793f3f 84f0343f 88110e3f 0000...
+      f: 0.74795 0.7068 0.55496 1 0 0 0 0 1 0 1 0 0 0 0 0 0 0 130 130 2 2
+   attributes: 1 0.2 0.1
+   sub0: a 1 b 1 prim 6 idx 345 [1..202] restarts 0  q 0 0 0 0
+   sub1: a 1 b 7 prim 6 idx 22 [53..186] restarts 0  q 0 0 0 0
+   sub2: a 1 b 15 prim 6 idx 17 [0..90] restarts 0  q 0 0 0 0
+   sub3: a 3 b 1 prim 6 idx 111 [6..206] restarts 0  q 180 324 321 318
+   sub4: a 3 b 7 prim 6 idx 11 [45..166] restarts 0  q 0 0 0 0
+   sub5: a 3 b 15 prim 6 idx 9 [3..84] restarts 0  q 589 604 610 583
+   sub6: a 2 b 1 prim 6 idx 211 [2..200] restarts 0  q 335 150 115 97
+   sub7: a 2 b 7 prim 6 idx 21 [45..184] restarts 0  q 0 0 0 0
+   sub8: a 2 b 15 prim 6 idx 17 [0..90] restarts 0  q 0 0 0 0
+
+[48] 0BABC7 'caliperRF' head 00ca8e8b  verts 52 x20  damage 0 x0  subparts 1  size 1359
+   vert s16 bounds x 5042..5116 y 272..1676 z 8043..8558
+   v0: b2131001 4d200280 00000000 02010000 3c4ab805
+   v1: b2131001 4d200000 5887b62a 0d0d0000 3c4ab805
+   v2: b2131001 4d200000 1cbe4592 22210000 3c4ab805
+   v3: b2134c01 f6200180 00000000 01000000 d1480601
+   pivots: 00000000
+   attributes: 1 0 0
+   sub0: a 1 b 1 prim 6 idx 75 [0..51] restarts 0  q 0 0 0 0
+
+[49] 0BB116 'caliperLF' head 00ca888b  verts 52 x20  damage 0 x0  subparts 1  size 1359
+   vert s16 bounds x -5116..-5042 y 272..1676 z 8043..8558
+   v0: 04ec1001 4d200280 00000000 72710000 3c4ab805
+   v1: 04ec1001 4d200000 5887b62a 0e0e0000 3c4ab805
+   v2: 04ec1001 4d200000 1cbe4592 23230000 3c4ab805
+   v3: 04ec4c01 f6200180 00000000 77760000 d1480601
+   pivots: 00000000
+   attributes: 1 0 0
+   sub0: a 1 b 1 prim 6 idx 75 [0..51] restarts 0  q 0 0 0 0
+
+[50] 0BB665 'hood_LOD1' head 012ba73c  verts 253 x20  damage 253 x12  subparts 8  size 10501
+   vert s16 bounds x -4353..4353 y 3305..5071 z 4600..13873
+   v0: ffee9512 f81108b0 219c60fc 38000000 5419da11
+   v1: ffee9512 f8110cf3 407fb604 f4e70000 3d38ca67
+   v2: ffee9512 f8117d40 59af61b4 32000000 5419da11
+   v3: 00ef6712 c916d0ac d99e2dfb 44000000 54198c11
+   d0: ffee9512 f8119db2 3b9afff9
+   d1: ffee9512 f811dbf0 de7e9307
+   d2: ffee9512 f8117d40 59af61b4
+   pivots: 01000000 00000080 95d4393f afb1333f 0000...
+      f: 0 0.7259 0.70193 1 0 0 0 0 1 0 1 0 -0.03 0 0 -0.01 0 0 -350 -350 2 2
+   attributes: 1 0.2 0
+   sub0: a 1 b 1 prim 6 idx 281 [1..251] restarts 0  q 0 0 0 0
+   sub1: a 1 b 9 prim 6 idx 30 [0..103] restarts 0  q 0 0 0 0
+   sub2: a 1 b 15 prim 6 idx 109 [2..252] restarts 0  q 0 0 0 0
+   sub3: a 4 b 1 prim 6 idx 31 [1..251] restarts 0  q 1450 309 364 45
+   sub4: a 2 b 1 prim 6 idx 156 [1..251] restarts 0  q 24 26 196 228
+   sub5: a 2 b 15 prim 6 idx 135 [0..252] restarts 0  q 123 156 31 67
+   sub6: a 3 b 1 prim 6 idx 80 [1..251] restarts 0  q 0 0 0 0
+   sub7: a 3 b 15 prim 6 idx 84 [0..252] restarts 0  q 0 0 0 0
+
+[51] 0BDF6A 'headlightLdown_LOD1' head 01cc19bb  verts 37 x20  damage 37 x12  subparts 8  size 1993
+   vert s16 bounds x -4337..-2601 y 3244..3886 z 12251..13934
+   v0: 0fef110f db2fe3fa 757c711d fdfd0000 b61b2968
+   v1: 0fef110f db2f8901 9e88ded1 0e040000 b91b0611
+   v2: 11efed0e 7c309cf5 e6850cdb 0d010000 a51b0611
+   v3: 11efed0e 7c30ebf8 fd791826 f8f80000 181b2668
+   d0: 0fef110f db2f66fa 4b7a5b25
+   d1: 0fef110f db2f8901 9e88ded1
+   d2: 11efed0e 7c309cf5 e6850cdb
+   pivots: 00000000
+   attributes: 1 0 0
+   sub0: a 1 b 1 prim 6 idx 34 [0..35] restarts 0  q 0 0 0 0
+   sub1: a 1 b 9 prim 6 idx 29 [1..36] restarts 0  q 0 0 0 0
+   sub2: a 4 b 1 prim 6 idx 4 [0..33] restarts 0  q 21 8 8 21
+   sub3: a 4 b 27 prim 6 idx 7 [1..34] restarts 0  q 167772292 3277272 3277272 95
+   sub4: a 2 b 1 prim 6 idx 24 [0..35] restarts 0  q 841 873 872 872
+   sub5: a 2 b 27 prim 6 idx 25 [1..36] restarts 0  q 13 26 33 35
+   sub6: a 3 b 1 prim 6 idx 11 [0..33] restarts 0  q -1112016208 1061772333 1058825892 1065353216
+   sub7: a 3 b 27 prim 6 idx 13 [1..34] restarts 0  q -1 0 1065353216 2359329
+
+[52] 0BE733 'headlightRdown_LOD1' head 01cc19f1  verts 37 x20  damage 37 x12  subparts 8  size 1995
+   vert s16 bounds x 2601..4337 y 3244..3886 z 12251..13934
+   v0: 290a0c0f 1631f5ec 3d8719da 0f010000 8e1b0610
+   v1: 290a0c0f 16318b05 fb795e26 fafa0000 7e1a594d
+   v2: 5a0a270f a9307df1 8f8859d4 0d000000 9b1b0310
+   v3: 5a0a270f a9304305 337b4f22 fcfc0000 ea1a2b4d
+   d0: 290a0c0f 1631f5ec 3d8719da
+   d1: 290a0c0f 16318b05 fb795e26
+   d2: 5a0a270f a9307df1 8f8859d4
+   pivots: 00000000
+   attributes: 1 0 0
+   sub0: a 1 b 1 prim 6 idx 35 [1..36] restarts 0  q 0 0 0 0
+   sub1: a 1 b 9 prim 6 idx 29 [0..35] restarts 0  q 0 0 0 0
+   sub2: a 2 b 1 prim 6 idx 24 [1..36] restarts 0  q 12 30 17 12
+   sub3: a 2 b 27 prim 6 idx 25 [0..35] restarts 0  q 1065353216 1062896360 1052649340 1071084901
+   sub4: a 3 b 1 prim 6 idx 11 [3..36] restarts 0  q 11 15 26 -1
+   sub5: a 3 b 27 prim 6 idx 13 [2..35] restarts 0  q 13 15 22 9
+   sub6: a 4 b 1 prim 6 idx 4 [3..36] restarts 0  q 11 15 26 28
+   sub7: a 4 b 27 prim 6 idx 7 [2..35] restarts 0  q 167772169 3277232 965572752 26
+
+[53] 0BEEFE 'bumperFa_LOD1' head 017782f3  verts 1530 x20  damage 1530 x12  subparts 24  size 60291
+   vert s16 bounds x -5593..5593 y 207..2857 z 10971..15258
+   v0: 27ea8109 172b7582 ed09db16 8d8d0000 2a203875
+   v1: 27ea8109 172bbb00 b0c68f8d 34190000 f01db010
+   v2: 2deaa609 002b7b9c 6f4df415 96960000 3e201375
+   v3: 2deaa609 002b1700 97b91d95 330f0000 f01db010
+   d0: 27ea8209 172b7d82 240af116
+   d1: 27ea8209 172baf00 4ac6c28d
+   d2: 2deaa609 002bfe9c 1e4ed915
+   pivots: 01000000 0326583f 9413c53e 624ad63f 0000...
+      f: 0.84433 0.38492 1.67415 1 0 0 0 0 1 0 1 0 0 0.02 0 0 0.04 0 300 300 2 2
+   attributes: 1 0.2 0
+   sub0: a 1 b 1 prim 6 idx 1757 [0..1398] restarts 0  q 0 0 0 0
+   sub1: a 1 b 4 prim 6 idx 35 [216..1182] restarts 0  q 0 0 0 0
+   sub2: a 1 b 9 prim 6 idx 148 [1..1397] restarts 0  q 0 0 0 0
+   sub3: a 1 b 18 prim 6 idx 67 [46..1352] restarts 0  q 0 0 0 0
+   sub4: a 1 b 20 prim 6 idx 118 [42..1356] restarts 0  q 0 0 0 0
+   sub5: a 1 b 21 prim 6 idx 146 [196..1202] restarts 0  q 0 0 0 0
+   sub6: a 4 b 1 prim 6 idx 158 [17..1462] restarts 0  q 0 0 0 0
+   sub7: a 4 b 4 prim 6 idx 10 [242..1447] restarts 0  q 0 0 0 0
+   sub8: a 4 b 9 prim 6 idx 48 [18..1412] restarts 0  q 245 220 217 200
+   sub9: a 4 b 18 prim 6 idx 13 [46..1352] restarts 0  q 698 603 604 604
+   sub10: a 4 b 20 prim 6 idx 30 [45..1448] restarts 0  q 362 441 439 372
+   sub11: a 4 b 21 prim 6 idx 23 [209..1425] restarts 0  q 466 447 573 573
+   sub12: a 2 b 1 prim 6 idx 1106 [0..1491] restarts 0  q 304 248 248 243
+   sub13: a 2 b 4 prim 6 idx 10 [226..1172] restarts 0  q 304 248 248 243
+   sub14: a 2 b 9 prim 6 idx 142 [1..1397] restarts 0  q 196 208 236 1202
+   sub15: a 2 b 18 prim 6 idx 33 [46..1352] restarts 0  q 1096 1463 1098 1096
+   sub16: a 2 b 20 prim 6 idx 86 [42..1442] restarts 0  q 243 308 300 291
+   sub17: a 2 b 21 prim 6 idx 91 [196..1463] restarts 0  q 1190 1173 1187 1202
+   sub18: a 3 b 1 prim 6 idx 730 [2..1529] restarts 0  q 0 0 0 -1086433872
+   sub19: a 3 b 4 prim 6 idx 10 [226..1172] restarts 0  q 1121 1327 1284 1327
+   sub20: a 3 b 9 prim 6 idx 86 [3..1395] restarts 0  q 0 0 0 0
+   sub21: a 3 b 18 prim 6 idx 27 [46..1352] restarts 0  q 0 0 0 0
+   sub22: a 3 b 20 prim 6 idx 63 [45..1442] restarts 0  q 702 793 113 136
+   sub23: a 3 b 21 prim 6 idx 46 [196..1425] restarts 0  q 1441 68 45 392
+
+[54] 0CDA81 'bumperFc_LOD1' head 017788f3  verts 1455 x20  damage 1455 x12  subparts 16  size 57747
+   vert s16 bounds x -5593..5593 y 114..2857 z 10971..15269
+   v0: 27ea8109 172b7582 ed09db16 8d8d0000 20202475
+   v1: 27ea8109 172bbb00 b0c68f8d 38180000 0823d60c
+   v2: 2deaa609 002b7b9c 6f4df415 91910000 37200075
+   v3: 2deaa609 002b1700 97b91d95 300e0000 0523cf0c
+   d0: 27ea4509 172ba682 630ab317
+   d1: 27ea4509 172bfa03 68c7448d
+   d2: 2dea6a09 002b019e 924e9b18
+   pivots: 01000000 0326583f 9413c53e 624ad63f 0000...
+      f: 0.84433 0.38492 1.67415 1 0 0 0 0 1 0 1 0 0 0.02 0 0 0.04 0 300 300 2 2
+   attributes: 1 0.2 3
+   sub0: a 1 b 1 prim 6 idx 1924 [0..1360] restarts 0  q 0 0 0 0
+   sub1: a 1 b 15 prim 6 idx 192 [1..1359] restarts 0  q 0 0 0 0
+   sub2: a 1 b 18 prim 6 idx 151 [50..1310] restarts 0  q 0 0 0 0
+   sub3: a 1 b 20 prim 6 idx 147 [117..1243] restarts 0  q 0 0 0 0
+   sub4: a 3 b 1 prim 6 idx 694 [2..1403] restarts 0  q 624 657 657 678
+   sub5: a 3 b 15 prim 6 idx 91 [3..1371] restarts 0  q 168296852 577 461 400
+   sub6: a 3 b 18 prim 6 idx 49 [180..1310] restarts 0  q 43 -1 0 -1
+   sub7: a 3 b 20 prim 6 idx 88 [150..1079] restarts 0  q 43 0 0 -1
+   sub8: a 2 b 1 prim 6 idx 1150 [2..1406] restarts 0  q 344 410 410 417
+   sub9: a 2 b 15 prim 6 idx 116 [3..1357] restarts 0  q 176160768 3277232 964020024 1064604952
+   sub10: a 2 b 18 prim 6 idx 108 [50..1310] restarts 0  q 954 1000 1239 1295
+   sub11: a 2 b 20 prim 6 idx 126 [146..1215] restarts 0  q 168820872 3277320 3277320 365
+   sub12: a 4 b 1 prim 6 idx 219 [24..1454] restarts 0  q 963 1310 47 589830
+   sub13: a 4 b 15 prim 6 idx 19 [25..1371] restarts 0  q 963 1310 47 50
+   sub14: a 4 b 18 prim 6 idx 7 [360..1310] restarts 0  q 793 759 567 248
+   sub15: a 4 b 20 prim 6 idx 22 [365..1432] restarts 0  q 1118 1207 1414 1333
+
+[55] 0DBC14 'headlightRup_LOD1' head 0102cbc9  verts 205 x20  damage 205 x12  subparts 9  size 8151
+   vert s16 bounds x 2612..4327 y 3244..4559 z 12308..13938
+   v0: 340af80e e1301980 21fc1dfd 81010000 d31a7d4d
+   v1: 340af80e e13033f9 5e6ba9ba c67a0000 d31a7d4d
+   v2: 350abd0e fe300780 93fd0100 7e010000 da1a794d
+   v3: 350abd0e fe30d783 04e19502 71000000 233f0c10
+   d0: 400a3f0f cd309082 db1721f7
+   d1: 400a3f0f cd303312 615a37a7
+   d2: 330a0c0f f530cc82 d319b0f9
+   pivots: 00000000
+   attributes: 1 0 0
+   sub0: a 1 b 1 prim 6 idx 84 [0..145] restarts 0  q 0 0 0 0
+   sub1: a 1 b 4 prim 6 idx 54 [33..118] restarts 0  q 0 0 0 0
+   sub2: a 1 b 15 prim 6 idx 80 [3..146] restarts 0  q 0 0 0 0
+   sub3: a 2 b 1 prim 6 idx 113 [0..183] restarts 0  q 43 0 0 -1
+   sub4: a 2 b 4 prim 6 idx 42 [36..164] restarts 0  q 117 115 62 52
+   sub5: a 3 b 1 prim 6 idx 76 [0..189] restarts 0  q 36 40 40 56
+   sub6: a 3 b 4 prim 6 idx 21 [36..184] restarts 0  q 167776256 3277240 965579088 0
+   sub7: a 4 b 1 prim 6 idx 35 [0..204] restarts 0  q 148 156 24 21
+   sub8: a 4 b 4 prim 6 idx 10 [41..198] restarts 0  q 193 191 199 200
+
+[56] 0DDBEB 'headlightLup_LOD1' head 01cccac9  verts 212 x20  damage 212 x12  subparts 9  size 8335
+   vert s16 bounds x -4327..-2612 y 3244..4559 z 12308..13938
+   v0: 19ef980e 32300380 8e004501 80070000 73343a11
+   v1: 19ef980e 3230d2d2 0acb9894 57000000 641bfb67
+   v2: 19ef980e 323057ff 618551db 05010000 73343a11
+   v3: 1befd30e 1430c3a2 22dae9b0 5e000000 5d1bf867
+   d0: 20f0e60e 0230af8b df31e1ec
+   d1: 20f0e60e 02301cd2 f1caf294
+   d2: 20f0e60e 02304cf6 5585c8dc
+   pivots: 00000000
+   attributes: 1 0 0
+   sub0: a 1 b 1 prim 6 idx 83 [1..152] restarts 0  q 0 0 0 0
+   sub1: a 1 b 4 prim 6 idx 41 [29..119] restarts 0  q 0 0 0 0
+   sub2: a 1 b 15 prim 6 idx 86 [0..149] restarts 0  q 0 0 0 0
+   sub3: a 4 b 1 prim 6 idx 42 [3..175] restarts 0  q 131 156 159 160
+   sub4: a 4 b 4 prim 6 idx 4 [39..158] restarts 0  q 87 2162695 167772160 3277232
+   sub5: a 3 b 1 prim 6 idx 68 [1..198] restarts 0  q 116 112 112 102
+   sub6: a 3 b 4 prim 6 idx 21 [29..116] restarts 0  q 168296565 3277216 963940320 103
+   sub7: a 2 b 1 prim 6 idx 114 [1..211] restarts 0  q 96 87 87 42
+   sub8: a 2 b 4 prim 6 idx 36 [29..116] restarts 0  q 167772216 3277304 3277304 100
+
+[57] 0DFC7A 'bumperFd_LOD1' head 01778bf3  verts 967 x20  damage 967 x12  subparts 16  size 38703
+   vert s16 bounds x -5745..5745 y 35..2857 z 10971..15382
+   v0: 8fe92a01 972cf484 c9075d22 85850000 b81e347d
+   v1: 8fe92a01 972c67fe e7000580 44420000 9e1d4711
+   v2: a8e92300 952c8b84 69f66120 78780000 bb1e2d7e
+   v3: a8e92300 952c6700 c6000280 45440000 9e1d4a11
+   d0: 28ecc400 972c9983 c8f20c1b
+   d1: 28ecc400 972c38fd 81000a80
+   d2: 68ecc7ff 952cd285 5de32d19
+   pivots: 01000000 0326583f 9413c53e 624ad63f 0000...
+      f: 0.84433 0.38492 1.67415 1 0 0 0 0 1 0 1 0 0 0.02 0 0 0.04 0 300 300 2 2
+   attributes: 1 0.2 3
+   sub0: a 1 b 1 prim 6 idx 1214 [0..860] restarts 0  q 0 0 0 0
+   sub1: a 1 b 15 prim 6 idx 151 [1..859] restarts 0  q 0 0 0 0
+   sub2: a 1 b 18 prim 6 idx 67 [4..856] restarts 0  q 0 0 0 0
+   sub3: a 1 b 20 prim 6 idx 51 [199..661] restarts 0  q 0 0 0 0
+   sub4: a 4 b 1 prim 6 idx 159 [2..911] restarts 0  q 456 461 461 423
+   sub5: a 4 b 15 prim 6 idx 12 [3..857] restarts 0  q 886 434 880 224
+   sub6: a 4 b 18 prim 6 idx 17 [4..856] restarts 0  q 176 375 225 881
+   sub7: a 4 b 20 prim 6 idx 14 [271..897] restarts 0  q 434 440 175 900
+   sub8: a 2 b 1 prim 6 idx 857 [0..940] restarts 0  q 373 358 199 255
+   sub9: a 2 b 15 prim 6 idx 132 [1..859] restarts 0  q 625 235 235 335
+   sub10: a 2 b 18 prim 6 idx 43 [4..856] restarts 0  q 1052649340 1071084901 1065104799 -1150836265
+   sub11: a 2 b 20 prim 6 idx 43 [199..661] restarts 0  q 0 -1 -1 54591513
+   sub12: a 3 b 1 prim 6 idx 499 [0..966] restarts 0  q 817 812 51 48
+   sub13: a 3 b 15 prim 6 idx 80 [1..859] restarts 0  q 808 806 812 812
+   sub14: a 3 b 18 prim 6 idx 31 [4..856] restarts 0  q 809 912 392 374
+   sub15: a 3 b 20 prim 6 idx 19 [205..661] restarts 0  q 0 0 0 0
+
+[58] 0E93A9 'bumperFb_LOD1' head 017785f3  verts 1678 x20  damage 1678 x12  subparts 16  size 67009
+   vert s16 bounds x -5593..5593 y -81..2857 z 10971..15433
+   v0: 27ea8109 172b4a82 6907e416 8a8a0000 2a203875
+   v1: 27ea8109 172b3501 6ed30688 371d0000 e3258910
+   v2: 2deaa609 002b789c 6a4df515 94940000 3e201375
+   v3: 2deaa609 002b1700 97b91d95 34120000 e3258610
+   d0: 7ae9ea08 172b9e80 af022f0c
+   d1: 7ae9ea08 172b9ffe 42d4b887
+   d2: 83e91109 012b1d9a 474c850d
+   pivots: 01000000 0326583f 9413c53e 624ad63f 0000...
+      f: 0.84433 0.38492 1.67415 1 0 0 0 0 1 0 1 0 0 0.02 0 0 0.04 0 300 300 2 2
+   attributes: 1 0.2 3
+   sub0: a 1 b 1 prim 6 idx 2232 [0..1516] restarts 0  q 0 0 0 0
+   sub1: a 1 b 9 prim 6 idx 162 [1..1515] restarts 0  q 0 0 0 0
+   sub2: a 1 b 18 prim 6 idx 80 [33..1483] restarts 0  q 0 0 0 0
+   sub3: a 1 b 20 prim 6 idx 63 [236..1292] restarts 0  q 0 0 0 0
+   sub4: a 3 b 1 prim 6 idx 1180 [2..1594] restarts 0  q 317 248 248 236
+   sub5: a 3 b 9 prim 6 idx 105 [3..1534] restarts 0  q 168296481 3277216 965738464 751
+   sub6: a 3 b 18 prim 6 idx 42 [33..1483] restarts 0  q 0 0 0 0
+   sub7: a 3 b 20 prim 6 idx 55 [236..1292] restarts 0  q 110 -1 -1 0
+   sub8: a 2 b 1 prim 6 idx 1675 [0..1614] restarts 0  q 39 49 751 589827
+   sub9: a 2 b 9 prim 6 idx 115 [1..1515] restarts 0  q 483 1114116 167772160 3277208
+   sub10: a 2 b 18 prim 6 idx 55 [33..1483] restarts 0  q 39 49 751 578
+   sub11: a 2 b 20 prim 6 idx 62 [236..1292] restarts 0  q 167772340 3277224 964975736 168
+   sub12: a 4 b 1 prim 6 idx 272 [17..1677] restarts 0  q 703 1649 1649 1650
+   sub13: a 4 b 9 prim 6 idx 15 [18..1534] restarts 0  q 1243 1179663 168296702 3277296
+   sub14: a 4 b 18 prim 6 idx 17 [33..1483] restarts 0  q 846 828 831 841
+   sub15: a 4 b 20 prim 6 idx 36 [236..1657] restarts 0  q 1641 1538 1642 995
+
+[59] 0F996A 'bumperFrace_LOD1' head 01f54a0c  verts 1831 x20  damage 1831 x12  subparts 26  size 75970
+   vert s16 bounds x -5593..5593 y 132..2857 z 10971..15615
+   v0: 27ea8109 172b7582 ed09db16 8c8c0000 2a203875
+   v1: 27ea8109 172bbb00 b0c68f8d 36170000 f01db010
+   v2: 2deaa609 002b7b9c 6f4df415 96960000 3e201375
+   v3: 2deaa609 002b1700 97b91d95 2d0c0000 f01db010
+   d0: ffea7d08 112bde91 58050041
+   d1: ffea7d08 112b76ff 75c9368c
+   d2: fbeaa208 fc2aa9a3 fd412c3b
+   pivots: 01000000 0326583f 9413c53e 624ad63f 0000...
+      f: 0.84433 0.38492 1.67415 1 0 0 0 0 1 0 1 0 0 0.02 0 0 0.04 0 300 300 2 2
+   attributes: 1 0.2 0.8
+   sub0: a 1 b 1 prim 6 idx 1847 [0..1762] restarts 0  q 0 0 0 0
+   sub1: a 1 b 4 prim 6 idx 183 [236..1526] restarts 0  q 0 0 0 0
+   sub2: a 1 b 7 prim 6 idx 123 [382..1380] restarts 0  q 0 0 0 0
+   sub3: a 1 b 15 prim 6 idx 185 [1..1761] restarts 0  q 0 0 0 0
+   sub4: a 1 b 18 prim 6 idx 67 [46..1716] restarts 0  q 0 0 0 0
+   sub5: a 1 b 19 prim 6 idx 194 [59..1703] restarts 0  q 0 0 0 0
+   sub6: a 1 b 20 prim 6 idx 177 [42..1720] restarts 0  q 0 0 0 0
+   sub7: a 2 b 1 prim 6 idx 1534 [0..1767] restarts 0  q 46 57 316 57
+   sub8: a 2 b 4 prim 6 idx 156 [236..1768] restarts 0  q 167772179 3277320 3277320 589
+   sub9: a 2 b 7 prim 6 idx 123 [382..1380] restarts 0  q -1 0 1065353216 -1095421342
+   sub10: a 2 b 15 prim 6 idx 177 [1..1761] restarts 0  q 46 57 316 57
+   sub11: a 2 b 18 prim 6 idx 63 [46..1716] restarts 0  q 824 321 613 904
+   sub12: a 2 b 19 prim 6 idx 194 [59..1703] restarts 0  q 1441 1593 1621 1441
+   sub13: a 2 b 20 prim 6 idx 174 [42..1769] restarts 0  q 0 44 43 0
+   sub14: a 3 b 1 prim 6 idx 1179 [2..1787] restarts 0  q 1065353216 1065353216 0 1048361252
+   sub15: a 3 b 4 prim 6 idx 138 [236..1784] restarts 0  q 1052837916 1071056253 1061426651 1058984222
+   sub16: a 3 b 15 prim 6 idx 131 [3..1759] restarts 0  q 1064242564 -1085640225 1047782103 1071490826
+   sub17: a 3 b 18 prim 6 idx 37 [46..1716] restarts 0  q 1044670602 1065353216 1065353216 1065353216
+   sub18: a 3 b 19 prim 6 idx 178 [59..1703] restarts 0  q 506 504 498 504
+   sub19: a 3 b 20 prim 6 idx 62 [42..1785] restarts 0  q 447 202 176 180
+   sub20: a 4 b 1 prim 6 idx 729 [2..1830] restarts 0  q 1619 1606 1456 1606
+   sub21: a 4 b 4 prim 6 idx 58 [236..1808] restarts 0  q 167772333 3277232 965566840 673
+   sub22: a 4 b 15 prim 6 idx 86 [3..1759] restarts 0  q 1549 1441 1549 1593
+   sub23: a 4 b 18 prim 6 idx 17 [46..1716] restarts 0  q 1041532925 -1073638036 -1116946188 1065072259
+   sub24: a 4 b 19 prim 6 idx 114 [59..1792] restarts 0  q 1441 824 1338 1442
+   sub25: a 4 b 20 prim 6 idx 31 [45..1785] restarts 0  q 1573 1593 1441 1492
+
+[60] 10C22C 'bumperFe_LOD1' head 01778ef3  verts 1050 x20  damage 1050 x12  subparts 20  size 43593
+   vert s16 bounds x -5593..5593 y 207..2857 z 10971..15767
+   v0: 27ea8109 172b5082 3a08c016 90900000 2a203175
+   v1: 27ea8109 172b5c00 7cbda692 2e100000 ef1f800e
+   v2: 27ea8109 172b0101 e1cd3b8a 3c1d0000 ef1f800e
+   v3: 2deaa609 002b7b9c 6f4df415 93930000 3e200d75
+   d0: cbe90b09 172be884 f6e11c12
+   d1: cbe90b09 172ba701 53bf9091
+   d2: cbe90b09 172beb01 bbcee389
+   pivots: 01000000 0326583f 9413c53e 624ad63f 0000...
+      f: 0.84433 0.38492 1.67415 1 0 0 0 0 1 0 1 0 0 0.02 0 0 0.04 0 300 300 2 2
+   attributes: 1 0.2 3
+   sub0: a 1 b 1 prim 6 idx 1445 [0..982] restarts 0  q 0 0 0 0
+   sub1: a 1 b 4 prim 6 idx 35 [209..773] restarts 0  q 0 0 0 0
+   sub2: a 1 b 15 prim 6 idx 151 [1..981] restarts 0  q 0 0 0 0
+   sub3: a 1 b 18 prim 6 idx 67 [38..944] restarts 0  q 0 0 0 0
+   sub4: a 1 b 20 prim 6 idx 25 [356..626] restarts 0  q 0 0 0 0
+   sub5: a 3 b 1 prim 6 idx 838 [0..1004] restarts 0  q -1100251503 1065353216 1065353216 1065353216
+   sub6: a 3 b 4 prim 6 idx 17 [209..992] restarts 0  q 619 527 527 525
+   sub7: a 3 b 15 prim 6 idx 96 [1..981] restarts 0  q 729 623 696 727
+   sub8: a 3 b 18 prim 6 idx 31 [42..940] restarts 0  q 884 953 891 974
+   sub9: a 3 b 20 prim 6 idx 24 [356..626] restarts 0  q 801 801 808 827
+   sub10: a 4 b 1 prim 6 idx 179 [19..1044] restarts 0  q 167772362 3277224 3277224 6
+   sub11: a 4 b 4 prim 6 idx 10 [1010..1027] restarts 0  q 267 270 939 962
+   sub12: a 4 b 15 prim 6 idx 47 [20..1036] restarts 0  q 168296487 3277304 3277304 268
+   sub13: a 4 b 18 prim 6 idx 9 [42..940] restarts 0  q 965390264 191 182 271
+   sub14: a 4 b 20 prim 6 idx 8 [363..1048] restarts 0  q 676 1007 1009 1016
+   sub15: a 2 b 1 prim 6 idx 1195 [0..1049] restarts 0  q 1034 421 271 987
+   sub16: a 2 b 4 prim 6 idx 19 [209..992] restarts 0  q 0 0 0 0
+   sub17: a 2 b 15 prim 6 idx 142 [1..981] restarts 0  q 977 970 970 974
+   sub18: a 2 b 18 prim 6 idx 47 [38..944] restarts 0  q 728 812 807 789
+   sub19: a 2 b 20 prim 6 idx 25 [356..626] restarts 0  q 891 867 861 861
+
+tail at 116C75:
+  116C75 Flare v0 size 50: 00000000 ffffffff 0000003f 6492093f e757173f 19730640 00000080 00000080 0000803f
+     f: 0 508515800000000 12141430000000000000000000000000 0 0 0
+  116CA7 Flare v0 size 50: 00000000 ffffffff 0000003f e41409bf e757173f 19730640 00000080 00000080 0000803f
+     f: 0 509615400000000 12141430000000000000000000000000 0 0 0
+  116CD9 Line v1 size 145: 000d69c3 0000403f 05000000 b307523f 4b41133f 408cd8be 5e2e7a3f 5d4d583e 5d78933c 334b523f d34d123f ed81debe
+  116D6A Line v1 size 121: 00c3af72 00004040 04000000 7e00babe baa58f3f 7f1815bf f250c8bd a2967e3f 0beb1abd a115a0be f73b903f 8ca118bf
+  116DE3 Line v1 size 121: 000d6cc3 00004040 04000000 d257e03e 139bff3e 87160840 4e5abf3d a94f553f ca810b3f 97e2123f 5f80fd3e 93000740
+  116E5C Line v1 size 241: 00c3a978 00004040 09000000 437329bf 14b3163f a549ef3f 819f8dbd 5cd6773f 748d763e 7a5814bf 0f28173f 9b6df03f
+  116F4D Line v1 size 193: 000d6fc3 0000403f 07000000 44dd2b3f a04f503f dfdb07c0 9b457cbf dd09bebd d0e811be f6ee2b3f 957d4f3f 30d807c0
+  11700E Line v1 size 97: 000d72c3 0000403f 03000000 37323f3f 0f45353f 174d0f3f 63644a3f f9b61c3f fda26e3c 53793f3f 84f0343f 88110e3f
+  11706F Line v1 size 97: 00c3a67b 0000403f 03000000 78d14f3f 29d0233f b0e6d8bf c9647d3f f10a0a3e 02083bbd af08523f d09b123f 936ad9bf
+  1170D0 Line v1 size 97: 000d75c3 0000403f 03000000 72a7503f eef01b3f d7e213bf ffc05d3e b5bb75bf 6854363e af5f503f fc8c1b3f 491101bf
+  117131 Line v1 size 145: 00c39775 0000403f 05000000 ef2022bf fd6a523f 2849f1bf aacf3fbe 10197b3f fc6c5a3d be6a25bf 2362523f ba49fabf
+  1171C2 Line v1 size 145: 000d78c3 00004040 05000000 00000080 6458093f af7c0740 238439b4 0a9f633f ba4dea3e 1366da3d 1231093f 91610740
+  117253 Line v1 size 289: 00c3ac78 0000403f 0b000000 250b50bf 0b291b3f 3099dabe bb4778bf 79c8773e 82bfeebc 785d4fbf 0bba1d3f c5ebdabe
+  117374 Line v1 size 121: 000d7bc3 00004040 04000000 7e00ba3e baa58f3f 7f1815bf dcfcc73d 1b967e3f e2781dbd a115a03e f73b903f 8ca118bf
+  1173ED Line v1 size 145: 00c39a75 0000403f 05000000 ff7d4ebf 0a33253f 67da1abf 75b872bf 2735a23e 1e6bd63c bd524ebf e887253f 3f3a19bf
+  11747E Line v1 size 145: 000d7ec3 00004040 05000000 3e44cb3e 4a80163f a071f53f fb0cbf3c 98cd763f 727a873e 9031cf3e 871b103f 3333ff3f
+  11750F Line v1 size 145: 000d81c3 0000403f 05000000 ef20223f fd6a523f 2849f1bf 19e87bbf deb637bb 115d36be be6a253f 2362523f ba49fabf
+  1175A0 Line v1 size 145: 00c3976c 0000403f 05000000 ff7d4e3f 0a33253f 67da1abf ca2d6e3f fff8ba3e f718033d bd524e3f e887253f 3f3a19bf
+  117631 Line v1 size 217: 00c39d75 00004040 08000000 07ce31bf 130fc03e c4420940 81d63bbf 01eb003d 36bf2d3f f7af28bf 5a12c03e 93cb0a40
+  11770A Line v1 size 217: 00c39a6c 00004040 08000000 07ce313f 130fc03e c4420940 a3ec3a3f f1d2f43c 69bf2e3f f7af283f 5a12c03e 93cb0a40
+  1177E3 Line v1 size 361: 00c3af78 0000403f 0e000000 88465bbf f7e9c83e d925883f fed37dbf b958ffbd 6c8816bd cb105bbf 0c1fc93e 0517853f
+  11794C Line v1 size 241: 00c39d6c 00004040 09000000 3c6b4b3f 6bbc243e 99121d3f 5dde7f3f ce96c63c 0c96abbc be524a3f efb1243e fb96d13e
+  117A3D Line v1 size 241: 00c3a075 00004040 09000000 3c6b4bbf 6bbc243e 99121d3f 5ade7fbf 4f9ac63c 2399abbc be524abf efb1243e fb96d13e
+  117B2E Line v1 size 169: 00c3a06c 0000403f 06000000 fb0a2a3f efac593f 0dfdc33e b9693a3f 051f2b3f b71c1b3e 05512f3f cfdf503f 7afcde3e
+  117BD7 Line v1 size 241: 00c3a97b 0000403f 09000000 ef5a523f a4c2083f 1bb6d9bf 50967f3f bf93143d 44de32bd a27f523f be6a053f 4868d9bf
+  117CC8 Line v1 size 169: 00c3a36c 0000403f 06000000 c4eb3e3f 4c6c363f 880cdb3e fb71493f b5ed1d3f 38c1723c 21073d3f 47eb383f cf88da3e
+  117D71 Line v1 size 169: 00c3a375 0000403f 06000000 fb0a2abf efac593f 0dfdc33e a47768bf 28b7d13e 3bd9b2bd 05512fbf cfdf503f 7afcde3e
+  117E1A Line v1 size 505: 00c3a66c 00004040 14000000 8eb43c3f 003a383f ef201a3f 1d5d293f 78cd3d3f ff0be63d ec4c413f 4b1f323f 1a8b223f
+  118013 Line v1 size 217: 00c3b278 00004040 08000000 9cbfb9be 45698f3f 6232b5bd 1379f0bd 65b67d3f 1299813d 670fccbe 630b8f3f 7f3afebd
+  1180EC Line v1 size 121: 00c3a96c 00004040 04000000 00000000 65c7903f bce88bbd f6183bb9 aeae7f3f 7ffb4b3d c1e2303e e27a903f 897b8cbd
+  118165 Line v1 size 169: 00c3a675 0000403f 06000000 c4eb3ebf 4c6c363f 880cdb3e 787f49bf 86dc1d3f b281723c 21073dbf 9beb383f cf88da3e
+  11820E Line v1 size 193: 00c3ac6c 0000403f 07000000 7bda4d3f 8880233f b8e9d7be 205f683f 1b85d63e cc94bc3c 809a4e3f b858213f bdfbd3be
+  1182CF Line v1 size 241: 00c3977e 00004040 09000000 f87099be 47b1083f 61fd0bc0 92d5c6bd 99ed08bf a0de56bf 9f7199be b4760b3f eb6e0cc0
+  1183C0 Line v1 size 313: 00c3af6c 00004040 0c000000 5a2f263f 23f8ff3e 6de70540 d01bc53d f40d4d3f 4244173f a29c283f 946a033f 48a70440
+  1184F9 Line v1 size 505: 00c3a975 00004040 14000000 8eb43cbf 003a383f ef201a3f 48672fbf 6470373f e7d9053e ec4c41bf 4b1f323f 1a8b223f
+  1186F2 Line v1 size 145: 00c3b26c 0000403f 05000000 2fe21f3f 3f74453f 6d5be6bf 23a1863d f3477f3f cdf912bd aaf6213f b684443f 3d0af1bf
+  118783 Line v1 size 289: 00c3977b 00004040 0b000000 032658bf 9413c53e 624ad63f 7d1c7bbf 2463f6bc 6bc4443e 6d3957bf 1ee1c43e 8755d83f
+  1188A4 Line v1 size 241: 00c3976f 00004040 09000000 b01b4e3f f2eae43e cf8304c0 b137513e 6f246d3f b808a2be a9de3e3f 207be53e a03706c0
+  118995 Line v1 size 145: 00c3ac75 0000403f 05000000 b30752bf 4b41133f 408cd8be 75e97abf 45f3483e 6421ee3c 334b52bf d34d123f ed81debe
+  118A26 Line v1 size 505: 00c39a6f 00004040 14000000 64754b3f b75d283e 75ea1ebf 8f9f7d3f 5efc623d 363dfe3d f0a24b3f f0332e3e 2acb20bf
+  118C1F Line v1 size 241: 00c3ac7b 00004040 09000000 9f71993e 81ec313f 884b09c0 d2aa473c 78e5773f fb4c7fbe 0b80993e 6a6f303f 90bd0ac0
+  118D10 Line v1 size 169: 00c39d6f 0000403f 06000000 a7b8523f c1e7133f 3ba51bbf e3727a3f 8225533e 17f09f3c 936f523f 5d6d153f 761a1dbf
+  118DB9 Line v1 size 193: 00c3af75 0000403f 07000000 7bda4dbf 8880233f b8e9d7be 570876bf 2bad8c3e 1790f0bc 809a4ebf b858213f bdfbd3be
+  118E7A Line v1 size 241: 00c3a06f 00004040 09000000 fbc6573f b003d73e f701bebf a8457b3f 38d999bd d52734be b8c7563f 30bbd73e adddc0bf
+  118F6B Line v1 size 241: 00c39a7b 00004040 09000000 a29c28bf 946a033f 48a70440 801159be 1820643f e36ccd3e 894633bf 5070013f 9f5e0440
+  11905C Line v1 size 121: 00c3a36f 0000403f 04000000 3fc63c3f 5760383f e965103f 65824a3f 488f1c3f 9115783c 8eb43c3f 003a383f ef201a3f
+  1190D5 Line v1 size 313: 00c3b275 00004040 0c000000 5a2f26bf 23f8ff3e 6de70540 9ca1c4bd 96ee4c3f 3971173f a29c28bf 946a033f 48a70440
+  11920E Line v1 size 145: 00c3a66f 00004040 05000000 4373293f 14b3163f a549ef3f ac5e8d3d 61d3773f a4c6763e 7a58143f 0f28173f 9b6df03f
+  11929F Line v1 size 289: 00c3a96f 0000403f 0b000000 250b503f 0b291b3f 3099dabe 98a7643e 21bd77bf 332cefbd 785d4f3f 0bba1d3f c5ebdabe
+  1193C0 Line v1 size 145: 00c39778 0000403f 05000000 2fe21fbf 3f74453f 6d5be6bf 068a88bd 31437f3f 573114bd aaf621bf b684443f 3d0af1bf
+  119451 Line v1 size 361: 00c3ac6f 0000403f 0e000000 88465b3f f7e9c83e d925883f 7dd27d3f 5e9fffbd 193217bd cb105b3f 0c1fc93e 0517853f
+  1195BA Line v1 size 193: 00c39d7b 00004040 07000000 f662c8be 0de0e53e 3baf0bc0 38e6f6bc a5a2783f d9e371be f662c8be b87aee3e abd40bc0
+  11967B Line v1 size 217: 00c3af6f 00004040 08000000 9cbfb93e 45698f3f 6232b5bd b373f13d dab17d3f 54ff813d 670fcc3e 630b8f3f 7f3afebd
+  119754 Line v1 size 241: 00c39a78 00004040 09000000 b01b4ebf f2eae43e cf8304c0 bafe5dbe 555d6c3f 3b54a2be a9de3ebf 207be53e a03706c0
+  119845 Line v1 size 289: 00c3b26f 00004040 0b000000 0326583f 9413c53e 624ad63f ebbf7a3f b94d00bd 9ad04b3e 6d39573f 1ee1c43e 8755d83f
+  119966 Line v1 size 241: 00c39772 00004040 09000000 a29c283f 946a033f 48a70440 c263563e f730643f dfd5cd3e 8946333f 5070013f 9f5e0440
+  119A57 Line v1 size 505: 00c39d78 00004040 14000000 64754bbf b75d283e 75ea1ebf dfc27ebf 1cc633bd 4b0ab43d f0a24bbf f0332e3e 2acb20bf
+  119C50 Line v1 size 193: 00c39a72 00004040 07000000 f662c83e 65dfe53e 3baf0bc0 c102f53c b9a0783f 420b72be f662c83e 107aee3e abd40bc0
+  119D11 Line v1 size 169: 00c3a07b 0000403f 06000000 8750513f 0c76273f 9d85c3bf 2d0e783f 75ea793e 15bb20bd 6093513f 8772263f 8cf3c1bf
+  119DBA Line v1 size 121: 00c39d72 00004040 04000000 00000080 65c7903f bce88bbd f6183bb9 aeae7f3f 7ffb4b3d c1e230be e27a903f 897b8cbd
+  119E33 Line v1 size 169: 00c3a078 0000403f 06000000 a7b852bf c1e7133f 3ba51bbf 43d97abf 1ab64b3e 5e08853c 936f52bf 5d6d153f 761a1dbf
+  119EDC Line v1 size 121: 00c3a072 00004040 04000000 d257e0be 139bff3e 87160840 7c5abfbd 0343553f 25950b3f 97e212bf 5f80fd3e 93000740
+  119F55 Line v1 size 193: 00c3a372 0000403f 07000000 44dd2bbf a04f503f dfdb07c0 89fc09bf 63f1563f 5a7889bd f6ee2bbf 957d4f3f 30d807c0
+  11A016 Line v1 size 241: 00c3a378 00004040 09000000 fbc657bf b003d73e f701bebf e2457bbf 03d599bd 712334be b8c756bf 30bbd73e adddc0bf
+  11A107 Line v1 size 97: 00c3a672 0000403f 03000000 37323fbf 0f45353f 174d0f3f ef684abf 03b11c3f 7d966f3c 53793fbf 84f0343f 88110e3f
+  11A168 Line v1 size 169: 00c3a37b 0000403f 06000000 8750513f 0c76273f 9d85c3bf 2d0e783f 75ea793e 15bb20bd 77f84f3f 5ef9283f 2fc5cfbf
+  11A211 Line v1 size 97: 00c3a972 0000403f 03000000 72a750bf eef01b3f d7e213bf 85297abf e48f583e 6abb9b3c af5f50bf fc8c1b3f 491101bf
+  11A272 Line v1 size 121: 00c3a678 0000403f 04000000 3fc63cbf 5760383f e965103f aa8e4abf 647f1c3f e313783c 8eb43cbf 003a383f ef201a3f
+  11A2EB Line v1 size 145: 00c3ac72 00004040 05000000 00000000 6458093f af7c0740 238439b4 0a9f633f ba4dea3e 1366dabd 1231093f 91610740
+end 11A37C file 11A37C
+
+subpart a/b/prim:
+     5 a1 b19 prim6
+     5 a2 b19 prim6
+     5 a3 b19 prim6
+     5 a4 b19 prim6
+    44 a1 b1 prim6
+    36 a4 b1 prim6
+    38 a2 b1 prim6
+    38 a3 b1 prim6
+    10 a1 b7 prim6
+    16 a1 b9 prim6
+    25 a1 b15 prim6
+    16 a1 b18 prim6
+    10 a2 b7 prim6
+    13 a2 b9 prim6
+    23 a2 b15 prim6
+    15 a2 b18 prim6
+     8 a3 b7 prim6
+    13 a3 b9 prim6
+    23 a3 b15 prim6
+    15 a3 b18 prim6
+    12 a1 b20 prim6
+    12 a2 b20 prim6
+     8 a4 b9 prim6
+     9 a4 b18 prim6
+    10 a4 b20 prim6
+    12 a3 b20 prim6
+    14 a4 b15 prim6
+     5 a1 b21 prim6
+     5 a2 b21 prim6
+     5 a3 b21 prim6
+     5 a4 b21 prim6
+     2 a1 b27 prim6
+     4 a3 b27 prim6
+     4 a2 b27 prim6
+     6 a1 b2 prim6
+     6 a4 b2 prim6
+     6 a3 b2 prim6
+     6 a2 b2 prim6
+     3 a1 b6 prim6
+     3 a3 b6 prim6
+     3 a2 b6 prim6
+     3 a4 b6 prim6
+     2 a1 b14 prim6
+     1 a4 b14 prim6
+     1 a3 b14 prim6
+     1 a2 b14 prim6
+     1 a1 b3 prim6
+     1 a1 b5 prim6
+     1 a1 b25 prim6
+     1 a2 b3 prim6
+     1 a2 b5 prim6
+     1 a2 b25 prim6
+     1 a3 b3 prim6
+     1 a3 b5 prim6
+     1 a3 b25 prim6
+     1 a5 b1 prim6
+     1 a5 b2 prim6
+     1 a5 b18 prim6
+     1 a5 b20 prim6
+     1 a4 b3 prim6
+     1 a4 b5 prim6
+     3 a4 b27 prim6
+     5 a1 b4 prim6
+     5 a4 b4 prim6
+     5 a2 b4 prim6
+     5 a3 b4 prim6

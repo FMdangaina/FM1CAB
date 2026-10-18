@@ -1,0 +1,1239 @@
+﻿type 2  file 3697427
+0x004 64 floats: 2.49612 0.30474 0.03894 -1.21787 0.29603 -0.01126 0.15031 0.00807 -0.5966 0.0574 -0.03318 -0.00635 0.00912 -0.22948 -0.00727 -0.04253 2.44368 0.27535 0.02972 1.26864 -0.24363 -0.06086 0.12571 -0.00926 -0.58372 0.03227 0.01244 -0.02196 -0.02177 0.22356 -0.02746 0.02435 2.48563 0.21356 -0.06451 1.19278 -0.22241 -0.07614 0.0972 -0.04012 -0.65324 0.06617 -0.00097 -0.05019 -0.07989 0.1311 -0.05461 0.08749 2.5171 0.25858 -0.06805 -1.17286 0.28172 -0.01061 0.12051 0.00332 -0.64035 0.08203 -0.0089 -0.03405 -0.07582 -0.18589 -0.0196 -0.08226
+0x104 2CA
+0x108 1
+0x10C records x140: 1
+   rec0: 0 0 NaN 1 0 0 0 0 1 0 0 0 0 1 0 -0.53387 0.12041 2.15128 1 1 0 0 0 0 1 0 0 0 0 1 0 0.00097 -0.02455 0.99916 1
+19C 0x6c bytes: 00000001 3ed8b9a8 3f15af80 bdecc65a 00000000 34270eea 3e97e764 3f747939 00000000 3e508d8a 3f2bc3ef bdf0dffd 00000000 3f269277 3f2bc48b bdf0dd37 00000000 3ede9887 3e288753 3ea4ee43 00000000 3a7f51b3 3ebe3dfb bcf9e15d 00000000 00000004 00000004
+    floats: 0 0.42329 0.58471 -0.11561 0 0 0.29669 0.95497 0 0.20366 0.67096 -0.11761 0 0.65067 0.67097 -0.11761 0 0.43476 0.16458 0.32213 0 0.00097 0.37157 -0.0305 0 0 0
+208 draw lists: 5 x2
+   list0: 16 entries
+   list1: 16 entries
+   list2: 15 entries
+   list3: 15 entries
+   list4: 15 entries
+   list5: 170 entries
+   list6: 160 entries
+   list7: 157 entries
+   list8: 146 entries
+   list9: 130 entries
+F54 word 1
+sections: 52
+
+[0] 000F5C 'glassRTL' marker 2C9  offset 0.4094 0.63002 2.09579  min -0.2225 -0.04712 -0.06364  max 0.2225 0.04712 0.06364
+   1c: 00000000 3cacb940 bba4f500 3a396000 00000000 00000001 00000001
+       f: 0 0.02108 -0.00503 0.00071 0 0 0
+   arrayA 41 x16  w 00000001  arrayB 135 x2  w 00000029  vbTest 01000000 01000000  w3 00000002 00000001
+   LOD VB 0 x60  w4 00000001  subsections 5
+   sub0: pre 00000001 00000003  'glass' itype 6 lod 1 (3) idx 68 x2 max 35 restarts 3
+   sub1: pre 00000001 00000003  'glass' itype 6 lod 2 (3) idx 53 x2 max 36 restarts 2
+   sub2: pre 00000001 00000003  'glass' itype 6 lod 3 (3) idx 31 x2 max 39 restarts 2
+   sub3: pre 00000001 00000003  'glass' itype 6 lod 4 (3) idx 22 x2 max 38 restarts 1
+   sub4: pre 00000001 00000003  'glass' itype 6 lod 5 (3) idx 18 x2 max 41 restarts 1
+   (uses shared glass VB)
+
+[1] 0015B0 'glassLTL' marker 2C9  offset -0.4094 0.63002 2.09569  min -0.2225 -0.04712 -0.06373  max 0.2225 0.04712 0.06373
+   1c: 00000000 bcad2720 bb5f8300 b8740000 00000000 00000001 00000001
+       f: 0 -0.02114 -0.00341 -0.00006 0 0 0
+   arrayA 42 x16  w 00000001  arrayB 138 x2  w 002a0055  vbTest 01000000 01000000  w3 00000002 00000001
+   LOD VB 0 x60  w4 00000001  subsections 5
+   sub0: pre 00000001 00000003  'glass' itype 6 lod 1 (3) idx 67 x2 max 36 restarts 2
+   sub1: pre 00000001 00000003  'glass' itype 6 lod 2 (3) idx 51 x2 max 37 restarts 2
+   sub2: pre 00000001 00000003  'glass' itype 6 lod 3 (3) idx 33 x2 max 40 restarts 2
+   sub3: pre 00000001 00000003  'glass' itype 6 lod 4 (3) idx 23 x2 max 40 restarts 1
+   sub4: pre 00000001 00000003  'glass' itype 6 lod 5 (3) idx 11 x2 max 43 restarts 0
+   (uses shared glass VB)
+
+[2] 001C0C 'bumperRa' marker 2C9  offset -0.00004 0.35891 2.10651  min -0.75422 -0.27435 -0.15448  max 0.75422 0.27435 0.15448
+   1c: 3f800000 bd839306 3d289e20 3a998000 3727c5ac 00000001 00000001
+       f: 1 -0.06425 0.04117 0.00117 0.00001 0 0
+   arrayA 0 x16  w 00000001  arrayB 0 x2  w 000003de  vbTest 00000000 01000000  w3 00000002 00000001
+   LOD VB 0 x60  w4 00000001  subsections 15
+   sub0: pre 00000001 00000003  'body' itype 6 lod 1 (3) idx 1664 x2 max 738 restarts 116
+   sub1: pre 00000001 00000003  'frame' itype 6 lod 1 (3) idx 172 x2 max 849 restarts 30
+   sub2: pre 00000001 00000003  'black' itype 6 lod 1 (3) idx 43 x2 max 877 restarts 2
+   sub3: pre 00000001 00000003  'body' itype 6 lod 2 (3) idx 733 x2 max 939 restarts 42
+   sub4: pre 00000001 00000003  'frame' itype 6 lod 2 (3) idx 105 x2 max 956 restarts 8
+   sub5: pre 00000001 00000003  'black' itype 6 lod 2 (3) idx 39 x2 max 970 restarts 3
+   sub6: pre 00000001 00000003  'body' itype 6 lod 3 (3) idx 556 x2 max 976 restarts 33
+   sub7: pre 00000001 00000003  'frame' itype 6 lod 3 (3) idx 100 x2 max 956 restarts 8
+   sub8: pre 00000001 00000003  'black' itype 6 lod 3 (3) idx 27 x2 max 968 restarts 3
+   sub9: pre 00000001 00000003  'body' itype 6 lod 4 (3) idx 399 x2 max 979 restarts 24
+   sub10: pre 00000001 00000003  'frame' itype 6 lod 4 (3) idx 93 x2 max 956 restarts 10
+   sub11: pre 00000001 00000003  'black' itype 6 lod 4 (3) idx 24 x2 max 966 restarts 3
+   sub12: pre 00000001 00000003  'body' itype 6 lod 5 (3) idx 198 x2 max 990 restarts 15
+   sub13: pre 00000001 00000003  'frame' itype 6 lod 5 (3) idx 86 x2 max 956 restarts 9
+   sub14: pre 00000001 00000003  'black' itype 6 lod 5 (3) idx 24 x2 max 966 restarts 3
+   (uses shared body VB)
+
+[3] 003FFD 'bumperRb' marker 2C9  offset -0.00004 0.35688 2.10651  min -0.75422 -0.27638 -0.15448  max 0.75422 0.27638 0.15448
+   1c: 3f800000 bcef129c 3d25f4a8 3c285100 3727c5ac 00000001 00000001
+       f: 1 -0.02918 0.04052 0.01027 0.00001 0 0
+   arrayA 0 x16  w 00000001  arrayB 0 x2  w 03df0890  vbTest 00000000 01000000  w3 00000002 00000001
+   LOD VB 0 x60  w4 00000001  subsections 20
+   sub0: pre 00000001 00000003  'body' itype 6 lod 1 (3) idx 1407 x2 max 717 restarts 100
+   sub1: pre 00000001 00000003  'plastic2' itype 6 lod 1 (3) idx 259 x2 max 885 restarts 23
+   sub2: pre 00000001 00000003  'frame' itype 6 lod 1 (3) idx 165 x2 max 989 restarts 28
+   sub3: pre 00000001 00000003  'black' itype 6 lod 1 (3) idx 58 x2 max 1023 restarts 7
+   sub4: pre 00000001 00000003  'body' itype 6 lod 2 (3) idx 848 x2 max 1109 restarts 50
+   sub5: pre 00000001 00000003  'plastic2' itype 6 lod 2 (3) idx 244 x2 max 885 restarts 19
+   sub6: pre 00000001 00000003  'frame' itype 6 lod 2 (3) idx 107 x2 max 1148 restarts 7
+   sub7: pre 00000001 00000003  'black' itype 6 lod 2 (3) idx 43 x2 max 1164 restarts 3
+   sub8: pre 00000001 00000003  'body' itype 6 lod 3 (3) idx 555 x2 max 1166 restarts 43
+   sub9: pre 00000001 00000003  'plastic2' itype 6 lod 3 (3) idx 234 x2 max 884 restarts 19
+   sub10: pre 00000001 00000003  'frame' itype 6 lod 3 (3) idx 83 x2 max 1148 restarts 5
+   sub11: pre 00000001 00000003  'black' itype 6 lod 3 (3) idx 27 x2 max 1164 restarts 3
+   sub12: pre 00000001 00000003  'body' itype 6 lod 4 (3) idx 386 x2 max 1171 restarts 26
+   sub13: pre 00000001 00000003  'plastic2' itype 6 lod 4 (3) idx 231 x2 max 884 restarts 18
+   sub14: pre 00000001 00000003  'frame' itype 6 lod 4 (3) idx 67 x2 max 1147 restarts 5
+   sub15: pre 00000001 00000003  'black' itype 6 lod 4 (3) idx 26 x2 max 1163 restarts 3
+   sub16: pre 00000001 00000003  'plastic2' itype 6 lod 5 (3) idx 160 x2 max 1201 restarts 12
+   sub17: pre 00000001 00000003  'body' itype 6 lod 5 (3) idx 254 x2 max 1171 restarts 15
+   sub18: pre 00000001 00000003  'frame' itype 6 lod 5 (3) idx 65 x2 max 1147 restarts 5
+   sub19: pre 00000001 00000003  'black' itype 6 lod 5 (3) idx 26 x2 max 1163 restarts 3
+   (uses shared body VB)
+
+[4] 006C62 'wingrace' marker 2C9  offset -0.00005 0.91279 1.98666  min -0.66737 -0.14892 -0.15039  max 0.66737 0.14892 0.15039
+   1c: 3f800000 bb95816b 3cf6f880 bac9a400 3727c5ac 00000001 00000001
+       f: 1 -0.00456 0.03015 -0.00154 0.00001 0 0
+   arrayA 0 x16  w 00000001  arrayB 0 x2  w 08910e58  vbTest 00000000 01000000  w3 00000002 00000001
+   LOD VB 0 x60  w4 00000001  subsections 12
+   sub0: pre 00000001 00000003  'carbon_fiber' itype 6 lod 1 (3) idx 802 x2 max 517 restarts 116
+   sub1: pre 00000001 00000003  'rubber_trim' itype 6 lod 1 (3) idx 117 x2 max 601 restarts 20
+   sub2: pre 00000001 00000003  'chrome' itype 6 lod 1 (3) idx 575 x2 max 971 restarts 133
+   sub3: pre 00000001 00000003  'carbon_fiber' itype 6 lod 2 (3) idx 581 x2 max 1137 restarts 61
+   sub4: pre 00000001 00000003  'rubber_trim' itype 6 lod 2 (3) idx 45 x2 max 601 restarts 4
+   sub5: pre 00000001 00000003  'chrome' itype 6 lod 2 (3) idx 561 x2 max 971 restarts 129
+   sub6: pre 00000001 00000003  'carbon_fiber' itype 6 lod 3 (3) idx 581 x2 max 1137 restarts 61
+   sub7: pre 00000001 00000003  'rubber_trim' itype 6 lod 3 (3) idx 45 x2 max 601 restarts 4
+   sub8: pre 00000001 00000003  'carbon_fiber' itype 6 lod 4 (3) idx 289 x2 max 1282 restarts 38
+   sub9: pre 00000001 00000003  'rubber_trim' itype 6 lod 4 (3) idx 22 x2 max 601 restarts 4
+   sub10: pre 00000001 00000003  'carbon_fiber' itype 6 lod 5 (3) idx 277 x2 max 1479 restarts 43
+   sub11: pre 00000001 00000003  'rubber_trim' itype 6 lod 5 (3) idx 20 x2 max 601 restarts 4
+   (uses shared body VB)
+
+[5] 008D74 'wingg' marker 2C9  offset -0.00009 0.85334 2.01304  min -0.68279 -0.1656 -0.20119  max 0.68279 0.1656 0.20119
+   1c: 3f800000 3c66ea10 39d6c000 3c318000 3727c5ac 00000001 00000001
+       f: 1 0.01409 0.00041 0.01083 0.00001 0 0
+   arrayA 0 x16  w 00000001  arrayB 0 x2  w 0e591256  vbTest 00000000 01000000  w3 00000002 00000001
+   LOD VB 0 x60  w4 00000001  subsections 15
+   sub0: pre 00000001 00000003  'body' itype 6 lod 1 (3) idx 708 x2 max 369 restarts 76
+   sub1: pre 00000001 00000003  'chrome' itype 6 lod 1 (3) idx 960 x2 max 937 restarts 127
+   sub2: pre 00000001 00000003  'frame' itype 6 lod 1 (3) idx 24 x2 max 950 restarts 4
+   sub3: pre 00000001 00000003  'body' itype 6 lod 2 (3) idx 590 x2 max 750 restarts 48
+   sub4: pre 00000001 00000003  'chrome' itype 6 lod 2 (3) idx 584 x2 max 950 restarts 39
+   sub5: pre 00000001 00000003  'frame' itype 6 lod 2 (3) idx 19 x2 max 949 restarts 3
+   sub6: pre 00000001 00000003  'body' itype 6 lod 3 (3) idx 437 x2 max 750 restarts 41
+   sub7: pre 00000001 00000003  'chrome' itype 6 lod 3 (3) idx 497 x2 max 950 restarts 37
+   sub8: pre 00000001 00000003  'frame' itype 6 lod 3 (3) idx 19 x2 max 949 restarts 3
+   sub9: pre 00000001 00000003  'body' itype 6 lod 4 (3) idx 302 x2 max 748 restarts 34
+   sub10: pre 00000001 00000003  'chrome' itype 6 lod 4 (3) idx 414 x2 max 998 restarts 33
+   sub11: pre 00000001 00000003  'frame' itype 6 lod 4 (3) idx 19 x2 max 993 restarts 3
+   sub12: pre 00000001 00000003  'body' itype 6 lod 5 (3) idx 263 x2 max 1000 restarts 29
+   sub13: pre 00000001 00000003  'chrome' itype 6 lod 5 (3) idx 295 x2 max 1021 restarts 26
+   sub14: pre 00000001 00000003  'frame' itype 6 lod 5 (3) idx 19 x2 max 1019 restarts 3
+   (uses shared body VB)
+
+[6] 00B855 'wingf' marker 2C9  offset 0 0.85727 1.92448  min -0.69388 -0.1463 -0.28401  max 0.69388 0.1463 0.28401
+   1c: 3f800000 bc378ee7 bd756760 bbcd4200 3727c5ac 00000001 00000001
+       f: 1 -0.0112 -0.05991 -0.00626 0.00001 0 0
+   arrayA 0 x16  w 00000001  arrayB 0 x2  w 1257154b  vbTest 00000000 01000000  w3 00000002 00000001
+   LOD VB 0 x60  w4 00000001  subsections 15
+   sub0: pre 00000001 00000003  'body' itype 6 lod 1 (3) idx 1229 x2 max 598 restarts 105
+   sub1: pre 00000001 00000003  'carbon_fiber' itype 6 lod 1 (3) idx 52 x2 max 633 restarts 6
+   sub2: pre 00000001 00000003  'frame' itype 6 lod 1 (3) idx 90 x2 max 697 restarts 4
+   sub3: pre 00000001 00000003  'body' itype 6 lod 2 (3) idx 536 x2 max 698 restarts 38
+   sub4: pre 00000001 00000003  'carbon_fiber' itype 6 lod 2 (3) idx 31 x2 max 716 restarts 3
+   sub5: pre 00000001 00000003  'frame' itype 6 lod 2 (3) idx 65 x2 max 717 restarts 2
+   sub6: pre 00000001 00000003  'body' itype 6 lod 3 (3) idx 395 x2 max 738 restarts 24
+   sub7: pre 00000001 00000003  'carbon_fiber' itype 6 lod 3 (3) idx 31 x2 max 716 restarts 3
+   sub8: pre 00000001 00000003  'frame' itype 6 lod 3 (3) idx 55 x2 max 717 restarts 2
+   sub9: pre 00000001 00000003  'body' itype 6 lod 4 (3) idx 286 x2 max 746 restarts 22
+   sub10: pre 00000001 00000003  'carbon_fiber' itype 6 lod 4 (3) idx 31 x2 max 716 restarts 3
+   sub11: pre 00000001 00000003  'frame' itype 6 lod 4 (3) idx 52 x2 max 747 restarts 2
+   sub12: pre 00000001 00000003  'body' itype 6 lod 5 (3) idx 228 x2 max 752 restarts 23
+   sub13: pre 00000001 00000003  'carbon_fiber' itype 6 lod 5 (3) idx 19 x2 max 754 restarts 3
+   sub14: pre 00000001 00000003  'frame' itype 6 lod 5 (3) idx 42 x2 max 756 restarts 1
+   (uses shared body VB)
+
+[7] 00D3A4 'winga' marker 2C9  offset 0.00052 0.87225 1.89017  min -0.64061 -0.15758 -0.26863  max 0.64061 0.15758 0.26863
+   1c: 3f800000 39811f56 3d2cd840 3d8367d0 3727c5ac 00000001 00000001
+       f: 1 0.00025 0.0422 0.06416 0.00001 0 0
+   arrayA 0 x16  w 00000001  arrayB 0 x2  w 154c16cc  vbTest 00000000 01000000  w3 00000002 00000001
+   LOD VB 0 x60  w4 00000001  subsections 10
+   sub0: pre 00000001 00000003  'body' itype 6 lod 1 (3) idx 772 x2 max 347 restarts 57
+   sub1: pre 00000001 00000003  'frame' itype 6 lod 1 (3) idx 27 x2 max 371 restarts 1
+   sub2: pre 00000001 00000003  'body' itype 6 lod 2 (3) idx 624 x2 max 347 restarts 48
+   sub3: pre 00000001 00000003  'frame' itype 6 lod 2 (3) idx 27 x2 max 371 restarts 1
+   sub4: pre 00000001 00000003  'body' itype 6 lod 3 (3) idx 473 x2 max 347 restarts 35
+   sub5: pre 00000001 00000003  'frame' itype 6 lod 3 (3) idx 23 x2 max 371 restarts 1
+   sub6: pre 00000001 00000003  'body' itype 6 lod 4 (3) idx 371 x2 max 381 restarts 25
+   sub7: pre 00000001 00000003  'frame' itype 6 lod 4 (3) idx 21 x2 max 371 restarts 1
+   sub8: pre 00000001 00000003  'body' itype 6 lod 5 (3) idx 293 x2 max 384 restarts 26
+   sub9: pre 00000001 00000003  'frame' itype 6 lod 5 (3) idx 18 x2 max 371 restarts 1
+   (uses shared body VB)
+
+[8] 00EA3D 'wingi' marker 2C9  offset 0 0.89168 1.92785  min -0.64078 -0.177 -0.30631  max 0.64078 0.177 0.30631
+   1c: 3f800000 3aebb554 3d1d01c0 3de12860 3727c5ac 00000001 00000001
+       f: 1 0.0018 0.03833 0.10994 0.00001 0 0
+   arrayA 0 x16  w 00000001  arrayB 0 x2  w 16cd1924  vbTest 00000000 01000000  w3 00000002 00000001
+   LOD VB 0 x60  w4 00000001  subsections 10
+   sub0: pre 00000001 00000003  'body' itype 6 lod 1 (3) idx 1129 x2 max 560 restarts 83
+   sub1: pre 00000001 00000003  'frame' itype 6 lod 1 (3) idx 29 x2 max 582 restarts 1
+   sub2: pre 00000001 00000003  'body' itype 6 lod 2 (3) idx 879 x2 max 560 restarts 53
+   sub3: pre 00000001 00000003  'frame' itype 6 lod 2 (3) idx 27 x2 max 582 restarts 1
+   sub4: pre 00000001 00000003  'body' itype 6 lod 3 (3) idx 667 x2 max 589 restarts 44
+   sub5: pre 00000001 00000003  'frame' itype 6 lod 3 (3) idx 27 x2 max 582 restarts 1
+   sub6: pre 00000001 00000003  'body' itype 6 lod 4 (3) idx 504 x2 max 595 restarts 35
+   sub7: pre 00000001 00000003  'frame' itype 6 lod 4 (3) idx 23 x2 max 582 restarts 1
+   sub8: pre 00000001 00000003  'body' itype 6 lod 5 (3) idx 375 x2 max 599 restarts 27
+   sub9: pre 00000001 00000003  'frame' itype 6 lod 5 (3) idx 18 x2 max 582 restarts 1
+   (uses shared body VB)
+
+[9] 0108E0 'bumperFrameR' marker 2C9  offset 0 0.3272 1.88966  min -0.79874 -0.20806 -0.2875  max 0.79874 0.20806 0.2875
+   1c: 00000000 3b7a2c98 3d96e0dc 3e18ce60 00000000 00000001 00000001
+       f: 0 0.00382 0.07367 0.14922 0 0 0
+   arrayA 0 x16  w 00000001  arrayB 0 x2  w 19251b0c  vbTest 00000000 01000000  w3 00000002 00000001
+   LOD VB 0 x60  w4 00000001  subsections 5
+   sub0: pre 00000001 00000003  'bumper_frame' itype 6 lod 1 (3) idx 725 x2 max 472 restarts 82
+   sub1: pre 00000001 00000003  'bumper_frame' itype 6 lod 2 (3) idx 478 x2 max 472 restarts 41
+   sub2: pre 00000001 00000003  'bumper_frame' itype 6 lod 3 (3) idx 293 x2 max 487 restarts 33
+   sub3: pre 00000001 00000003  'bumper_frame' itype 6 lod 4 (3) idx 152 x2 max 487 restarts 12
+   sub4: pre 00000001 00000003  'bumper_frame' itype 6 lod 5 (3) idx 62 x2 max 487 restarts 6
+   (uses shared body VB)
+
+[10] 011799 'exhausta' marker 2C9  offset -0.52885 0.12394 1.87071  min -0.12989 -0.07424 -0.27987  max 0.12989 0.07424 0.27987
+   1c: 3f800000 bbbd3580 bb8d61b0 3e0f42d0 3f800000 00000001 00000001
+       f: 1 -0.00577 -0.00431 0.1399 1 0 0
+   arrayA 0 x16  w 00000001  arrayB 0 x2  w 1b0d1bb5  vbTest 00000000 01000000  w3 00000002 00000001
+   LOD VB 0 x60  w4 00000001  subsections 15
+   sub0: pre 00000001 00000003  'chrome' itype 6 lod 1 (3) idx 132 x2 max 84 restarts 6
+   sub1: pre 00000001 00000003  'black' itype 6 lod 1 (3) idx 47 x2 max 109 restarts 1
+   sub2: pre 00000001 00000003  'matte_colors' itype 6 lod 1 (3) idx 92 x2 max 167 restarts 15
+   sub3: pre 00000001 00000003  'chrome' itype 6 lod 2 (3) idx 59 x2 max 83 restarts 3
+   sub4: pre 00000001 00000003  'black' itype 6 lod 2 (3) idx 23 x2 max 109 restarts 0
+   sub5: pre 00000001 00000003  'matte_colors' itype 6 lod 2 (3) idx 67 x2 max 167 restarts 6
+   sub6: pre 00000001 00000003  'chrome' itype 6 lod 3 (3) idx 48 x2 max 83 restarts 3
+   sub7: pre 00000001 00000003  'black' itype 6 lod 3 (3) idx 11 x2 max 109 restarts 0
+   sub8: pre 00000001 00000003  'matte_colors' itype 6 lod 3 (3) idx 56 x2 max 167 restarts 6
+   sub9: pre 00000001 00000003  'chrome' itype 6 lod 4 (3) idx 32 x2 max 80 restarts 2
+   sub10: pre 00000001 00000003  'black' itype 6 lod 4 (3) idx 11 x2 max 109 restarts 0
+   sub11: pre 00000001 00000003  'matte_colors' itype 6 lod 4 (3) idx 44 x2 max 167 restarts 5
+   sub12: pre 00000001 00000003  'chrome' itype 6 lod 5 (3) idx 17 x2 max 168 restarts 0
+   sub13: pre 00000001 00000003  'black' itype 6 lod 5 (3) idx 9 x2 max 109 restarts 0
+   sub14: pre 00000001 00000003  'matte_colors' itype 6 lod 5 (3) idx 39 x2 max 167 restarts 5
+   (uses shared body VB)
+
+[11] 011FC7 'bumperRc' marker 2C9  offset 0 0.30283 1.89406  min -0.90246 -0.33043 -0.3791  max 0.90246 0.33043 0.3791
+   1c: 3f800000 bd089c6b 3d526c20 3e07c378 3727c5ac 00000001 00000001
+       f: 1 -0.03335 0.05137 0.13258 0.00001 0 0
+   arrayA 0 x16  w 00000001  arrayB 0 x2  w 1bb620fd  vbTest 00000000 01000000  w3 00000002 00000001
+   LOD VB 0 x60  w4 00000001  subsections 15
+   sub0: pre 00000001 00000003  'body' itype 6 lod 1 (3) idx 1854 x2 max 906 restarts 159
+   sub1: pre 00000001 00000003  'frame' itype 6 lod 1 (3) idx 264 x2 max 1074 restarts 47
+   sub2: pre 00000001 00000003  'black' itype 6 lod 1 (3) idx 33 x2 max 1097 restarts 3
+   sub3: pre 00000001 00000003  'body' itype 6 lod 2 (3) idx 1096 x2 max 1294 restarts 78
+   sub4: pre 00000001 00000003  'frame' itype 6 lod 2 (3) idx 163 x2 max 1339 restarts 14
+   sub5: pre 00000001 00000003  'black' itype 6 lod 2 (3) idx 19 x2 max 1097 restarts 1
+   sub6: pre 00000001 00000003  'body' itype 6 lod 3 (3) idx 774 x2 max 1345 restarts 72
+   sub7: pre 00000001 00000003  'frame' itype 6 lod 3 (3) idx 147 x2 max 1339 restarts 15
+   sub8: pre 00000001 00000003  'black' itype 6 lod 3 (3) idx 19 x2 max 1097 restarts 1
+   sub9: pre 00000001 00000003  'body' itype 6 lod 4 (3) idx 595 x2 max 1349 restarts 45
+   sub10: pre 00000001 00000003  'frame' itype 6 lod 4 (3) idx 128 x2 max 1338 restarts 13
+   sub11: pre 00000001 00000003  'black' itype 6 lod 4 (3) idx 19 x2 max 1097 restarts 1
+   sub12: pre 00000001 00000003  'body' itype 6 lod 5 (3) idx 440 x2 max 1350 restarts 36
+   sub13: pre 00000001 00000003  'frame' itype 6 lod 5 (3) idx 112 x2 max 1351 restarts 13
+   sub14: pre 00000001 00000003  'black' itype 6 lod 5 (3) idx 15 x2 max 1097 restarts 1
+   (uses shared body VB)
+
+[12] 014EC6 'bumperRj' marker 2C9  offset -0.0006 0.28807 1.8821  min -0.9126 -0.34519 -0.37889  max 0.9126 0.34519 0.37889
+   1c: 3f800000 bcea898f bc239b60 3dc2d770 3727c5ac 00000001 00000001
+       f: 1 -0.02863 -0.00999 0.09514 0.00001 0 0
+   arrayA 0 x16  w 00000001  arrayB 0 x2  w 20fe283f  vbTest 00000000 01000000  w3 00000002 00000001
+   LOD VB 0 x60  w4 00000001  subsections 10
+   sub0: pre 00000001 00000003  'body' itype 6 lod 1 (3) idx 2534 x2 max 1192 restarts 193
+   sub1: pre 00000001 00000003  'frame' itype 6 lod 1 (3) idx 328 x2 max 1402 restarts 47
+   sub2: pre 00000001 00000003  'body' itype 6 lod 2 (3) idx 1253 x2 max 1752 restarts 81
+   sub3: pre 00000001 00000003  'frame' itype 6 lod 2 (3) idx 224 x2 max 1831 restarts 20
+   sub4: pre 00000001 00000003  'body' itype 6 lod 3 (3) idx 887 x2 max 1838 restarts 66
+   sub5: pre 00000001 00000003  'frame' itype 6 lod 3 (3) idx 203 x2 max 1841 restarts 20
+   sub6: pre 00000001 00000003  'body' itype 6 lod 4 (3) idx 648 x2 max 1848 restarts 52
+   sub7: pre 00000001 00000003  'frame' itype 6 lod 4 (3) idx 153 x2 max 1850 restarts 17
+   sub8: pre 00000001 00000003  'body' itype 6 lod 5 (3) idx 514 x2 max 1854 restarts 47
+   sub9: pre 00000001 00000003  'frame' itype 6 lod 5 (3) idx 143 x2 max 1857 restarts 19
+   (uses shared body VB)
+
+[13] 01867E 'bumperRi' marker 2C9  offset -0.00051 0.31082 1.88349  min -0.91271 -0.32244 -0.40448  max 0.91271 0.32244 0.40448
+   1c: 3f800000 bc920d40 3c3e1da0 3ddc3810 3727c5ac 00000001 00000001
+       f: 1 -0.01783 0.0116 0.10753 0.00001 0 0
+   arrayA 0 x16  w 00000001  arrayB 0 x2  w 28402dbf  vbTest 00000000 01000000  w3 00000002 00000001
+   LOD VB 0 x60  w4 00000001  subsections 10
+   sub0: pre 00000001 00000003  'body' itype 6 lod 1 (3) idx 1554 x2 max 836 restarts 128
+   sub1: pre 00000001 00000003  'black' itype 6 lod 1 (3) idx 264 x2 max 1000 restarts 44
+   sub2: pre 00000001 00000003  'body' itype 6 lod 2 (3) idx 970 x2 max 1245 restarts 77
+   sub3: pre 00000001 00000003  'black' itype 6 lod 2 (3) idx 164 x2 max 1291 restarts 11
+   sub4: pre 00000001 00000003  'body' itype 6 lod 3 (3) idx 744 x2 max 1295 restarts 50
+   sub5: pre 00000001 00000003  'black' itype 6 lod 3 (3) idx 150 x2 max 1291 restarts 9
+   sub6: pre 00000001 00000003  'body' itype 6 lod 4 (3) idx 565 x2 max 1347 restarts 43
+   sub7: pre 00000001 00000003  'black' itype 6 lod 4 (3) idx 118 x2 max 1291 restarts 8
+   sub8: pre 00000001 00000003  'body' itype 6 lod 5 (3) idx 409 x2 max 1407 restarts 32
+   sub9: pre 00000001 00000003  'black' itype 6 lod 5 (3) idx 114 x2 max 1291 restarts 8
+   (uses shared body VB)
+
+[14] 01AFE0 'glassR' marker 2C9  offset 0.00147 0.90905 1.35304  min -0.5479 -0.10701 -0.40872  max 0.5479 0.10701 0.40872
+   1c: 00000000 bac91a00 bc962780 bc7c1a00 00000000 00000001 00000001
+       f: 0 -0.00153 -0.01833 -0.01539 0 0 0
+   arrayA 247 x16  w 00000001  arrayB 1212 x2  w 0056007f  vbTest 01000000 01000000  w3 00000002 00000001
+   LOD VB 0 x60  w4 00000001  subsections 5
+   sub0: pre 00000001 00000003  'window' itype 6 lod 1 (3) idx 77 x2 max 41 restarts 3
+   sub1: pre 00000001 00000003  'window' itype 6 lod 2 (3) idx 77 x2 max 41 restarts 3
+   sub2: pre 00000001 00000003  'window' itype 6 lod 3 (3) idx 56 x2 max 40 restarts 4
+   sub3: pre 00000001 00000003  'window' itype 6 lod 4 (3) idx 41 x2 max 40 restarts 4
+   sub4: pre 00000001 00000003  'window' itype 6 lod 5 (3) idx 35 x2 max 40 restarts 4
+   (uses shared glass VB)
+
+[15] 01CC3D 'bumperRrace' marker 2C9  offset -0.00004 0.28778 1.66127  min -0.75422 -0.34548 -0.76355  max 0.75422 0.34548 0.76355
+   1c: 3f800000 bdcadea1 bc03be60 3ec8f3a8 3727c5ac 00000001 00000001
+       f: 1 -0.09906 -0.00804 0.39248 0.00001 0 0
+   arrayA 0 x16  w 00000001  arrayB 0 x2  w 2dc034d2  vbTest 00000000 01000000  w3 00000002 00000001
+   LOD VB 0 x60  w4 00000001  subsections 27
+   sub0: pre 00000001 00000003  'body' itype 6 lod 1 (3) idx 1693 x2 max 754 restarts 121
+   sub1: pre 00000001 00000003  'frame' itype 6 lod 1 (3) idx 172 x2 max 865 restarts 30
+   sub2: pre 00000001 00000003  'black' itype 6 lod 1 (3) idx 107 x2 max 933 restarts 6
+   sub3: pre 00000001 00000003  'chrome' itype 6 lod 1 (3) idx 206 x2 max 1098 restarts 30
+   sub4: pre 00000001 00000003  'race_kit_red' itype 6 lod 1 (3) idx 309 x2 max 1298 restarts 25
+   sub5: pre 00000001 00000003  'carbon_fiber' itype 6 lod 1 (3) idx 369 x2 max 1535 restarts 52
+   sub6: pre 00000001 00000003  'body' itype 6 lod 2 (3) idx 762 x2 max 1597 restarts 47
+   sub7: pre 00000001 00000003  'frame' itype 6 lod 2 (3) idx 105 x2 max 1614 restarts 8
+   sub8: pre 00000001 00000003  'black' itype 6 lod 2 (3) idx 130 x2 max 1628 restarts 7
+   sub9: pre 00000001 00000003  'chrome' itype 6 lod 2 (3) idx 138 x2 max 1069 restarts 17
+   sub10: pre 00000001 00000003  'race_kit_red' itype 6 lod 2 (3) idx 201 x2 max 1298 restarts 15
+   sub11: pre 00000001 00000003  'carbon_fiber' itype 6 lod 2 (3) idx 261 x2 max 1632 restarts 27
+   sub12: pre 00000001 00000003  'body' itype 6 lod 3 (3) idx 568 x2 max 1638 restarts 35
+   sub13: pre 00000001 00000003  'frame' itype 6 lod 3 (3) idx 100 x2 max 1614 restarts 8
+   sub14: pre 00000001 00000003  'black' itype 6 lod 3 (3) idx 68 x2 max 1642 restarts 5
+   sub15: pre 00000001 00000003  'chrome' itype 6 lod 3 (3) idx 85 x2 max 1070 restarts 11
+   sub16: pre 00000001 00000003  'race_kit_red' itype 6 lod 3 (3) idx 73 x2 max 1643 restarts 5
+   sub17: pre 00000001 00000003  'carbon_fiber' itype 6 lod 3 (3) idx 144 x2 max 1746 restarts 17
+   sub18: pre 00000001 00000003  'body' itype 6 lod 4 (3) idx 399 x2 max 1749 restarts 24
+   sub19: pre 00000001 00000003  'frame' itype 6 lod 4 (3) idx 93 x2 max 1614 restarts 10
+   sub20: pre 00000001 00000003  'black' itype 6 lod 4 (3) idx 57 x2 max 1642 restarts 5
+   sub21: pre 00000001 00000003  'chrome' itype 6 lod 4 (3) idx 58 x2 max 1033 restarts 9
+   sub22: pre 00000001 00000003  'carbon_fiber' itype 6 lod 4 (3) idx 144 x2 max 1746 restarts 17
+   sub23: pre 00000001 00000003  'body' itype 6 lod 5 (3) idx 198 x2 max 1760 restarts 15
+   sub24: pre 00000001 00000003  'frame' itype 6 lod 5 (3) idx 86 x2 max 1614 restarts 9
+   sub25: pre 00000001 00000003  'black' itype 6 lod 5 (3) idx 24 x2 max 1624 restarts 3
+   sub26: pre 00000001 00000003  'carbon_fiber' itype 6 lod 5 (3) idx 84 x2 max 1810 restarts 14
+   (uses shared body VB)
+
+[16] 0204AF 'trunk' marker 2C9  offset -0.00208 0.82627 1.47835  min -0.66104 -0.21287 -0.68162  max 0.66104 0.21287 0.68162
+   1c: 3f800000 3e119ca6 bd8a0528 3ebefe90 00000000 00000001 00000001
+       f: 1 0.1422 -0.06739 0.37304 0 0 0
+   arrayA 0 x16  w 00000001  arrayB 0 x2  w 34d33b68  vbTest 00000000 01000000  w3 00000002 00000001
+   LOD VB 0 x60  w4 00000001  subsections 31
+   sub0: pre 00000001 00000003  'body' itype 6 lod 1 (3) idx 589 x2 max 335 restarts 41
+   sub1: pre 00000001 00000003  'rubber_trim' itype 6 lod 1 (3) idx 85 x2 max 399 restarts 3
+   sub2: pre 00000001 00000003  'black_glass' itype 6 lod 1 (3) idx 78 x2 max 463 restarts 2
+   sub3: pre 00000001 00000003  'matte_colors' itype 6 lod 1 (3) idx 14 x2 max 475 restarts 2
+   sub4: pre 00000001 00000003  'frame' itype 6 lod 1 (3) idx 182 x2 max 588 restarts 14
+   sub5: pre 00000001 00000003  'black' itype 6 lod 1 (3) idx 52 x2 max 630 restarts 1
+   sub6: pre 00000001 00000003  'badge' itype 6 lod 1 (3) idx 15 x2 max 642 restarts 1
+   sub7: pre 00000001 00000003  'emblem' itype 6 lod 1 (3) idx 1286 x2 max 1447 restarts 240
+   sub8: pre 00000001 00000003  'tail_light' itype 6 lod 1 (3) idx 19 x2 max 1463 restarts 0
+   sub9: pre 00000001 00000003  'body' itype 6 lod 2 (3) idx 338 x2 max 1590 restarts 23
+   sub10: pre 00000001 00000003  'rubber_trim' itype 6 lod 2 (3) idx 87 x2 max 399 restarts 3
+   sub11: pre 00000001 00000003  'black_glass' itype 6 lod 2 (3) idx 78 x2 max 463 restarts 2
+   sub12: pre 00000001 00000003  'matte_colors' itype 6 lod 2 (3) idx 14 x2 max 475 restarts 2
+   sub13: pre 00000001 00000003  'frame' itype 6 lod 2 (3) idx 157 x2 max 1632 restarts 7
+   sub14: pre 00000001 00000003  'badge' itype 6 lod 2 (3) idx 15 x2 max 1644 restarts 1
+   sub15: pre 00000001 00000003  'tail_light' itype 6 lod 2 (3) idx 13 x2 max 1462 restarts 0
+   sub16: pre 00000001 00000003  'body' itype 6 lod 3 (3) idx 291 x2 max 1589 restarts 18
+   sub17: pre 00000001 00000003  'rubber_trim' itype 6 lod 3 (3) idx 87 x2 max 399 restarts 3
+   sub18: pre 00000001 00000003  'black_glass' itype 6 lod 3 (3) idx 78 x2 max 463 restarts 2
+   sub19: pre 00000001 00000003  'frame' itype 6 lod 3 (3) idx 147 x2 max 1632 restarts 8
+   sub20: pre 00000001 00000003  'badge' itype 6 lod 3 (3) idx 15 x2 max 1644 restarts 1
+   sub21: pre 00000001 00000003  'tail_light' itype 6 lod 3 (3) idx 13 x2 max 1462 restarts 0
+   sub22: pre 00000001 00000003  'body' itype 6 lod 4 (3) idx 246 x2 max 1653 restarts 16
+   sub23: pre 00000001 00000003  'black_glass' itype 6 lod 4 (3) idx 65 x2 max 1673 restarts 3
+   sub24: pre 00000001 00000003  'frame' itype 6 lod 4 (3) idx 147 x2 max 1675 restarts 8
+   sub25: pre 00000001 00000003  'badge' itype 6 lod 4 (3) idx 15 x2 max 1644 restarts 1
+   sub26: pre 00000001 00000003  'tail_light' itype 6 lod 4 (3) idx 13 x2 max 1462 restarts 0
+   sub27: pre 00000001 00000003  'body' itype 6 lod 5 (3) idx 165 x2 max 1685 restarts 11
+   sub28: pre 00000001 00000003  'black_glass' itype 6 lod 5 (3) idx 55 x2 max 1673 restarts 9
+   sub29: pre 00000001 00000003  'frame' itype 6 lod 5 (3) idx 132 x2 max 1675 restarts 10
+   sub30: pre 00000001 00000003  'tail_light' itype 6 lod 5 (3) idx 7 x2 max 1458 restarts 0
+   (uses shared body VB)
+
+[17] 022D1B 'glassRR' marker 2C9  offset 0.6572 0.79829 0.80263  min -0.05743 -0.05747 -0.12245  max 0.05743 0.05747 0.12245
+   1c: 00000000 3c485240 3cea6e20 3c8835a0 00000000 00000001 00000001
+       f: 0 0.01223 0.02862 0.01663 0 0 0
+   arrayA 23 x16  w 00000001  arrayB 75 x2  w 0080008d  vbTest 01000000 01000000  w3 00000002 00000001
+   LOD VB 0 x60  w4 00000001  subsections 5
+   sub0: pre 00000001 00000003  'window' itype 6 lod 1 (3) idx 23 x2 max 13 restarts 0
+   sub1: pre 00000001 00000003  'window' itype 6 lod 2 (3) idx 23 x2 max 13 restarts 0
+   sub2: pre 00000001 00000003  'window' itype 6 lod 3 (3) idx 23 x2 max 13 restarts 0
+   sub3: pre 00000001 00000003  'window' itype 6 lod 4 (3) idx 23 x2 max 13 restarts 0
+   sub4: pre 00000001 00000003  'window' itype 6 lod 5 (3) idx 23 x2 max 13 restarts 0
+   (uses shared glass VB)
+
+[18] 023141 'glassLR' marker 2C9  offset -0.66572 0.82794 0.80263  min -0.04891 -0.08713 -0.12245  max 0.04891 0.08713 0.12245
+   1c: 00000000 bb5da200 ba87a400 3c8835a0 00000000 00000001 00000001
+       f: 0 -0.00338 -0.00103 0.01663 0 0 0
+   arrayA 24 x16  w 00000001  arrayB 75 x2  w 008e009b  vbTest 01000000 01000000  w3 00000002 00000001
+   LOD VB 0 x60  w4 00000001  subsections 5
+   sub0: pre 00000001 00000003  'window' itype 6 lod 1 (3) idx 23 x2 max 13 restarts 0
+   sub1: pre 00000001 00000003  'window' itype 6 lod 2 (3) idx 23 x2 max 13 restarts 0
+   sub2: pre 00000001 00000003  'window' itype 6 lod 3 (3) idx 23 x2 max 13 restarts 0
+   sub3: pre 00000001 00000003  'window' itype 6 lod 4 (3) idx 23 x2 max 13 restarts 0
+   sub4: pre 00000001 00000003  'window' itype 6 lod 5 (3) idx 23 x2 max 13 restarts 0
+   (uses shared glass VB)
+
+[19] 023577 'seatR' marker 2C9  offset 0.43475 0.43529 0.28798  min -0.28822 -0.43573 -0.39697  max 0.28822 0.43573 0.39697
+   1c: 00000000 bb1d0f80 3dbfd098 3e451364 00000000 00000001 00000001
+       f: 0 -0.0024 0.09366 0.19246 0 0 0
+   arrayA 0 x16  w 00000001  arrayB 0 x2  w 3b693bdc  vbTest 00000000 01000000  w3 00000002 00000001
+   LOD VB 0 x60  w4 00000001  subsections 4
+   sub0: pre 00000001 00000003  'interior' itype 6 lod 1 (3) idx 176 x2 max 115 restarts 11
+   sub1: pre 00000001 00000003  'interior' itype 6 lod 2 (3) idx 131 x2 max 115 restarts 9
+   sub2: pre 00000001 00000003  'interior' itype 6 lod 3 (3) idx 82 x2 max 115 restarts 7
+   sub3: pre 00000001 00000003  'interior' itype 6 lod 4 (3) idx 56 x2 max 115 restarts 6
+   (uses shared body VB)
+
+[20] 023A0B 'seatL' marker 2C9  offset -0.43475 0.43529 0.28798  min -0.28822 -0.43573 -0.39697  max 0.28822 0.43573 0.39697
+   1c: 00000000 3b069b80 3dbfd098 3e45135c 00000000 00000001 00000001
+       f: 0 0.00205 0.09366 0.19246 0 0 0
+   arrayA 0 x16  w 00000001  arrayB 0 x2  w 3bdd3c50  vbTest 00000000 01000000  w3 00000002 00000001
+   LOD VB 0 x60  w4 00000001  subsections 4
+   sub0: pre 00000001 00000003  'interior' itype 6 lod 1 (3) idx 179 x2 max 115 restarts 12
+   sub1: pre 00000001 00000003  'interior' itype 6 lod 2 (3) idx 135 x2 max 115 restarts 10
+   sub2: pre 00000001 00000003  'interior' itype 6 lod 3 (3) idx 81 x2 max 115 restarts 7
+   sub3: pre 00000001 00000003  'interior' itype 6 lod 4 (3) idx 57 x2 max 115 restarts 6
+   (uses shared body VB)
+
+[21] 023EAD 'steering_wheel' marker 2C9  offset 0.42716 0.59465 -0.09418  min -0.23787 -0.22349 -0.08021  max 0.23787 0.22349 0.08021
+   1c: 00000000 3a719400 bc88b760 3b969510 00000000 00000001 00000001
+       f: 0 0.00092 -0.01669 0.0046 0 0 0
+   arrayA 0 x16  w 00000001  arrayB 0 x2  w 3c513de8  vbTest 00000000 01000000  w3 00000002 00000001
+   LOD VB 0 x60  w4 00000001  subsections 3
+   sub0: pre 00000001 00000003  'interior' itype 6 lod 1 (3) idx 553 x2 max 407 restarts 72
+   sub1: pre 00000001 00000003  'interior' itype 6 lod 2 (3) idx 553 x2 max 407 restarts 72
+   sub2: pre 00000001 00000003  'interior' itype 6 lod 3 (3) idx 553 x2 max 407 restarts 72
+   (uses shared body VB)
+
+[22] 024C9E 'mirrorL' marker 2C9  offset -0.85851 0.73336 -0.29841  min -0.08739 -0.05748 -0.09912  max 0.08739 0.05748 0.09912
+   1c: 3f800000 3cee9f80 bc9a1f40 bc355d20 3727c5ac 00000001 00000001
+       f: 1 0.02913 -0.01881 -0.01107 0.00001 0 0
+   arrayA 0 x16  w 00000001  arrayB 0 x2  w 3de93ea6  vbTest 00000000 01000000  w3 00000002 00000001
+   LOD VB 0 x60  w4 00000001  subsections 12
+   sub0: pre 00000001 00000003  'body' itype 6 lod 1 (3) idx 244 x2 max 141 restarts 16
+   sub1: pre 00000001 00000003  'chrome' itype 6 lod 1 (3) idx 24 x2 max 157 restarts 2
+   sub2: pre 00000001 00000003  'frame' itype 6 lod 1 (3) idx 24 x2 max 175 restarts 1
+   sub3: pre 00000001 00000003  'body' itype 6 lod 2 (3) idx 164 x2 max 105 restarts 12
+   sub4: pre 00000001 00000003  'chrome' itype 6 lod 2 (3) idx 24 x2 max 157 restarts 2
+   sub5: pre 00000001 00000003  'frame' itype 6 lod 2 (3) idx 11 x2 max 140 restarts 0
+   sub6: pre 00000001 00000003  'body' itype 6 lod 3 (3) idx 129 x2 max 97 restarts 8
+   sub7: pre 00000001 00000003  'chrome' itype 6 lod 3 (3) idx 15 x2 max 188 restarts 0
+   sub8: pre 00000001 00000003  'frame' itype 6 lod 3 (3) idx 11 x2 max 140 restarts 0
+   sub9: pre 00000001 00000003  'body' itype 6 lod 4 (3) idx 92 x2 max 87 restarts 7
+   sub10: pre 00000001 00000003  'chrome' itype 6 lod 4 (3) idx 13 x2 max 189 restarts 0
+   sub11: pre 00000001 00000003  'frame' itype 6 lod 4 (3) idx 7 x2 max 136 restarts 0
+   (uses shared body VB)
+
+[23] 0254C2 'mirrorR' marker 2C9  offset 0.85817 0.73347 -0.29842  min -0.08704 -0.05738 -0.09912  max 0.08704 0.05738 0.09912
+   1c: 3f800000 bcabfe00 bc608480 38198000 3727c5ac 00000001 00000001
+       f: 1 -0.021 -0.0137 0.00004 0.00001 0 0
+   arrayA 0 x16  w 00000001  arrayB 0 x2  w 3ea73f3e  vbTest 00000000 01000000  w3 00000002 00000001
+   LOD VB 0 x60  w4 00000001  subsections 12
+   sub0: pre 00000001 00000003  'body' itype 6 lod 1 (3) idx 202 x2 max 112 restarts 12
+   sub1: pre 00000001 00000003  'chrome' itype 6 lod 1 (3) idx 25 x2 max 128 restarts 2
+   sub2: pre 00000001 00000003  'frame' itype 6 lod 1 (3) idx 11 x2 max 137 restarts 0
+   sub3: pre 00000001 00000003  'body' itype 6 lod 2 (3) idx 168 x2 max 112 restarts 11
+   sub4: pre 00000001 00000003  'chrome' itype 6 lod 2 (3) idx 25 x2 max 128 restarts 2
+   sub5: pre 00000001 00000003  'frame' itype 6 lod 2 (3) idx 11 x2 max 79 restarts 0
+   sub6: pre 00000001 00000003  'body' itype 6 lod 3 (3) idx 129 x2 max 104 restarts 9
+   sub7: pre 00000001 00000003  'chrome' itype 6 lod 3 (3) idx 15 x2 max 150 restarts 0
+   sub8: pre 00000001 00000003  'frame' itype 6 lod 3 (3) idx 11 x2 max 79 restarts 0
+   sub9: pre 00000001 00000003  'body' itype 6 lod 4 (3) idx 100 x2 max 94 restarts 7
+   sub10: pre 00000001 00000003  'chrome' itype 6 lod 4 (3) idx 11 x2 max 151 restarts 0
+   sub11: pre 00000001 00000003  'frame' itype 6 lod 4 (3) idx 7 x2 max 79 restarts 0
+   (uses shared body VB)
+
+[24] 025C90 'glassRF' marker 2C9  offset 0.64216 0.85104 0.10993  min -0.10067 -0.14894 -0.51655  max 0.10067 0.14894 0.51655
+   1c: 00000000 3be05f80 ba635400 3d802186 00000000 00000001 00000001
+       f: 0 0.00685 -0.00087 0.06256 0 0 0
+   arrayA 73 x16  w 00000001  arrayB 306 x2  w 009c00ae  vbTest 01000000 01000000  w3 00000002 00000001
+   LOD VB 0 x60  w4 00000001  subsections 5
+   sub0: pre 00000001 00000003  'window' itype 6 lod 1 (3) idx 32 x2 max 18 restarts 1
+   sub1: pre 00000001 00000003  'window' itype 6 lod 2 (3) idx 32 x2 max 18 restarts 1
+   sub2: pre 00000001 00000003  'window' itype 6 lod 3 (3) idx 32 x2 max 18 restarts 1
+   sub3: pre 00000001 00000003  'window' itype 6 lod 4 (3) idx 32 x2 max 18 restarts 1
+   sub4: pre 00000001 00000003  'window' itype 6 lod 5 (3) idx 32 x2 max 18 restarts 1
+   (uses shared glass VB)
+
+[25] 0265FE 'glassLF' marker 2C9  offset -0.64216 0.85104 0.10764  min -0.10067 -0.14894 -0.51426  max 0.10067 0.14894 0.51426
+   1c: 00000000 bbc60900 ba635c00 3d84d344 00000000 00000001 00000001
+       f: 0 -0.00604 -0.00087 0.06486 0 0 0
+   arrayA 73 x16  w 00000001  arrayB 306 x2  w 00af00c1  vbTest 01000000 01000000  w3 00000002 00000001
+   LOD VB 0 x60  w4 00000001  subsections 5
+   sub0: pre 00000001 00000003  'window' itype 6 lod 1 (3) idx 32 x2 max 18 restarts 1
+   sub1: pre 00000001 00000003  'window' itype 6 lod 2 (3) idx 32 x2 max 18 restarts 1
+   sub2: pre 00000001 00000003  'window' itype 6 lod 3 (3) idx 32 x2 max 18 restarts 1
+   sub3: pre 00000001 00000003  'window' itype 6 lod 4 (3) idx 32 x2 max 18 restarts 1
+   sub4: pre 00000001 00000003  'window' itype 6 lod 5 (3) idx 32 x2 max 18 restarts 1
+   (uses shared glass VB)
+
+[26] 026F6C 'cagerace' marker 2C9  offset -0.0006 0.56008 0.43237  min -0.69415 -0.45071 -0.99136  max 0.69415 0.45071 0.99136
+   1c: 00000000 bc104f1c 3e3fe438 3d8e508c 00000000 00000001 00000001
+       f: 0 -0.00881 0.18739 0.06949 0 0 0
+   arrayA 0 x16  w 00000001  arrayB 0 x2  w 3f3f407a  vbTest 00000000 01000000  w3 00000002 00000001
+   LOD VB 0 x60  w4 00000001  subsections 5
+   sub0: pre 00000001 00000003  'rubber_trim' itype 6 lod 1 (3) idx 486 x2 max 315 restarts 94
+   sub1: pre 00000001 00000003  'rubber_trim' itype 6 lod 2 (3) idx 228 x2 max 303 restarts 23
+   sub2: pre 00000001 00000003  'rubber_trim' itype 6 lod 3 (3) idx 228 x2 max 303 restarts 23
+   sub3: pre 00000001 00000003  'rubber_trim' itype 6 lod 4 (3) idx 228 x2 max 303 restarts 23
+   sub4: pre 00000001 00000003  'rubber_trim' itype 6 lod 5 (3) idx 228 x2 max 303 restarts 23
+   (uses shared body VB)
+
+[27] 027BAC 'skirtRa' marker 2C9  offset 0.84725 0.16225 0.18819  min -0.04825 -0.19551 -0.76613  max 0.04825 0.19551 0.76613
+   1c: 3f800000 3ca6efc0 3ba509c0 3ead051c 00000000 00000001 00000001
+       f: 1 0.02038 0.00504 0.33793 0 0 0
+   arrayA 0 x16  w 00000001  arrayB 0 x2  w 407b4298  vbTest 00000000 01000000  w3 00000002 00000001
+   LOD VB 0 x60  w4 00000001  subsections 20
+   sub0: pre 00000001 00000003  'body' itype 6 lod 1 (3) idx 650 x2 max 307 restarts 41
+   sub1: pre 00000001 00000003  'matte_colors' itype 6 lod 1 (3) idx 43 x2 max 342 restarts 5
+   sub2: pre 00000001 00000003  'plastic2' itype 6 lod 1 (3) idx 37 x2 max 362 restarts 2
+   sub3: pre 00000001 00000003  'black' itype 6 lod 1 (3) idx 94 x2 max 421 restarts 13
+   sub4: pre 00000001 00000003  'body' itype 6 lod 2 (3) idx 194 x2 max 518 restarts 11
+   sub5: pre 00000001 00000003  'matte_colors' itype 6 lod 2 (3) idx 20 x2 max 342 restarts 1
+   sub6: pre 00000001 00000003  'plastic2' itype 6 lod 2 (3) idx 28 x2 max 362 restarts 1
+   sub7: pre 00000001 00000003  'black' itype 6 lod 2 (3) idx 58 x2 max 535 restarts 3
+   sub8: pre 00000001 00000003  'body' itype 6 lod 3 (3) idx 141 x2 max 536 restarts 9
+   sub9: pre 00000001 00000003  'matte_colors' itype 6 lod 3 (3) idx 19 x2 max 537 restarts 1
+   sub10: pre 00000001 00000003  'plastic2' itype 6 lod 3 (3) idx 13 x2 max 538 restarts 1
+   sub11: pre 00000001 00000003  'black' itype 6 lod 3 (3) idx 46 x2 max 539 restarts 3
+   sub12: pre 00000001 00000003  'body' itype 6 lod 4 (3) idx 98 x2 max 536 restarts 6
+   sub13: pre 00000001 00000003  'matte_colors' itype 6 lod 4 (3) idx 18 x2 max 537 restarts 1
+   sub14: pre 00000001 00000003  'plastic2' itype 6 lod 4 (3) idx 12 x2 max 540 restarts 0
+   sub15: pre 00000001 00000003  'black' itype 6 lod 4 (3) idx 40 x2 max 539 restarts 3
+   sub16: pre 00000001 00000003  'body' itype 6 lod 5 (3) idx 70 x2 max 541 restarts 5
+   sub17: pre 00000001 00000003  'matte_colors' itype 6 lod 5 (3) idx 11 x2 max 537 restarts 1
+   sub18: pre 00000001 00000003  'plastic2' itype 6 lod 5 (3) idx 4 x2 max 538 restarts 0
+   sub19: pre 00000001 00000003  'black' itype 6 lod 5 (3) idx 34 x2 max 539 restarts 2
+   (uses shared body VB)
+
+[28] 028BF5 'skirtLa' marker 2C9  offset -0.84725 0.1622 0.18819  min -0.04825 -0.19546 -0.76613  max 0.04825 0.19546 0.76613
+   1c: 3f800000 bcaade40 3bed6560 3eaf25c2 00000000 00000001 00000001
+       f: 1 -0.02086 0.00724 0.34208 0 0 0
+   arrayA 0 x16  w 00000001  arrayB 0 x2  w 429944c5  vbTest 00000000 01000000  w3 00000002 00000001
+   LOD VB 0 x60  w4 00000001  subsections 20
+   sub0: pre 00000001 00000003  'body' itype 6 lod 1 (3) idx 647 x2 max 317 restarts 46
+   sub1: pre 00000001 00000003  'matte_colors' itype 6 lod 1 (3) idx 45 x2 max 352 restarts 6
+   sub2: pre 00000001 00000003  'black' itype 6 lod 1 (3) idx 99 x2 max 417 restarts 14
+   sub3: pre 00000001 00000003  'plastic2' itype 6 lod 1 (3) idx 35 x2 max 437 restarts 2
+   sub4: pre 00000001 00000003  'body' itype 6 lod 2 (3) idx 193 x2 max 536 restarts 11
+   sub5: pre 00000001 00000003  'matte_colors' itype 6 lod 2 (3) idx 20 x2 max 350 restarts 1
+   sub6: pre 00000001 00000003  'plastic2' itype 6 lod 2 (3) idx 26 x2 max 437 restarts 1
+   sub7: pre 00000001 00000003  'black' itype 6 lod 2 (3) idx 55 x2 max 553 restarts 2
+   sub8: pre 00000001 00000003  'body' itype 6 lod 3 (3) idx 129 x2 max 554 restarts 8
+   sub9: pre 00000001 00000003  'matte_colors' itype 6 lod 3 (3) idx 20 x2 max 350 restarts 1
+   sub10: pre 00000001 00000003  'plastic2' itype 6 lod 3 (3) idx 14 x2 max 555 restarts 0
+   sub11: pre 00000001 00000003  'black' itype 6 lod 3 (3) idx 55 x2 max 553 restarts 3
+   sub12: pre 00000001 00000003  'body' itype 6 lod 4 (3) idx 87 x2 max 554 restarts 6
+   sub13: pre 00000001 00000003  'matte_colors' itype 6 lod 4 (3) idx 20 x2 max 350 restarts 1
+   sub14: pre 00000001 00000003  'plastic2' itype 6 lod 4 (3) idx 11 x2 max 555 restarts 0
+   sub15: pre 00000001 00000003  'black' itype 6 lod 4 (3) idx 49 x2 max 553 restarts 3
+   sub16: pre 00000001 00000003  'body' itype 6 lod 5 (3) idx 54 x2 max 554 restarts 3
+   sub17: pre 00000001 00000003  'matte_colors' itype 6 lod 5 (3) idx 10 x2 max 342 restarts 1
+   sub18: pre 00000001 00000003  'plastic2' itype 6 lod 5 (3) idx 7 x2 max 556 restarts 0
+   sub19: pre 00000001 00000003  'black' itype 6 lod 5 (3) idx 38 x2 max 553 restarts 1
+   (uses shared body VB)
+
+[29] 029C1E 'glassF' marker 2C9  offset 0 0.82378 -0.45495  min -0.68445 -0.14119 -0.30082  max 0.68445 0.14119 0.30082
+   1c: 00000000 313da12f bcf7daa0 3bb3c580 00000000 00000001 00000001
+       f: 0 0 -0.03026 0.00549 0 0 0
+   arrayA 0 x16  w 00000001  arrayB 0 x2  w 00c200dc  vbTest 01000000 01000000  w3 00000002 00000001
+   LOD VB 0 x60  w4 00000001  subsections 5
+   sub0: pre 00000001 00000003  'window' itype 6 lod 1 (3) idx 48 x2 max 26 restarts 2
+   sub1: pre 00000001 00000003  'window' itype 6 lod 2 (3) idx 48 x2 max 26 restarts 2
+   sub2: pre 00000001 00000003  'window' itype 6 lod 3 (3) idx 29 x2 max 26 restarts 1
+   sub3: pre 00000001 00000003  'window' itype 6 lod 4 (3) idx 29 x2 max 26 restarts 1
+   sub4: pre 00000001 00000003  'window' itype 6 lod 5 (3) idx 29 x2 max 26 restarts 1
+   (uses shared glass VB)
+
+[30] 029EC5 'interior' marker 2C9  offset -0.0191 0.54298 0.51863  min -0.76635 -0.52351 -1.2744  max 0.76635 0.52351 1.2744
+   1c: 00000000 3d81d4c2 3df67b10 be8b4abc 00000000 00000001 00000001
+       f: 0 0.06339 0.12035 -0.27205 0 0 0
+   arrayA 0 x16  w 00000001  arrayB 0 x2  w 44c64705  vbTest 00000000 01000000  w3 00000002 00000001
+   LOD VB 0 x60  w4 00000001  subsections 8
+   sub0: pre 00000001 00000003  'interior' itype 6 lod 1 (3) idx 753 x2 max 509 restarts 107
+   sub1: pre 00000001 00000003  'chrome' itype 6 lod 1 (3) idx 24 x2 max 524 restarts 5
+   sub2: pre 00000001 00000003  'interior' itype 6 lod 2 (3) idx 601 x2 max 535 restarts 63
+   sub3: pre 00000001 00000003  'chrome' itype 6 lod 2 (3) idx 11 x2 max 524 restarts 0
+   sub4: pre 00000001 00000003  'interior' itype 6 lod 3 (3) idx 510 x2 max 538 restarts 60
+   sub5: pre 00000001 00000003  'chrome' itype 6 lod 3 (3) idx 11 x2 max 524 restarts 0
+   sub6: pre 00000001 00000003  'interior' itype 6 lod 4 (3) idx 364 x2 max 567 restarts 48
+   sub7: pre 00000001 00000003  'interior' itype 6 lod 5 (3) idx 9 x2 max 575 restarts 1
+   (uses shared body VB)
+
+[31] 02B252 'skirtLb' marker 2C9  offset -0.85223 0.1622 -0.00941  min -0.05323 -0.19546 -0.96373  max 0.05323 0.19546 0.96373
+   1c: 3f800000 bcd571c0 bc9145f8 3de731f5 00000000 00000001 00000001
+       f: 1 -0.02606 -0.01773 0.11289 0 0 0
+   arrayA 0 x16  w 00000001  arrayB 0 x2  w 470649d7  vbTest 00000000 01000000  w3 00000002 00000001
+   LOD VB 0 x60  w4 00000001  subsections 15
+   sub0: pre 00000001 00000003  'body' itype 6 lod 1 (3) idx 741 x2 max 406 restarts 62
+   sub1: pre 00000001 00000003  'frame' itype 6 lod 1 (3) idx 101 x2 max 472 restarts 11
+   sub2: pre 00000001 00000003  'matte_colors' itype 6 lod 1 (3) idx 17 x2 max 484 restarts 2
+   sub3: pre 00000001 00000003  'body' itype 6 lod 2 (3) idx 380 x2 max 699 restarts 28
+   sub4: pre 00000001 00000003  'frame' itype 6 lod 2 (3) idx 72 x2 max 719 restarts 6
+   sub5: pre 00000001 00000003  'matte_colors' itype 6 lod 2 (3) idx 15 x2 max 484 restarts 1
+   sub6: pre 00000001 00000003  'body' itype 6 lod 3 (3) idx 294 x2 max 721 restarts 23
+   sub7: pre 00000001 00000003  'frame' itype 6 lod 3 (3) idx 72 x2 max 719 restarts 6
+   sub8: pre 00000001 00000003  'matte_colors' itype 6 lod 3 (3) idx 13 x2 max 484 restarts 1
+   sub9: pre 00000001 00000003  'body' itype 6 lod 4 (3) idx 192 x2 max 697 restarts 15
+   sub10: pre 00000001 00000003  'frame' itype 6 lod 4 (3) idx 62 x2 max 719 restarts 5
+   sub11: pre 00000001 00000003  'matte_colors' itype 6 lod 4 (3) idx 7 x2 max 484 restarts 0
+   sub12: pre 00000001 00000003  'body' itype 6 lod 5 (3) idx 143 x2 max 697 restarts 13
+   sub13: pre 00000001 00000003  'frame' itype 6 lod 5 (3) idx 57 x2 max 719 restarts 4
+   sub14: pre 00000001 00000003  'matte_colors' itype 6 lod 5 (3) idx 7 x2 max 484 restarts 0
+   (uses shared body VB)
+
+[32] 02C611 'skirtRb' marker 2C9  offset 0.85223 0.16226 -0.01113  min -0.05323 -0.19551 -0.96522  max 0.05323 0.19551 0.96522
+   1c: 3f800000 3cd6b2e0 bc518620 3df403c1 00000000 00000001 00000001
+       f: 1 0.02621 -0.01279 0.11915 0 0 0
+   arrayA 0 x16  w 00000001  arrayB 0 x2  w 49d84cc4  vbTest 00000000 01000000  w3 00000002 00000001
+   LOD VB 0 x60  w4 00000001  subsections 15
+   sub0: pre 00000001 00000003  'body' itype 6 lod 1 (3) idx 792 x2 max 426 restarts 69
+   sub1: pre 00000001 00000003  'frame' itype 6 lod 1 (3) idx 127 x2 max 509 restarts 19
+   sub2: pre 00000001 00000003  'matte_colors' itype 6 lod 1 (3) idx 17 x2 max 521 restarts 2
+   sub3: pre 00000001 00000003  'body' itype 6 lod 2 (3) idx 390 x2 max 728 restarts 25
+   sub4: pre 00000001 00000003  'frame' itype 6 lod 2 (3) idx 87 x2 max 748 restarts 7
+   sub5: pre 00000001 00000003  'matte_colors' itype 6 lod 2 (3) idx 15 x2 max 521 restarts 1
+   sub6: pre 00000001 00000003  'body' itype 6 lod 3 (3) idx 277 x2 max 727 restarts 17
+   sub7: pre 00000001 00000003  'frame' itype 6 lod 3 (3) idx 78 x2 max 748 restarts 6
+   sub8: pre 00000001 00000003  'matte_colors' itype 6 lod 3 (3) idx 8 x2 max 521 restarts 0
+   sub9: pre 00000001 00000003  'body' itype 6 lod 4 (3) idx 201 x2 max 727 restarts 14
+   sub10: pre 00000001 00000003  'frame' itype 6 lod 4 (3) idx 66 x2 max 748 restarts 5
+   sub11: pre 00000001 00000003  'matte_colors' itype 6 lod 4 (3) idx 6 x2 max 521 restarts 0
+   sub12: pre 00000001 00000003  'body' itype 6 lod 5 (3) idx 152 x2 max 727 restarts 12
+   sub13: pre 00000001 00000003  'frame' itype 6 lod 5 (3) idx 60 x2 max 748 restarts 5
+   sub14: pre 00000001 00000003  'matte_colors' itype 6 lod 5 (3) idx 6 x2 max 521 restarts 0
+   (uses shared body VB)
+
+[33] 02DAAA 'skirtLd' marker 2C9  offset -0.85674 0.15463 -0.03903  min -0.05774 -0.22507 -0.99441  max 0.05774 0.22507 0.99441
+   1c: 3f800000 bce45800 3c1c9da0 3df7528d 00000000 00000001 00000001
+       f: 1 -0.02787 0.00956 0.12076 0 0 0
+   arrayA 0 x16  w 00000001  arrayB 0 x2  w 4cc54fb5  vbTest 00000000 01000000  w3 00000002 00000001
+   LOD VB 0 x60  w4 00000001  subsections 15
+   sub0: pre 00000001 00000003  'body' itype 6 lod 1 (3) idx 835 x2 max 416 restarts 71
+   sub1: pre 00000001 00000003  'frame' itype 6 lod 1 (3) idx 104 x2 max 480 restarts 16
+   sub2: pre 00000001 00000003  'plastic2' itype 6 lod 1 (3) idx 13 x2 max 492 restarts 0
+   sub3: pre 00000001 00000003  'body' itype 6 lod 2 (3) idx 403 x2 max 719 restarts 28
+   sub4: pre 00000001 00000003  'frame' itype 6 lod 2 (3) idx 58 x2 max 731 restarts 3
+   sub5: pre 00000001 00000003  'plastic2' itype 6 lod 2 (3) idx 13 x2 max 737 restarts 0
+   sub6: pre 00000001 00000003  'body' itype 6 lod 3 (3) idx 305 x2 max 719 restarts 26
+   sub7: pre 00000001 00000003  'frame' itype 6 lod 3 (3) idx 55 x2 max 738 restarts 3
+   sub8: pre 00000001 00000003  'plastic2' itype 6 lod 3 (3) idx 11 x2 max 747 restarts 0
+   sub9: pre 00000001 00000003  'body' itype 6 lod 4 (3) idx 223 x2 max 748 restarts 19
+   sub10: pre 00000001 00000003  'frame' itype 6 lod 4 (3) idx 37 x2 max 749 restarts 2
+   sub11: pre 00000001 00000003  'plastic2' itype 6 lod 4 (3) idx 7 x2 max 750 restarts 0
+   sub12: pre 00000001 00000003  'body' itype 6 lod 5 (3) idx 164 x2 max 719 restarts 12
+   sub13: pre 00000001 00000003  'frame' itype 6 lod 5 (3) idx 40 x2 max 749 restarts 3
+   sub14: pre 00000001 00000003  'plastic2' itype 6 lod 5 (3) idx 6 x2 max 752 restarts 0
+   (uses shared body VB)
+
+[34] 02EF1F 'skirtRd' marker 2C9  offset 0.86425 0.15463 -0.04041  min -0.05022 -0.22507 -0.99304  max 0.05022 0.22507 0.99304
+   1c: 3f800000 3c9d4320 3c3b6ce0 3e0b037e 00000000 00000001 00000001
+       f: 1 0.0192 0.01144 0.13576 0 0 0
+   arrayA 0 x16  w 00000001  arrayB 0 x2  w 4fb652c7  vbTest 00000000 01000000  w3 00000002 00000001
+   LOD VB 0 x60  w4 00000001  subsections 15
+   sub0: pre 00000001 00000003  'body' itype 6 lod 1 (3) idx 825 x2 max 424 restarts 72
+   sub1: pre 00000001 00000003  'frame' itype 6 lod 1 (3) idx 95 x2 max 484 restarts 12
+   sub2: pre 00000001 00000003  'plastic2' itype 6 lod 1 (3) idx 13 x2 max 496 restarts 0
+   sub3: pre 00000001 00000003  'body' itype 6 lod 2 (3) idx 413 x2 max 722 restarts 29
+   sub4: pre 00000001 00000003  'frame' itype 6 lod 2 (3) idx 58 x2 max 759 restarts 3
+   sub5: pre 00000001 00000003  'plastic2' itype 6 lod 2 (3) idx 15 x2 max 771 restarts 0
+   sub6: pre 00000001 00000003  'body' itype 6 lod 3 (3) idx 306 x2 max 722 restarts 21
+   sub7: pre 00000001 00000003  'frame' itype 6 lod 3 (3) idx 52 x2 max 772 restarts 2
+   sub8: pre 00000001 00000003  'plastic2' itype 6 lod 3 (3) idx 8 x2 max 780 restarts 0
+   sub9: pre 00000001 00000003  'body' itype 6 lod 4 (3) idx 222 x2 max 721 restarts 18
+   sub10: pre 00000001 00000003  'frame' itype 6 lod 4 (3) idx 49 x2 max 772 restarts 2
+   sub11: pre 00000001 00000003  'plastic2' itype 6 lod 4 (3) idx 7 x2 max 781 restarts 0
+   sub12: pre 00000001 00000003  'body' itype 6 lod 5 (3) idx 166 x2 max 721 restarts 16
+   sub13: pre 00000001 00000003  'frame' itype 6 lod 5 (3) idx 44 x2 max 782 restarts 2
+   sub14: pre 00000001 00000003  'plastic2' itype 6 lod 5 (3) idx 7 x2 max 785 restarts 0
+   (uses shared body VB)
+
+[35] 0303A0 'skirtLi' marker 2C9  offset -0.85028 0.14332 -0.04126  min -0.07209 -0.23639 -0.99468  max 0.07209 0.23639 0.99468
+   1c: 3f800000 bcdb5240 bbf70300 3ddaa5bd 00000000 00000001 00000001
+       f: 1 -0.02677 -0.00754 0.10676 0 0 0
+   arrayA 0 x16  w 00000001  arrayB 0 x2  w 52c8550f  vbTest 00000000 01000000  w3 00000002 00000001
+   LOD VB 0 x60  w4 00000001  subsections 20
+   sub0: pre 00000001 00000003  'body' itype 6 lod 1 (3) idx 515 x2 max 257 restarts 41
+   sub1: pre 00000001 00000003  'plastic2' itype 6 lod 1 (3) idx 16 x2 max 268 restarts 2
+   sub2: pre 00000001 00000003  'matte_colors' itype 6 lod 1 (3) idx 23 x2 max 285 restarts 1
+   sub3: pre 00000001 00000003  'black' itype 6 lod 1 (3) idx 162 x2 max 397 restarts 15
+   sub4: pre 00000001 00000003  'body' itype 6 lod 2 (3) idx 323 x2 max 558 restarts 21
+   sub5: pre 00000001 00000003  'plastic2' itype 6 lod 2 (3) idx 11 x2 max 268 restarts 0
+   sub6: pre 00000001 00000003  'matte_colors' itype 6 lod 2 (3) idx 23 x2 max 285 restarts 1
+   sub7: pre 00000001 00000003  'black' itype 6 lod 2 (3) idx 88 x2 max 580 restarts 13
+   sub8: pre 00000001 00000003  'body' itype 6 lod 3 (3) idx 245 x2 max 558 restarts 15
+   sub9: pre 00000001 00000003  'plastic2' itype 6 lod 3 (3) idx 9 x2 max 268 restarts 0
+   sub10: pre 00000001 00000003  'matte_colors' itype 6 lod 3 (3) idx 16 x2 max 283 restarts 0
+   sub11: pre 00000001 00000003  'black' itype 6 lod 3 (3) idx 70 x2 max 580 restarts 3
+   sub12: pre 00000001 00000003  'body' itype 6 lod 4 (3) idx 191 x2 max 581 restarts 12
+   sub13: pre 00000001 00000003  'plastic2' itype 6 lod 4 (3) idx 7 x2 max 268 restarts 0
+   sub14: pre 00000001 00000003  'matte_colors' itype 6 lod 4 (3) idx 9 x2 max 282 restarts 0
+   sub15: pre 00000001 00000003  'black' itype 6 lod 4 (3) idx 50 x2 max 575 restarts 3
+   sub16: pre 00000001 00000003  'body' itype 6 lod 5 (3) idx 123 x2 max 582 restarts 10
+   sub17: pre 00000001 00000003  'plastic2' itype 6 lod 5 (3) idx 4 x2 max 266 restarts 0
+   sub18: pre 00000001 00000003  'matte_colors' itype 6 lod 5 (3) idx 9 x2 max 282 restarts 0
+   sub19: pre 00000001 00000003  'black' itype 6 lod 5 (3) idx 50 x2 max 583 restarts 3
+   (uses shared body VB)
+
+[36] 03165D 'skirtRi' marker 2C9  offset 0.85005 0.14332 -0.04081  min -0.07187 -0.23639 -0.99513  max 0.07187 0.23639 0.99513
+   1c: 3f800000 3cdc30c0 bb946260 3e06a5b5 00000000 00000001 00000001
+       f: 1 0.02688 -0.00453 0.13149 0 0 0
+   arrayA 0 x16  w 00000001  arrayB 0 x2  w 55105759  vbTest 00000000 01000000  w3 00000002 00000001
+   LOD VB 0 x60  w4 00000001  subsections 20
+   sub0: pre 00000001 00000003  'body' itype 6 lod 1 (3) idx 573 x2 max 305 restarts 47
+   sub1: pre 00000001 00000003  'plastic2' itype 6 lod 1 (3) idx 17 x2 max 316 restarts 2
+   sub2: pre 00000001 00000003  'matte_colors' itype 6 lod 1 (3) idx 24 x2 max 333 restarts 1
+   sub3: pre 00000001 00000003  'black' itype 6 lod 1 (3) idx 84 x2 max 392 restarts 8
+   sub4: pre 00000001 00000003  'body' itype 6 lod 2 (3) idx 343 x2 max 561 restarts 22
+   sub5: pre 00000001 00000003  'plastic2' itype 6 lod 2 (3) idx 11 x2 max 315 restarts 0
+   sub6: pre 00000001 00000003  'matte_colors' itype 6 lod 2 (3) idx 24 x2 max 333 restarts 1
+   sub7: pre 00000001 00000003  'black' itype 6 lod 2 (3) idx 74 x2 max 583 restarts 4
+   sub8: pre 00000001 00000003  'body' itype 6 lod 3 (3) idx 229 x2 max 561 restarts 17
+   sub9: pre 00000001 00000003  'plastic2' itype 6 lod 3 (3) idx 6 x2 max 584 restarts 0
+   sub10: pre 00000001 00000003  'matte_colors' itype 6 lod 3 (3) idx 17 x2 max 331 restarts 0
+   sub11: pre 00000001 00000003  'black' itype 6 lod 3 (3) idx 73 x2 max 583 restarts 4
+   sub12: pre 00000001 00000003  'body' itype 6 lod 4 (3) idx 184 x2 max 585 restarts 11
+   sub13: pre 00000001 00000003  'plastic2' itype 6 lod 4 (3) idx 6 x2 max 584 restarts 0
+   sub14: pre 00000001 00000003  'matte_colors' itype 6 lod 4 (3) idx 11 x2 max 331 restarts 0
+   sub15: pre 00000001 00000003  'black' itype 6 lod 4 (3) idx 63 x2 max 583 restarts 5
+   sub16: pre 00000001 00000003  'body' itype 6 lod 5 (3) idx 128 x2 max 561 restarts 8
+   sub17: pre 00000001 00000003  'plastic2' itype 6 lod 5 (3) idx 5 x2 max 584 restarts 0
+   sub18: pre 00000001 00000003  'matte_colors' itype 6 lod 5 (3) idx 11 x2 max 331 restarts 0
+   sub19: pre 00000001 00000003  'black' itype 6 lod 5 (3) idx 58 x2 max 583 restarts 4
+   (uses shared body VB)
+
+[37] 032914 'body' marker 2C9  offset 0 0.50207 0.0795  min -0.90508 -0.57864 -2.09477  max 0.90508 0.57864 2.09477
+   1c: 00000000 3ce9b9a3 3d532d70 3f364381 00000000 00000001 00000001
+       f: 0 0.02853 0.05156 0.71197 0 0 0
+   arrayA 0 x16  w 00000001  arrayB 0 x2  w 00dd29a4  vbTest 01000000 01000000  w3 00000002 00000001
+   LOD VB 0 x60  w4 00000001  subsections 77
+   sub0: pre 00000001 00000003  'body' itype 6 lod 1 (3) idx 5880 x2 max 3499 restarts 522
+   sub1: pre 00000001 00000003  'rubber_trim' itype 6 lod 1 (3) idx 607 x2 max 3957 restarts 44
+   sub2: pre 00000001 00000003  'black_glass' itype 6 lod 1 (3) idx 156 x2 max 4061 restarts 7
+   sub3: pre 00000001 00000003  'matte_colors' itype 6 lod 1 (3) idx 460 x2 max 4410 restarts 36
+   sub4: pre 00000001 00000003  'frame' itype 6 lod 1 (3) idx 668 x2 max 4856 restarts 86
+   sub5: pre 00000001 00000003  'black' itype 6 lod 1 (3) idx 1173 x2 max 5582 restarts 141
+   sub6: pre 00000001 00000003  'weatherstrip' itype 6 lod 1 (3) idx 536 x2 max 5953 restarts 98
+   sub7: pre 00000001 00000003  'misc' itype 6 lod 1 (3) idx 104 x2 max 6020 restarts 15
+   sub8: pre 00000001 00000003  'chrome' itype 6 lod 1 (3) idx 170 x2 max 6103 restarts 33
+   sub9: pre 00000001 00000003  'reflector' itype 6 lod 1 (3) idx 392 x2 max 6371 restarts 23
+   sub10: pre 00000001 00000003  'textured_reflector' itype 6 lod 1 (3) idx 2209 x2 max 7995 restarts 148
+   sub11: pre 00000001 00000003  'tail_light' itype 6 lod 1 (3) idx 164 x2 max 8081 restarts 9
+   sub12: pre 00000001 00000003  'reverse_light' itype 6 lod 1 (3) idx 164 x2 max 8167 restarts 9
+   sub13: pre 00000001 00000003  'detail_glass_clear' itype 6 lod 1 (3) idx 95 x2 max 8217 restarts 3
+   sub14: pre 00000001 00000003  'detail_glass_red' itype 6 lod 1 (3) idx 191 x2 max 8317 restarts 7
+   sub15: pre 00000001 00000003  'detail_glass_amber' itype 6 lod 1 (3) idx 95 x2 max 8367 restarts 3
+   sub16: pre 00000001 00000003  'emblem' itype 6 lod 1 (3) idx 27 x2 max 8391 restarts 1
+   sub17: pre 00000001 00000003  'badge' itype 6 lod 1 (3) idx 15 x2 max 8403 restarts 1
+   sub18: pre 00000001 00000003  'body' itype 6 lod 2 (3) idx 2658 x2 max 9597 restarts 187
+   sub19: pre 00000001 00000003  'rubber_trim' itype 6 lod 2 (3) idx 400 x2 max 9647 restarts 28
+   sub20: pre 00000001 00000003  'black_glass' itype 6 lod 2 (3) idx 152 x2 max 4061 restarts 6
+   sub21: pre 00000001 00000003  'matte_colors' itype 6 lod 2 (3) idx 251 x2 max 9664 restarts 19
+   sub22: pre 00000001 00000003  'frame' itype 6 lod 2 (3) idx 555 x2 max 9769 restarts 53
+   sub23: pre 00000001 00000003  'black' itype 6 lod 2 (3) idx 838 x2 max 10151 restarts 71
+   sub24: pre 00000001 00000003  'weatherstrip' itype 6 lod 2 (3) idx 363 x2 max 5953 restarts 36
+   sub25: pre 00000001 00000003  'misc' itype 6 lod 2 (3) idx 32 x2 max 6081 restarts 1
+   sub26: pre 00000001 00000003  'chrome' itype 6 lod 2 (3) idx 51 x2 max 10167 restarts 4
+   sub27: pre 00000001 00000003  'badge' itype 6 lod 2 (3) idx 15 x2 max 10179 restarts 1
+   sub28: pre 00000001 00000003  'reflector' itype 6 lod 2 (3) idx 131 x2 max 6370 restarts 7
+   sub29: pre 00000001 00000003  'textured_reflector' itype 6 lod 2 (3) idx 880 x2 max 7967 restarts 52
+   sub30: pre 00000001 00000003  'tail_light' itype 6 lod 2 (3) idx 47 x2 max 8080 restarts 1
+   sub31: pre 00000001 00000003  'reverse_light' itype 6 lod 2 (3) idx 47 x2 max 8167 restarts 1
+   sub32: pre 00000001 00000003  'detail_glass_clear' itype 6 lod 2 (3) idx 47 x2 max 8217 restarts 1
+   sub33: pre 00000001 00000003  'detail_glass_red' itype 6 lod 2 (3) idx 95 x2 max 8316 restarts 3
+   sub34: pre 00000001 00000003  'detail_glass_amber' itype 6 lod 2 (3) idx 47 x2 max 8366 restarts 1
+   sub35: pre 00000001 00000003  'body' itype 6 lod 3 (3) idx 1697 x2 max 10203 restarts 128
+   sub36: pre 00000001 00000003  'rubber_trim' itype 6 lod 3 (3) idx 285 x2 max 9647 restarts 23
+   sub37: pre 00000001 00000003  'black_glass' itype 6 lod 3 (3) idx 74 x2 max 10205 restarts 4
+   sub38: pre 00000001 00000003  'matte_colors' itype 6 lod 3 (3) idx 207 x2 max 10221 restarts 16
+   sub39: pre 00000001 00000003  'black' itype 6 lod 3 (3) idx 702 x2 max 10228 restarts 62
+   sub40: pre 00000001 00000003  'frame' itype 6 lod 3 (3) idx 444 x2 max 10235 restarts 47
+   sub41: pre 00000001 00000003  'weatherstrip' itype 6 lod 3 (3) idx 295 x2 max 10301 restarts 25
+   sub42: pre 00000001 00000003  'misc' itype 6 lod 3 (3) idx 84 x2 max 10167 restarts 6
+   sub43: pre 00000001 00000003  'badge' itype 6 lod 3 (3) idx 15 x2 max 10179 restarts 1
+   sub44: pre 00000001 00000003  'reflector' itype 6 lod 3 (3) idx 107 x2 max 6370 restarts 7
+   sub45: pre 00000001 00000003  'textured_reflector' itype 6 lod 3 (3) idx 681 x2 max 10344 restarts 41
+   sub46: pre 00000001 00000003  'tail_light' itype 6 lod 3 (3) idx 23 x2 max 8080 restarts 1
+   sub47: pre 00000001 00000003  'reverse_light' itype 6 lod 3 (3) idx 23 x2 max 8165 restarts 1
+   sub48: pre 00000001 00000003  'detail_glass_clear' itype 6 lod 3 (3) idx 23 x2 max 8215 restarts 1
+   sub49: pre 00000001 00000003  'detail_glass_red' itype 6 lod 3 (3) idx 47 x2 max 8314 restarts 3
+   sub50: pre 00000001 00000003  'detail_glass_amber' itype 6 lod 3 (3) idx 23 x2 max 8366 restarts 1
+   sub51: pre 00000001 00000003  'body' itype 6 lod 4 (3) idx 943 x2 max 10369 restarts 84
+   sub52: pre 00000001 00000003  'rubber_trim' itype 6 lod 4 (3) idx 189 x2 max 9646 restarts 19
+   sub53: pre 00000001 00000003  'black_glass' itype 6 lod 4 (3) idx 64 x2 max 10370 restarts 4
+   sub54: pre 00000001 00000003  'matte_colors' itype 6 lod 4 (3) idx 165 x2 max 10221 restarts 14
+   sub55: pre 00000001 00000003  'black' itype 6 lod 4 (3) idx 642 x2 max 10372 restarts 61
+   sub56: pre 00000001 00000003  'frame' itype 6 lod 4 (3) idx 407 x2 max 10374 restarts 47
+   sub57: pre 00000001 00000003  'textured_reflector' itype 6 lod 4 (3) idx 486 x2 max 10381 restarts 30
+   sub58: pre 00000001 00000003  'reflector' itype 6 lod 4 (3) idx 107 x2 max 6370 restarts 7
+   sub59: pre 00000001 00000003  'tail_light' itype 6 lod 4 (3) idx 23 x2 max 8080 restarts 1
+   sub60: pre 00000001 00000003  'reverse_light' itype 6 lod 4 (3) idx 23 x2 max 8165 restarts 1
+   sub61: pre 00000001 00000003  'detail_glass_clear' itype 6 lod 4 (3) idx 23 x2 max 8215 restarts 1
+   sub62: pre 00000001 00000003  'detail_glass_red' itype 6 lod 4 (3) idx 47 x2 max 8314 restarts 3
+   sub63: pre 00000001 00000003  'detail_glass_amber' itype 6 lod 4 (3) idx 23 x2 max 8366 restarts 1
+   sub64: pre 00000001 00000003  'body' itype 6 lod 5 (3) idx 744 x2 max 10403 restarts 77
+   sub65: pre 00000001 00000003  'black' itype 6 lod 5 (3) idx 549 x2 max 10432 restarts 52
+   sub66: pre 00000001 00000003  'rubber_trim' itype 6 lod 5 (3) idx 123 x2 max 9646 restarts 16
+   sub67: pre 00000001 00000003  'matte_colors' itype 6 lod 5 (3) idx 97 x2 max 9663 restarts 8
+   sub68: pre 00000001 00000003  'black_glass' itype 6 lod 5 (3) idx 37 x2 max 10434 restarts 3
+   sub69: pre 00000001 00000003  'frame' itype 6 lod 5 (3) idx 380 x2 max 10429 restarts 46
+   sub70: pre 00000001 00000003  'textured_reflector' itype 6 lod 5 (3) idx 325 x2 max 10439 restarts 29
+   sub71: pre 00000001 00000003  'reflector' itype 6 lod 5 (3) idx 27 x2 max 6370 restarts 3
+   sub72: pre 00000001 00000003  'tail_light' itype 6 lod 5 (3) idx 11 x2 max 8080 restarts 1
+   sub73: pre 00000001 00000003  'reverse_light' itype 6 lod 5 (3) idx 11 x2 max 8165 restarts 1
+   sub74: pre 00000001 00000003  'detail_glass_clear' itype 6 lod 5 (3) idx 11 x2 max 8215 restarts 1
+   sub75: pre 00000001 00000003  'detail_glass_red' itype 6 lod 5 (3) idx 23 x2 max 8310 restarts 3
+   sub76: pre 00000001 00000003  'detail_glass_amber' itype 6 lod 5 (3) idx 11 x2 max 8366 restarts 1
+   (uses shared glass VB)
+
+[38] 04204C 'hooda' marker 2C9  offset -0.00105 0.58714 -1.3404  min -0.75767 -0.12004 -0.72896  max 0.75767 0.12004 0.72896
+   1c: 3f800000 3b175643 3cc03480 3c642700 00000000 00000001 00000001
+       f: 1 0.00231 0.02346 0.01393 0 0 0
+   arrayA 0 x16  w 00000001  arrayB 0 x2  w 575a58be  vbTest 00000000 01000000  w3 00000002 00000001
+   LOD VB 0 x60  w4 00000001  subsections 10
+   sub0: pre 00000001 00000003  'body' itype 6 lod 1 (3) idx 342 x2 max 207 restarts 27
+   sub1: pre 00000001 00000003  'frame' itype 6 lod 1 (3) idx 105 x2 max 273 restarts 5
+   sub2: pre 00000001 00000003  'body' itype 6 lod 2 (3) idx 238 x2 max 327 restarts 12
+   sub3: pre 00000001 00000003  'frame' itype 6 lod 2 (3) idx 105 x2 max 356 restarts 5
+   sub4: pre 00000001 00000003  'body' itype 6 lod 3 (3) idx 158 x2 max 327 restarts 8
+   sub5: pre 00000001 00000003  'frame' itype 6 lod 3 (3) idx 105 x2 max 356 restarts 5
+   sub6: pre 00000001 00000003  'body' itype 6 lod 4 (3) idx 89 x2 max 310 restarts 5
+   sub7: pre 00000001 00000003  'frame' itype 6 lod 4 (3) idx 105 x2 max 356 restarts 5
+   sub8: pre 00000001 00000003  'body' itype 6 lod 5 (3) idx 63 x2 max 310 restarts 3
+   sub9: pre 00000001 00000003  'frame' itype 6 lod 5 (3) idx 86 x2 max 356 restarts 3
+   (uses shared body VB)
+
+[39] 042D1B 'hoodg' marker 2C9  offset -0.00105 0.58714 -1.3404  min -0.75767 -0.12004 -0.72896  max 0.75767 0.12004 0.72896
+   1c: 3f800000 bbcca48c 3c5b0080 be335938 00000000 00000001 00000001
+       f: 1 -0.00625 0.01337 -0.17515 0 0 0
+   arrayA 0 x16  w 00000001  arrayB 0 x2  w 58bf5b77  vbTest 00000000 01000000  w3 00000002 00000001
+   LOD VB 0 x60  w4 00000001  subsections 20
+   sub0: pre 00000001 00000003  'body' itype 6 lod 1 (3) idx 682 x2 max 383 restarts 64
+   sub1: pre 00000001 00000003  'chrome' itype 6 lod 1 (3) idx 176 x2 max 505 restarts 39
+   sub2: pre 00000001 00000003  'frame' itype 6 lod 1 (3) idx 85 x2 max 555 restarts 5
+   sub3: pre 00000001 00000003  'matte_colors' itype 6 lod 1 (3) idx 46 x2 max 589 restarts 7
+   sub4: pre 00000001 00000003  'body' itype 6 lod 2 (3) idx 420 x2 max 634 restarts 32
+   sub5: pre 00000001 00000003  'chrome' itype 6 lod 2 (3) idx 126 x2 max 505 restarts 21
+   sub6: pre 00000001 00000003  'frame' itype 6 lod 2 (3) idx 80 x2 max 663 restarts 4
+   sub7: pre 00000001 00000003  'matte_colors' itype 6 lod 2 (3) idx 50 x2 max 683 restarts 7
+   sub8: pre 00000001 00000003  'body' itype 6 lod 3 (3) idx 367 x2 max 690 restarts 39
+   sub9: pre 00000001 00000003  'frame' itype 6 lod 3 (3) idx 79 x2 max 663 restarts 3
+   sub10: pre 00000001 00000003  'matte_colors' itype 6 lod 3 (3) idx 50 x2 max 683 restarts 7
+   sub11: pre 00000001 00000003  'chrome' itype 6 lod 3 (3) idx 90 x2 max 489 restarts 13
+   sub12: pre 00000001 00000003  'body' itype 6 lod 4 (3) idx 247 x2 max 693 restarts 28
+   sub13: pre 00000001 00000003  'frame' itype 6 lod 4 (3) idx 72 x2 max 663 restarts 3
+   sub14: pre 00000001 00000003  'matte_colors' itype 6 lod 4 (3) idx 50 x2 max 695 restarts 7
+   sub15: pre 00000001 00000003  'chrome' itype 6 lod 4 (3) idx 63 x2 max 489 restarts 11
+   sub16: pre 00000001 00000003  'body' itype 6 lod 5 (3) idx 176 x2 max 696 restarts 19
+   sub17: pre 00000001 00000003  'frame' itype 6 lod 5 (3) idx 69 x2 max 663 restarts 3
+   sub18: pre 00000001 00000003  'matte_colors' itype 6 lod 5 (3) idx 14 x2 max 695 restarts 2
+   sub19: pre 00000001 00000003  'chrome' itype 6 lod 5 (3) idx 48 x2 max 489 restarts 10
+   (uses shared body VB)
+
+[40] 0447F8 'bumperFrameF' marker 2C9  offset 0.00002 0.20435 -1.89288  min -0.80692 -0.16918 -0.19434  max 0.80692 0.16918 0.19434
+   1c: 00000000 3c306bde 3c8abcb8 bd2be020 00000000 00000001 00000001
+       f: 0 0.01077 0.01694 -0.04196 0 0 0
+   arrayA 0 x16  w 00000001  arrayB 0 x2  w 5b785d1b  vbTest 00000000 01000000  w3 00000002 00000001
+   LOD VB 0 x60  w4 00000001  subsections 5
+   sub0: pre 00000001 00000003  'bumper_frame' itype 6 lod 1 (3) idx 634 x2 max 408 restarts 82
+   sub1: pre 00000001 00000003  'bumper_frame' itype 6 lod 2 (3) idx 314 x2 max 419 restarts 28
+   sub2: pre 00000001 00000003  'bumper_frame' itype 6 lod 3 (3) idx 264 x2 max 419 restarts 20
+   sub3: pre 00000001 00000003  'bumper_frame' itype 6 lod 4 (3) idx 179 x2 max 419 restarts 14
+   sub4: pre 00000001 00000003  'bumper_frame' itype 6 lod 5 (3) idx 88 x2 max 419 restarts 7
+   (uses shared body VB)
+
+[41] 0454E3 'glassLHL' marker 2C9  offset -0.51367 0.43717 -2.01618  min -0.19109 -0.06861 -0.14561  max 0.19109 0.06861 0.14561
+   1c: 00000000 bc42abc0 bc3e7f00 bb201c00 00000000 00000001 00000001
+       f: 0 -0.01188 -0.01163 -0.00244 0 0 0
+   arrayA 59 x16  w 00000001  arrayB 225 x2  w 29a529cd  vbTest 01000000 01000000  w3 00000002 00000001
+   LOD VB 0 x60  w4 00000001  subsections 5
+   sub0: pre 00000001 00000003  'detail_glass_clear' itype 6 lod 1 (3) idx 86 x2 max 40 restarts 4
+   sub1: pre 00000001 00000003  'detail_glass_clear' itype 6 lod 2 (3) idx 70 x2 max 40 restarts 4
+   sub2: pre 00000001 00000003  'detail_glass_clear' itype 6 lod 3 (3) idx 52 x2 max 40 restarts 7
+   sub3: pre 00000001 00000003  'detail_glass_clear' itype 6 lod 4 (3) idx 38 x2 max 40 restarts 2
+   sub4: pre 00000001 00000003  'detail_glass_clear' itype 6 lod 5 (3) idx 38 x2 max 40 restarts 2
+   (uses shared glass VB)
+
+[42] 045E04 'glassRHL' marker 2C9  offset 0.51367 0.43717 -2.01618  min -0.19109 -0.06861 -0.14561  max 0.19109 0.06861 0.14561
+   1c: 00000000 3c42ab80 bc3e7f20 bb21c400 00000000 00000001 00000001
+       f: 0 0.01188 -0.01163 -0.00247 0 0 0
+   arrayA 59 x16  w 00000001  arrayB 225 x2  w 29ce29f6  vbTest 01000000 01000000  w3 00000002 00000001
+   LOD VB 0 x60  w4 00000001  subsections 5
+   sub0: pre 00000001 00000003  'detail_glass_clear' itype 6 lod 1 (3) idx 81 x2 max 40 restarts 4
+   sub1: pre 00000001 00000003  'detail_glass_clear' itype 6 lod 2 (3) idx 75 x2 max 40 restarts 3
+   sub2: pre 00000001 00000003  'detail_glass_clear' itype 6 lod 3 (3) idx 47 x2 max 40 restarts 2
+   sub3: pre 00000001 00000003  'detail_glass_clear' itype 6 lod 4 (3) idx 33 x2 max 39 restarts 1
+   sub4: pre 00000001 00000003  'detail_glass_clear' itype 6 lod 5 (3) idx 31 x2 max 39 restarts 1
+   (uses shared glass VB)
+
+[43] 046703 'headlightL' marker 2C9  offset -0.51047 0.43354 -2.01371  min -0.19898 -0.07588 -0.15383  max 0.19898 0.07588 0.15383
+   1c: 00000000 bc8a1680 bc350be0 3d1cc1e0 00000000 00000001 00000001
+       f: 0 -0.01686 -0.01105 0.03827 0 0 0
+   arrayA 0 x16  w 00000001  arrayB 0 x2  w 29f72dc9  vbTest 01000000 01000000  w3 00000002 00000001
+   LOD VB 0 x60  w4 00000001  subsections 12
+   sub0: pre 00000001 00000003  'textured_reflector' itype 6 lod 1 (3) idx 1030 x2 max 763 restarts 60
+   sub1: pre 00000001 00000003  'head_light' itype 6 lod 1 (3) idx 260 x2 max 892 restarts 41
+   sub2: pre 00000001 00000003  'detail_glass_clear' itype 6 lod 1 (3) idx 143 x2 max 967 restarts 5
+   sub3: pre 00000001 00000003  'textured_reflector' itype 6 lod 2 (3) idx 507 x2 max 968 restarts 32
+   sub4: pre 00000001 00000003  'head_light' itype 6 lod 2 (3) idx 71 x2 max 891 restarts 2
+   sub5: pre 00000001 00000003  'detail_glass_clear' itype 6 lod 2 (3) idx 71 x2 max 966 restarts 2
+   sub6: pre 00000001 00000003  'textured_reflector' itype 6 lod 3 (3) idx 310 x2 max 969 restarts 20
+   sub7: pre 00000001 00000003  'head_light' itype 6 lod 3 (3) idx 71 x2 max 964 restarts 5
+   sub8: pre 00000001 00000003  'textured_reflector' itype 6 lod 4 (3) idx 210 x2 max 972 restarts 13
+   sub9: pre 00000001 00000003  'head_light' itype 6 lod 4 (3) idx 71 x2 max 964 restarts 5
+   sub10: pre 00000001 00000003  'textured_reflector' itype 6 lod 5 (3) idx 85 x2 max 978 restarts 7
+   sub11: pre 00000001 00000003  'head_light' itype 6 lod 5 (3) idx 35 x2 max 964 restarts 5
+   (uses shared glass VB)
+
+[44] 048012 'headlightR' marker 2C9  offset 0.51047 0.43354 -2.01371  min -0.19898 -0.07588 -0.15383  max 0.19898 0.07588 0.15383
+   1c: 00000000 3c8907e0 bc3553e0 3d1ce900 00000000 00000001 00000001
+       f: 0 0.01673 -0.01107 0.03831 0 0 0
+   arrayA 0 x16  w 00000001  arrayB 0 x2  w 2dca319a  vbTest 01000000 01000000  w3 00000002 00000001
+   LOD VB 0 x60  w4 00000001  subsections 15
+   sub0: pre 00000001 00000003  'textured_reflector' itype 6 lod 1 (3) idx 1047 x2 max 763 restarts 63
+   sub1: pre 00000001 00000003  'head_light' itype 6 lod 1 (3) idx 278 x2 max 892 restarts 47
+   sub2: pre 00000001 00000003  'detail_glass_clear' itype 6 lod 1 (3) idx 143 x2 max 967 restarts 5
+   sub3: pre 00000001 00000003  'textured_reflector' itype 6 lod 2 (3) idx 501 x2 max 968 restarts 31
+   sub4: pre 00000001 00000003  'head_light' itype 6 lod 2 (3) idx 71 x2 max 892 restarts 2
+   sub5: pre 00000001 00000003  'detail_glass_clear' itype 6 lod 2 (3) idx 71 x2 max 967 restarts 2
+   sub6: pre 00000001 00000003  'textured_reflector' itype 6 lod 3 (3) idx 301 x2 max 969 restarts 18
+   sub7: pre 00000001 00000003  'head_light' itype 6 lod 3 (3) idx 35 x2 max 892 restarts 2
+   sub8: pre 00000001 00000003  'detail_glass_clear' itype 6 lod 3 (3) idx 35 x2 max 965 restarts 2
+   sub9: pre 00000001 00000003  'textured_reflector' itype 6 lod 4 (3) idx 209 x2 max 972 restarts 14
+   sub10: pre 00000001 00000003  'head_light' itype 6 lod 4 (3) idx 35 x2 max 892 restarts 2
+   sub11: pre 00000001 00000003  'detail_glass_clear' itype 6 lod 4 (3) idx 35 x2 max 965 restarts 2
+   sub12: pre 00000001 00000003  'textured_reflector' itype 6 lod 5 (3) idx 93 x2 max 976 restarts 8
+   sub13: pre 00000001 00000003  'head_light' itype 6 lod 5 (3) idx 17 x2 max 888 restarts 2
+   sub14: pre 00000001 00000003  'detail_glass_clear' itype 6 lod 5 (3) idx 17 x2 max 961 restarts 2
+   (uses shared glass VB)
+
+[45] 0499E7 'bumperFd' marker 2C9  offset 0 0.21385 -1.90367  min -0.88339 -0.2563 -0.338  max 0.88339 0.2563 0.338
+   1c: 3f800000 bb5183c5 bc9f9870 be104840 00000000 00000001 00000001
+       f: 1 -0.0032 -0.01948 -0.1409 0 0 0
+   arrayA 0 x16  w 00000001  arrayB 0 x2  w 5d1c6661  vbTest 00000000 01000000  w3 00000002 00000001
+   LOD VB 0 x60  w4 00000001  subsections 30
+   sub0: pre 00000001 00000003  'body' itype 6 lod 1 (3) idx 2392 x2 max 1066 restarts 168
+   sub1: pre 00000001 00000003  'black' itype 6 lod 1 (3) idx 68 x2 max 1106 restarts 5
+   sub2: pre 00000001 00000003  'frame' itype 6 lod 1 (3) idx 152 x2 max 1203 restarts 21
+   sub3: pre 00000001 00000003  'grille2' itype 6 lod 1 (3) idx 136 x2 max 1298 restarts 16
+   sub4: pre 00000001 00000003  'badge' itype 6 lod 1 (3) idx 7 x2 max 1304 restarts 0
+   sub5: pre 00000001 00000003  'emblem' itype 6 lod 1 (3) idx 326 x2 max 1469 restarts 22
+   sub6: pre 00000001 00000003  'reflector' itype 6 lod 1 (3) idx 175 x2 max 1595 restarts 17
+   sub7: pre 00000001 00000003  'body' itype 6 lod 2 (3) idx 1276 x2 max 2073 restarts 81
+   sub8: pre 00000001 00000003  'black' itype 6 lod 2 (3) idx 61 x2 max 1160 restarts 3
+   sub9: pre 00000001 00000003  'frame' itype 6 lod 2 (3) idx 124 x2 max 2109 restarts 12
+   sub10: pre 00000001 00000003  'grille2' itype 6 lod 2 (3) idx 90 x2 max 2174 restarts 6
+   sub11: pre 00000001 00000003  'badge' itype 6 lod 2 (3) idx 7 x2 max 2180 restarts 0
+   sub12: pre 00000001 00000003  'reflector' itype 6 lod 2 (3) idx 167 x2 max 1595 restarts 14
+   sub13: pre 00000001 00000003  'body' itype 6 lod 3 (3) idx 928 x2 max 2182 restarts 58
+   sub14: pre 00000001 00000003  'black' itype 6 lod 3 (3) idx 54 x2 max 1160 restarts 3
+   sub15: pre 00000001 00000003  'frame' itype 6 lod 3 (3) idx 99 x2 max 2106 restarts 8
+   sub16: pre 00000001 00000003  'grille2' itype 6 lod 3 (3) idx 88 x2 max 2247 restarts 6
+   sub17: pre 00000001 00000003  'badge' itype 6 lod 3 (3) idx 7 x2 max 2180 restarts 0
+   sub18: pre 00000001 00000003  'reflector' itype 6 lod 3 (3) idx 110 x2 max 1589 restarts 8
+   sub19: pre 00000001 00000003  'body' itype 6 lod 4 (3) idx 650 x2 max 2253 restarts 47
+   sub20: pre 00000001 00000003  'black' itype 6 lod 4 (3) idx 45 x2 max 1160 restarts 2
+   sub21: pre 00000001 00000003  'frame' itype 6 lod 4 (3) idx 83 x2 max 2106 restarts 6
+   sub22: pre 00000001 00000003  'grille2' itype 6 lod 4 (3) idx 77 x2 max 2311 restarts 7
+   sub23: pre 00000001 00000003  'reflector' itype 6 lod 4 (3) idx 110 x2 max 1589 restarts 8
+   sub24: pre 00000001 00000003  'badge' itype 6 lod 4 (3) idx 7 x2 max 2180 restarts 0
+   sub25: pre 00000001 00000003  'body' itype 6 lod 5 (3) idx 488 x2 max 2324 restarts 35
+   sub26: pre 00000001 00000003  'black' itype 6 lod 5 (3) idx 34 x2 max 1160 restarts 1
+   sub27: pre 00000001 00000003  'frame' itype 6 lod 5 (3) idx 77 x2 max 2106 restarts 5
+   sub28: pre 00000001 00000003  'grille2' itype 6 lod 5 (3) idx 68 x2 max 2373 restarts 6
+   sub29: pre 00000001 00000003  'reflector' itype 6 lod 5 (3) idx 67 x2 max 1587 restarts 3
+   (uses shared body VB)
+
+[46] 04DD1E 'bumperFb' marker 2C9  offset 0 0.22134 -1.90652  min -0.87478 -0.24881 -0.34085  max 0.87478 0.24881 0.34085
+   1c: 3f800000 bcb8d27f 3cc012e8 bdbbe200 00000000 00000001 00000001
+       f: 1 -0.02256 0.02345 -0.09174 0 0 0
+   arrayA 0 x16  w 00000001  arrayB 0 x2  w 319b3b49  vbTest 01000000 01000000  w3 00000002 00000001
+   LOD VB 0 x60  w4 00000001  subsections 39
+   sub0: pre 00000001 00000003  'body' itype 6 lod 1 (3) idx 2143 x2 max 1070 restarts 146
+   sub1: pre 00000001 00000003  'head_light' itype 6 lod 1 (3) idx 254 x2 max 1234 restarts 15
+   sub2: pre 00000001 00000003  'misc' itype 6 lod 1 (3) idx 142 x2 max 1323 restarts 30
+   sub3: pre 00000001 00000003  'frame' itype 6 lod 1 (3) idx 211 x2 max 1448 restarts 30
+   sub4: pre 00000001 00000003  'black' itype 6 lod 1 (3) idx 38 x2 max 1478 restarts 3
+   sub5: pre 00000001 00000003  'grille2' itype 6 lod 1 (3) idx 58 x2 max 1528 restarts 4
+   sub6: pre 00000001 00000003  'badge' itype 6 lod 1 (3) idx 7 x2 max 1534 restarts 0
+   sub7: pre 00000001 00000003  'detail_glass_amber' itype 6 lod 1 (3) idx 92 x2 max 1584 restarts 5
+   sub8: pre 00000001 00000003  'emblem' itype 6 lod 1 (3) idx 326 x2 max 1749 restarts 22
+   sub9: pre 00000001 00000003  'body' itype 6 lod 2 (3) idx 1264 x2 max 2231 restarts 87
+   sub10: pre 00000001 00000003  'misc' itype 6 lod 2 (3) idx 70 x2 max 1323 restarts 5
+   sub11: pre 00000001 00000003  'frame' itype 6 lod 2 (3) idx 152 x2 max 2266 restarts 10
+   sub12: pre 00000001 00000003  'black' itype 6 lod 2 (3) idx 34 x2 max 1478 restarts 1
+   sub13: pre 00000001 00000003  'grille2' itype 6 lod 2 (3) idx 52 x2 max 2311 restarts 3
+   sub14: pre 00000001 00000003  'head_light' itype 6 lod 2 (3) idx 49 x2 max 2338 restarts 1
+   sub15: pre 00000001 00000003  'detail_glass_amber' itype 6 lod 2 (3) idx 91 x2 max 2339 restarts 5
+   sub16: pre 00000001 00000003  'badge' itype 6 lod 2 (3) idx 7 x2 max 2345 restarts 0
+   sub17: pre 00000001 00000003  'body' itype 6 lod 3 (3) idx 919 x2 max 2346 restarts 61
+   sub18: pre 00000001 00000003  'misc' itype 6 lod 3 (3) idx 56 x2 max 1323 restarts 3
+   sub19: pre 00000001 00000003  'frame' itype 6 lod 3 (3) idx 125 x2 max 2266 restarts 10
+   sub20: pre 00000001 00000003  'black' itype 6 lod 3 (3) idx 32 x2 max 2266 restarts 1
+   sub21: pre 00000001 00000003  'grille2' itype 6 lod 3 (3) idx 52 x2 max 2389 restarts 3
+   sub22: pre 00000001 00000003  'badge' itype 6 lod 3 (3) idx 7 x2 max 2345 restarts 0
+   sub23: pre 00000001 00000003  'head_light' itype 6 lod 3 (3) idx 47 x2 max 2391 restarts 1
+   sub24: pre 00000001 00000003  'detail_glass_amber' itype 6 lod 3 (3) idx 60 x2 max 2392 restarts 4
+   sub25: pre 00000001 00000003  'body' itype 6 lod 4 (3) idx 693 x2 max 2394 restarts 45
+   sub26: pre 00000001 00000003  'misc' itype 6 lod 4 (3) idx 59 x2 max 1323 restarts 4
+   sub27: pre 00000001 00000003  'frame' itype 6 lod 4 (3) idx 91 x2 max 2266 restarts 7
+   sub28: pre 00000001 00000003  'black' itype 6 lod 4 (3) idx 21 x2 max 2266 restarts 1
+   sub29: pre 00000001 00000003  'grille2' itype 6 lod 4 (3) idx 46 x2 max 2435 restarts 2
+   sub30: pre 00000001 00000003  'detail_glass_amber' itype 6 lod 4 (3) idx 103 x2 max 2392 restarts 7
+   sub31: pre 00000001 00000003  'head_light' itype 6 lod 4 (3) idx 81 x2 max 2391 restarts 3
+   sub32: pre 00000001 00000003  'badge' itype 6 lod 4 (3) idx 7 x2 max 2345 restarts 0
+   sub33: pre 00000001 00000003  'body' itype 6 lod 5 (3) idx 527 x2 max 2440 restarts 36
+   sub34: pre 00000001 00000003  'frame' itype 6 lod 5 (3) idx 77 x2 max 2442 restarts 7
+   sub35: pre 00000001 00000003  'black' itype 6 lod 5 (3) idx 21 x2 max 2266 restarts 1
+   sub36: pre 00000001 00000003  'grille2' itype 6 lod 5 (3) idx 46 x2 max 2477 restarts 3
+   sub37: pre 00000001 00000003  'head_light' itype 6 lod 5 (3) idx 31 x2 max 2478 restarts 1
+   sub38: pre 00000001 00000003  'detail_glass_amber' itype 6 lod 5 (3) idx 46 x2 max 2392 restarts 3
+   (uses shared glass VB)
+
+[47] 05232C 'bumperFg' marker 2C9  offset -0.00002 0.22888 -1.90922  min -0.87479 -0.24127 -0.34355  max 0.87479 0.24127 0.34355
+   1c: 3f800000 bcdff349 3cd4d628 bdc97200 00000000 00000001 00000001
+       f: 1 -0.02734 0.02598 -0.09836 0 0 0
+   arrayA 0 x16  w 00000001  arrayB 0 x2  w 6662706d  vbTest 00000000 01000000  w3 00000002 00000001
+   LOD VB 0 x60  w4 00000001  subsections 35
+   sub0: pre 00000001 00000003  'body' itype 6 lod 1 (3) idx 2538 x2 max 1344 restarts 196
+   sub1: pre 00000001 00000003  'reflector' itype 6 lod 1 (3) idx 126 x2 max 1416 restarts 11
+   sub2: pre 00000001 00000003  'plastic2' itype 6 lod 1 (3) idx 111 x2 max 1483 restarts 13
+   sub3: pre 00000001 00000003  'grille2' itype 6 lod 1 (3) idx 86 x2 max 1528 restarts 17
+   sub4: pre 00000001 00000003  'frame' itype 6 lod 1 (3) idx 181 x2 max 1639 restarts 33
+   sub5: pre 00000001 00000003  'black' itype 6 lod 1 (3) idx 29 x2 max 1660 restarts 3
+   sub6: pre 00000001 00000003  'badge' itype 6 lod 1 (3) idx 7 x2 max 1666 restarts 0
+   sub7: pre 00000001 00000003  'emblem' itype 6 lod 1 (3) idx 326 x2 max 1831 restarts 22
+   sub8: pre 00000001 00000003  'body' itype 6 lod 2 (3) idx 1161 x2 max 2328 restarts 74
+   sub9: pre 00000001 00000003  'reflector' itype 6 lod 2 (3) idx 126 x2 max 2400 restarts 11
+   sub10: pre 00000001 00000003  'plastic2' itype 6 lod 2 (3) idx 45 x2 max 1483 restarts 3
+   sub11: pre 00000001 00000003  'grille2' itype 6 lod 2 (3) idx 35 x2 max 2426 restarts 1
+   sub12: pre 00000001 00000003  'frame' itype 6 lod 2 (3) idx 106 x2 max 2460 restarts 7
+   sub13: pre 00000001 00000003  'black' itype 6 lod 2 (3) idx 24 x2 max 1660 restarts 1
+   sub14: pre 00000001 00000003  'badge' itype 6 lod 2 (3) idx 7 x2 max 2466 restarts 0
+   sub15: pre 00000001 00000003  'body' itype 6 lod 3 (3) idx 845 x2 max 2468 restarts 59
+   sub16: pre 00000001 00000003  'reflector' itype 6 lod 3 (3) idx 110 x2 max 2501 restarts 9
+   sub17: pre 00000001 00000003  'grille2' itype 6 lod 3 (3) idx 35 x2 max 2524 restarts 2
+   sub18: pre 00000001 00000003  'plastic2' itype 6 lod 3 (3) idx 39 x2 max 1483 restarts 3
+   sub19: pre 00000001 00000003  'frame' itype 6 lod 3 (3) idx 79 x2 max 2458 restarts 8
+   sub20: pre 00000001 00000003  'black' itype 6 lod 3 (3) idx 26 x2 max 2450 restarts 1
+   sub21: pre 00000001 00000003  'badge' itype 6 lod 3 (3) idx 7 x2 max 2466 restarts 0
+   sub22: pre 00000001 00000003  'body' itype 6 lod 4 (3) idx 690 x2 max 2525 restarts 51
+   sub23: pre 00000001 00000003  'reflector' itype 6 lod 4 (3) idx 34 x2 max 2527 restarts 3
+   sub24: pre 00000001 00000003  'plastic2' itype 6 lod 4 (3) idx 26 x2 max 1483 restarts 2
+   sub25: pre 00000001 00000003  'grille2' itype 6 lod 4 (3) idx 19 x2 max 2541 restarts 1
+   sub26: pre 00000001 00000003  'frame' itype 6 lod 4 (3) idx 70 x2 max 2454 restarts 7
+   sub27: pre 00000001 00000003  'black' itype 6 lod 4 (3) idx 26 x2 max 2450 restarts 1
+   sub28: pre 00000001 00000003  'badge' itype 6 lod 4 (3) idx 7 x2 max 2466 restarts 0
+   sub29: pre 00000001 00000003  'body' itype 6 lod 5 (3) idx 517 x2 max 2548 restarts 41
+   sub30: pre 00000001 00000003  'reflector' itype 6 lod 5 (3) idx 19 x2 max 2553 restarts 1
+   sub31: pre 00000001 00000003  'plastic2' itype 6 lod 5 (3) idx 20 x2 max 1483 restarts 2
+   sub32: pre 00000001 00000003  'grille2' itype 6 lod 5 (3) idx 19 x2 max 2567 restarts 1
+   sub33: pre 00000001 00000003  'frame' itype 6 lod 5 (3) idx 68 x2 max 2454 restarts 9
+   sub34: pre 00000001 00000003  'black' itype 6 lod 5 (3) idx 19 x2 max 2571 restarts 1
+   (uses shared body VB)
+
+[48] 05641F 'bumperFc' marker 2C9  offset 0 0.23255 -1.91008  min -0.87478 -0.24038 -0.34441  max 0.87478 0.24038 0.34441
+   1c: 3f800000 3c16cc6c 3c1e7930 bdb54770 00000000 00000001 00000001
+       f: 1 0.0092 0.00967 -0.08852 0 0 0
+   arrayA 0 x16  w 00000001  arrayB 0 x2  w 706e79e8  vbTest 00000000 01000000  w3 00000002 00000001
+   LOD VB 0 x60  w4 00000001  subsections 35
+   sub0: pre 00000001 00000003  'body' itype 6 lod 1 (3) idx 2580 x2 max 1194 restarts 181
+   sub1: pre 00000001 00000003  'plastic2' itype 6 lod 1 (3) idx 225 x2 max 1313 restarts 23
+   sub2: pre 00000001 00000003  'frame' itype 6 lod 1 (3) idx 213 x2 max 1451 restarts 41
+   sub3: pre 00000001 00000003  'black' itype 6 lod 1 (3) idx 35 x2 max 1479 restarts 3
+   sub4: pre 00000001 00000003  'badge' itype 6 lod 1 (3) idx 7 x2 max 1485 restarts 0
+   sub5: pre 00000001 00000003  'emblem' itype 6 lod 1 (3) idx 306 x2 max 1647 restarts 24
+   sub6: pre 00000001 00000003  'reflector' itype 6 lod 1 (3) idx 34 x2 max 1675 restarts 1
+   sub7: pre 00000001 00000003  'matte_colors' itype 6 lod 1 (3) idx 100 x2 max 1745 restarts 9
+   sub8: pre 00000001 00000003  'body' itype 6 lod 2 (3) idx 1172 x2 max 2236 restarts 73
+   sub9: pre 00000001 00000003  'plastic2' itype 6 lod 2 (3) idx 76 x2 max 1313 restarts 6
+   sub10: pre 00000001 00000003  'frame' itype 6 lod 2 (3) idx 134 x2 max 2274 restarts 12
+   sub11: pre 00000001 00000003  'black' itype 6 lod 2 (3) idx 30 x2 max 1478 restarts 1
+   sub12: pre 00000001 00000003  'reflector' itype 6 lod 2 (3) idx 34 x2 max 2282 restarts 1
+   sub13: pre 00000001 00000003  'matte_colors' itype 6 lod 2 (3) idx 87 x2 max 1744 restarts 5
+   sub14: pre 00000001 00000003  'badge' itype 6 lod 2 (3) idx 7 x2 max 2288 restarts 0
+   sub15: pre 00000001 00000003  'body' itype 6 lod 3 (3) idx 797 x2 max 2289 restarts 64
+   sub16: pre 00000001 00000003  'plastic2' itype 6 lod 3 (3) idx 60 x2 max 1313 restarts 4
+   sub17: pre 00000001 00000003  'frame' itype 6 lod 3 (3) idx 118 x2 max 2354 restarts 10
+   sub18: pre 00000001 00000003  'black' itype 6 lod 3 (3) idx 30 x2 max 2356 restarts 1
+   sub19: pre 00000001 00000003  'reflector' itype 6 lod 3 (3) idx 30 x2 max 2360 restarts 1
+   sub20: pre 00000001 00000003  'matte_colors' itype 6 lod 3 (3) idx 83 x2 max 1744 restarts 5
+   sub21: pre 00000001 00000003  'badge' itype 6 lod 3 (3) idx 7 x2 max 2288 restarts 0
+   sub22: pre 00000001 00000003  'body' itype 6 lod 4 (3) idx 586 x2 max 2364 restarts 44
+   sub23: pre 00000001 00000003  'plastic2' itype 6 lod 4 (3) idx 46 x2 max 2365 restarts 4
+   sub24: pre 00000001 00000003  'frame' itype 6 lod 4 (3) idx 95 x2 max 2389 restarts 9
+   sub25: pre 00000001 00000003  'black' itype 6 lod 4 (3) idx 19 x2 max 2356 restarts 1
+   sub26: pre 00000001 00000003  'reflector' itype 6 lod 4 (3) idx 18 x2 max 1674 restarts 1
+   sub27: pre 00000001 00000003  'matte_colors' itype 6 lod 4 (3) idx 72 x2 max 1744 restarts 5
+   sub28: pre 00000001 00000003  'badge' itype 6 lod 4 (3) idx 7 x2 max 2288 restarts 0
+   sub29: pre 00000001 00000003  'body' itype 6 lod 5 (3) idx 438 x2 max 2391 restarts 44
+   sub30: pre 00000001 00000003  'plastic2' itype 6 lod 5 (3) idx 35 x2 max 1306 restarts 4
+   sub31: pre 00000001 00000003  'frame' itype 6 lod 5 (3) idx 83 x2 max 2420 restarts 6
+   sub32: pre 00000001 00000003  'black' itype 6 lod 5 (3) idx 19 x2 max 2426 restarts 1
+   sub33: pre 00000001 00000003  'reflector' itype 6 lod 5 (3) idx 9 x2 max 2358 restarts 1
+   sub34: pre 00000001 00000003  'matte_colors' itype 6 lod 5 (3) idx 56 x2 max 1743 restarts 3
+   (uses shared body VB)
+
+[49] 05A5AD 'bumperFi' marker 2C9  offset 0 0.19499 -1.91171  min -0.88727 -0.27516 -0.34604  max 0.88727 0.27516 0.34604
+   1c: 3f800000 bc1a617e 3cd259b8 bdcd42a0 00000000 00000001 00000001
+       f: 1 -0.00942 0.02568 -0.10022 0 0 0
+   arrayA 0 x16  w 00000001  arrayB 0 x2  w 79e98489  vbTest 00000000 01000000  w3 00000002 00000001
+   LOD VB 0 x60  w4 00000001  subsections 35
+   sub0: pre 00000001 00000003  'body' itype 6 lod 1 (3) idx 2997 x2 max 1372 restarts 232
+   sub1: pre 00000001 00000003  'grille2' itype 6 lod 1 (3) idx 48 x2 max 1404 restarts 6
+   sub2: pre 00000001 00000003  'black' itype 6 lod 1 (3) idx 31 x2 max 1428 restarts 3
+   sub3: pre 00000001 00000003  'reflector' itype 6 lod 1 (3) idx 257 x2 max 1604 restarts 21
+   sub4: pre 00000001 00000003  'plastic2' itype 6 lod 1 (3) idx 45 x2 max 1634 restarts 4
+   sub5: pre 00000001 00000003  'frame' itype 6 lod 1 (3) idx 153 x2 max 1734 restarts 18
+   sub6: pre 00000001 00000003  'badge' itype 6 lod 1 (3) idx 7 x2 max 1740 restarts 0
+   sub7: pre 00000001 00000003  'emblem' itype 6 lod 1 (3) idx 327 x2 max 1903 restarts 22
+   sub8: pre 00000001 00000003  'body' itype 6 lod 2 (3) idx 1133 x2 max 2451 restarts 79
+   sub9: pre 00000001 00000003  'grille2' itype 6 lod 2 (3) idx 22 x2 max 2471 restarts 1
+   sub10: pre 00000001 00000003  'reflector' itype 6 lod 2 (3) idx 173 x2 max 2559 restarts 13
+   sub11: pre 00000001 00000003  'plastic2' itype 6 lod 2 (3) idx 30 x2 max 2561 restarts 2
+   sub12: pre 00000001 00000003  'frame' itype 6 lod 2 (3) idx 105 x2 max 2596 restarts 7
+   sub13: pre 00000001 00000003  'black' itype 6 lod 2 (3) idx 23 x2 max 2582 restarts 1
+   sub14: pre 00000001 00000003  'badge' itype 6 lod 2 (3) idx 7 x2 max 2602 restarts 0
+   sub15: pre 00000001 00000003  'body' itype 6 lod 3 (3) idx 934 x2 max 2611 restarts 66
+   sub16: pre 00000001 00000003  'grille2' itype 6 lod 3 (3) idx 22 x2 max 2629 restarts 1
+   sub17: pre 00000001 00000003  'reflector' itype 6 lod 3 (3) idx 93 x2 max 2640 restarts 8
+   sub18: pre 00000001 00000003  'plastic2' itype 6 lod 3 (3) idx 23 x2 max 2561 restarts 2
+   sub19: pre 00000001 00000003  'frame' itype 6 lod 3 (3) idx 74 x2 max 2596 restarts 7
+   sub20: pre 00000001 00000003  'black' itype 6 lod 3 (3) idx 19 x2 max 2582 restarts 1
+   sub21: pre 00000001 00000003  'badge' itype 6 lod 3 (3) idx 7 x2 max 2602 restarts 0
+   sub22: pre 00000001 00000003  'body' itype 6 lod 4 (3) idx 698 x2 max 2648 restarts 53
+   sub23: pre 00000001 00000003  'grille2' itype 6 lod 4 (3) idx 15 x2 max 2662 restarts 1
+   sub24: pre 00000001 00000003  'reflector' itype 6 lod 4 (3) idx 46 x2 max 2679 restarts 3
+   sub25: pre 00000001 00000003  'plastic2' itype 6 lod 4 (3) idx 19 x2 max 2561 restarts 2
+   sub26: pre 00000001 00000003  'frame' itype 6 lod 4 (3) idx 63 x2 max 2596 restarts 6
+   sub27: pre 00000001 00000003  'black' itype 6 lod 4 (3) idx 15 x2 max 2582 restarts 1
+   sub28: pre 00000001 00000003  'badge' itype 6 lod 4 (3) idx 7 x2 max 2602 restarts 0
+   sub29: pre 00000001 00000003  'body' itype 6 lod 5 (3) idx 548 x2 max 2692 restarts 52
+   sub30: pre 00000001 00000003  'grille2' itype 6 lod 5 (3) idx 14 x2 max 2704 restarts 1
+   sub31: pre 00000001 00000003  'reflector' itype 6 lod 5 (3) idx 22 x2 max 2718 restarts 3
+   sub32: pre 00000001 00000003  'plastic2' itype 6 lod 5 (3) idx 17 x2 max 2561 restarts 2
+   sub33: pre 00000001 00000003  'frame' itype 6 lod 5 (3) idx 58 x2 max 2596 restarts 4
+   sub34: pre 00000001 00000003  'black' itype 6 lod 5 (3) idx 14 x2 max 2720 restarts 1
+   (uses shared body VB)
+
+[50] 05EA66 'bumperFa' marker 2C9  offset 0 0.21562 -1.91176  min -0.87478 -0.25454 -0.34609  max 0.87478 0.25454 0.34609
+   1c: 3f800000 bb6de791 3ced7878 bdf63a20 00000000 00000001 00000001
+       f: 1 -0.00363 0.02899 -0.12023 0 0 0
+   arrayA 0 x16  w 00000001  arrayB 0 x2  w 848a8d4f  vbTest 00000000 01000000  w3 00000002 00000001
+   LOD VB 0 x60  w4 00000001  subsections 34
+   sub0: pre 00000001 00000003  'body' itype 6 lod 1 (3) idx 1764 x2 max 871 restarts 151
+   sub1: pre 00000001 00000003  'matte_colors' itype 6 lod 1 (3) idx 267 x2 max 1020 restarts 24
+   sub2: pre 00000001 00000003  'grille2' itype 6 lod 1 (3) idx 61 x2 max 1057 restarts 5
+   sub3: pre 00000001 00000003  'frame' itype 6 lod 1 (3) idx 241 x2 max 1203 restarts 36
+   sub4: pre 00000001 00000003  'black' itype 6 lod 1 (3) idx 47 x2 max 1231 restarts 3
+   sub5: pre 00000001 00000003  'badge' itype 6 lod 1 (3) idx 7 x2 max 1237 restarts 0
+   sub6: pre 00000001 00000003  'emblem' itype 6 lod 1 (3) idx 327 x2 max 1392 restarts 22
+   sub7: pre 00000001 00000003  'reflector' itype 6 lod 1 (3) idx 327 x2 max 1584 restarts 28
+   sub8: pre 00000001 00000003  'body' itype 6 lod 2 (3) idx 1126 x2 max 2008 restarts 67
+   sub9: pre 00000001 00000003  'matte_colors' itype 6 lod 2 (3) idx 217 x2 max 2028 restarts 29
+   sub10: pre 00000001 00000003  'frame' itype 6 lod 2 (3) idx 157 x2 max 2063 restarts 12
+   sub11: pre 00000001 00000003  'black' itype 6 lod 2 (3) idx 27 x2 max 1231 restarts 1
+   sub12: pre 00000001 00000003  'badge' itype 6 lod 2 (3) idx 7 x2 max 2069 restarts 0
+   sub13: pre 00000001 00000003  'grille2' itype 6 lod 2 (3) idx 45 x2 max 1057 restarts 5
+   sub14: pre 00000001 00000003  'reflector' itype 6 lod 2 (3) idx 246 x2 max 1584 restarts 20
+   sub15: pre 00000001 00000003  'body' itype 6 lod 3 (3) idx 809 x2 max 2079 restarts 51
+   sub16: pre 00000001 00000003  'matte_colors' itype 6 lod 3 (3) idx 152 x2 max 2080 restarts 8
+   sub17: pre 00000001 00000003  'black' itype 6 lod 3 (3) idx 40 x2 max 2088 restarts 4
+   sub18: pre 00000001 00000003  'frame' itype 6 lod 3 (3) idx 118 x2 max 2090 restarts 10
+   sub19: pre 00000001 00000003  'badge' itype 6 lod 3 (3) idx 7 x2 max 2069 restarts 0
+   sub20: pre 00000001 00000003  'reflector' itype 6 lod 3 (3) idx 208 x2 max 1584 restarts 16
+   sub21: pre 00000001 00000003  'grille2' itype 6 lod 3 (3) idx 30 x2 max 1057 restarts 1
+   sub22: pre 00000001 00000003  'body' itype 6 lod 4 (3) idx 610 x2 max 2098 restarts 38
+   sub23: pre 00000001 00000003  'matte_colors' itype 6 lod 4 (3) idx 89 x2 max 2114 restarts 6
+   sub24: pre 00000001 00000003  'frame' itype 6 lod 4 (3) idx 117 x2 max 2090 restarts 10
+   sub25: pre 00000001 00000003  'black' itype 6 lod 4 (3) idx 23 x2 max 2087 restarts 1
+   sub26: pre 00000001 00000003  'reflector' itype 6 lod 4 (3) idx 174 x2 max 1582 restarts 15
+   sub27: pre 00000001 00000003  'grille2' itype 6 lod 4 (3) idx 24 x2 max 1057 restarts 1
+   sub28: pre 00000001 00000003  'body' itype 6 lod 5 (3) idx 344 x2 max 2240 restarts 23
+   sub29: pre 00000001 00000003  'matte_colors' itype 6 lod 5 (3) idx 30 x2 max 2244 restarts 1
+   sub30: pre 00000001 00000003  'frame' itype 6 lod 5 (3) idx 108 x2 max 2245 restarts 10
+   sub31: pre 00000001 00000003  'black' itype 6 lod 5 (3) idx 23 x2 max 2087 restarts 1
+   sub32: pre 00000001 00000003  'reflector' itype 6 lod 5 (3) idx 112 x2 max 1582 restarts 11
+   sub33: pre 00000001 00000003  'grille2' itype 6 lod 5 (3) idx 16 x2 max 1057 restarts 1
+   (uses shared body VB)
+
+[51] 062DC2 'bumperFrace' marker 2C9  offset 0 0.21294 -1.97344  min -0.8863 -0.25721 -0.40776  max 0.8863 0.25721 0.40776
+   1c: 3f800000 bc47122e bc658690 bd0556c0 00000000 00000001 00000001
+       f: 1 -0.01215 -0.01401 -0.03255 0 0 0
+   arrayA 0 x16  w 00000001  arrayB 0 x2  w 8d50999d  vbTest 00000000 01000000  w3 00000002 00000001
+   LOD VB 0 x60  w4 00000001  subsections 45
+   sub0: pre 00000001 00000003  'body' itype 6 lod 1 (3) idx 1788 x2 max 877 restarts 160
+   sub1: pre 00000001 00000003  'matte_colors' itype 6 lod 1 (3) idx 309 x2 max 1028 restarts 45
+   sub2: pre 00000001 00000003  'grille2' itype 6 lod 1 (3) idx 61 x2 max 1065 restarts 5
+   sub3: pre 00000001 00000003  'frame' itype 6 lod 1 (3) idx 241 x2 max 1211 restarts 36
+   sub4: pre 00000001 00000003  'black' itype 6 lod 1 (3) idx 47 x2 max 1239 restarts 3
+   sub5: pre 00000001 00000003  'badge' itype 6 lod 1 (3) idx 7 x2 max 1245 restarts 0
+   sub6: pre 00000001 00000003  'emblem' itype 6 lod 1 (3) idx 326 x2 max 1411 restarts 22
+   sub7: pre 00000001 00000003  'reflector' itype 6 lod 1 (3) idx 327 x2 max 1603 restarts 28
+   sub8: pre 00000001 00000003  'carbon_fiber' itype 6 lod 1 (3) idx 559 x2 max 2016 restarts 72
+   sub9: pre 00000001 00000003  'race_kit_red' itype 6 lod 1 (3) idx 116 x2 max 2092 restarts 8
+   sub10: pre 00000001 00000003  'chrome' itype 6 lod 1 (3) idx 116 x2 max 2180 restarts 19
+   sub11: pre 00000001 00000003  'body' itype 6 lod 2 (3) idx 1126 x2 max 2604 restarts 67
+   sub12: pre 00000001 00000003  'matte_colors' itype 6 lod 2 (3) idx 217 x2 max 2624 restarts 29
+   sub13: pre 00000001 00000003  'frame' itype 6 lod 2 (3) idx 157 x2 max 2659 restarts 12
+   sub14: pre 00000001 00000003  'black' itype 6 lod 2 (3) idx 27 x2 max 1239 restarts 1
+   sub15: pre 00000001 00000003  'badge' itype 6 lod 2 (3) idx 7 x2 max 2665 restarts 0
+   sub16: pre 00000001 00000003  'grille2' itype 6 lod 2 (3) idx 45 x2 max 1065 restarts 5
+   sub17: pre 00000001 00000003  'reflector' itype 6 lod 2 (3) idx 246 x2 max 1603 restarts 20
+   sub18: pre 00000001 00000003  'carbon_fiber' itype 6 lod 2 (3) idx 321 x2 max 2889 restarts 25
+   sub19: pre 00000001 00000003  'race_kit_red' itype 6 lod 2 (3) idx 88 x2 max 2092 restarts 10
+   sub20: pre 00000001 00000003  'chrome' itype 6 lod 2 (3) idx 100 x2 max 2179 restarts 13
+   sub21: pre 00000001 00000003  'body' itype 6 lod 3 (3) idx 809 x2 max 2899 restarts 51
+   sub22: pre 00000001 00000003  'matte_colors' itype 6 lod 3 (3) idx 152 x2 max 2900 restarts 8
+   sub23: pre 00000001 00000003  'black' itype 6 lod 3 (3) idx 40 x2 max 2908 restarts 4
+   sub24: pre 00000001 00000003  'frame' itype 6 lod 3 (3) idx 118 x2 max 2910 restarts 10
+   sub25: pre 00000001 00000003  'badge' itype 6 lod 3 (3) idx 7 x2 max 2665 restarts 0
+   sub26: pre 00000001 00000003  'reflector' itype 6 lod 3 (3) idx 208 x2 max 1603 restarts 16
+   sub27: pre 00000001 00000003  'grille2' itype 6 lod 3 (3) idx 30 x2 max 1065 restarts 1
+   sub28: pre 00000001 00000003  'carbon_fiber' itype 6 lod 3 (3) idx 306 x2 max 2889 restarts 25
+   sub29: pre 00000001 00000003  'race_kit_red' itype 6 lod 3 (3) idx 52 x2 max 2092 restarts 4
+   sub30: pre 00000001 00000003  'chrome' itype 6 lod 3 (3) idx 100 x2 max 2179 restarts 13
+   sub31: pre 00000001 00000003  'body' itype 6 lod 4 (3) idx 610 x2 max 2918 restarts 38
+   sub32: pre 00000001 00000003  'matte_colors' itype 6 lod 4 (3) idx 89 x2 max 2934 restarts 6
+   sub33: pre 00000001 00000003  'frame' itype 6 lod 4 (3) idx 117 x2 max 2910 restarts 10
+   sub34: pre 00000001 00000003  'black' itype 6 lod 4 (3) idx 23 x2 max 2907 restarts 1
+   sub35: pre 00000001 00000003  'reflector' itype 6 lod 4 (3) idx 174 x2 max 1601 restarts 15
+   sub36: pre 00000001 00000003  'grille2' itype 6 lod 4 (3) idx 24 x2 max 1065 restarts 1
+   sub37: pre 00000001 00000003  'carbon_fiber' itype 6 lod 4 (3) idx 306 x2 max 2889 restarts 25
+   sub38: pre 00000001 00000003  'body' itype 6 lod 5 (3) idx 344 x2 max 3060 restarts 23
+   sub39: pre 00000001 00000003  'matte_colors' itype 6 lod 5 (3) idx 30 x2 max 3064 restarts 1
+   sub40: pre 00000001 00000003  'frame' itype 6 lod 5 (3) idx 108 x2 max 3065 restarts 10
+   sub41: pre 00000001 00000003  'black' itype 6 lod 5 (3) idx 23 x2 max 2907 restarts 1
+   sub42: pre 00000001 00000003  'reflector' itype 6 lod 5 (3) idx 112 x2 max 1601 restarts 11
+   sub43: pre 00000001 00000003  'grille2' itype 6 lod 5 (3) idx 16 x2 max 1065 restarts 1
+   sub44: pre 00000001 00000003  'carbon_fiber' itype 6 lod 5 (3) idx 119 x2 max 3149 restarts 11
+   (uses shared body VB)
+
+68483 after sections: 00000002 00000001
+glass VB 15178 x60 w 000decaf at 68497
+   half pos*w bounds -0.90527..0.90527 -0.57876..0.57848 -2.09468..2.09366
+     v0: bbaaafe9 3425336f 84b8800c 00000000 7a889fbe 8103b800 fa80f76a 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000
+     v1: bb91b198 345e336c 84e08016 00000000 7d85c803 8103b7fe fc80d768 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000
+     v2: bb982460 3507319c 844a80ab 00000000 784a8832 81037fd9 00bdd76d 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000
+1469EF next 12: 000decaf 00000002 00000001
+body VB 39326 x60 w 000decaf at 146A07
+   half pos*w bounds -0.91252..0.91252 -0.52366..0.52349 -1.27443..1.27443
+     v0: 38c63a47 316b34eb 8334803d 00000000 6dcb7174 80836ff3 f0c4f815 4697e4a1 4977e3ea 07b8e923 1bbce95b 02930032 0246fee6 fee6fde1 0050fcd2
+     v1: 38f23a1a 321834c9 83348040 00000000 58d209c7 80836ff2 08be9fb3 45f7da04 4176defa 0bf8e0a6 0faee6d7 00aeffa4 0479fd0b fa04fe17 fda4fc48
+     v2: 38fb3a17 31d634d0 83358040 00000000 55d1a1f7 80836ff1 0afe7f98 45a2dae1 402adbd9 0d09e194 0e16e48d 0224ffde 0515fd2f f97cfe04 fe28fc30
+386B0F remaining 4 bytes: 000decaf
